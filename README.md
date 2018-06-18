@@ -37,7 +37,15 @@ are included.
 </clause>
 ```
 
-* This is an example of the first clause in John 1 in this format:
+* This is an example of the first clause in John 1:
+
+	* Clause display
+	![](John-c1_1.png)
+
+	* Word group display
+	![](John-c1_1_wg.png)
+
+* This is the XML for the combined format:
 
 ```
 <chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="John" num="1">
