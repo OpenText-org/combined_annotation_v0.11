@@ -40,9 +40,11 @@ are included.
 * This is an example of the first clause in John 1:
 
 	* Clause display
+
 	![](John-c1_1.png)
 
 	* Word group display
+
 	![](John-c1_1_wg.png)
 
 * This is the XML for the combined format:
