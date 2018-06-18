@@ -4,6 +4,11 @@
 the original annotation XML (1. base, 2. word group and 3. clause) into a single XML file for each chapter of 
 the New Testament.
 
+* The goal of this format is to make querying of the annotation more straight forward using XPath/XQuery while maininting
+the stand-off annotation and avoiding the difficulties of merging the three levels into a single hierarchy.
+
+### Details
+
 * The **clause** is the organizing unit and within each `<clause>` element the annotation from the three levels
 are included. 
 	* The `<w>` (word) elements from the base annotation contained in the clause are included as children of the
