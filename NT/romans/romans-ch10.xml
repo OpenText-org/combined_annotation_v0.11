@@ -1,0 +1,6347 @@
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Rom" num="10">
+  <clause xml:id="NT.Rom.10_c1" level="primary" structure="add-S-(conj)-A">
+    <clause_level>
+      <add>
+        <w ref="NT.Rom.w4270"/>
+      </add>
+      <S>
+        <w ref="NT.Rom.w4271"/>
+        <conj type="embed" parent="NT.Rom.10_c1">
+          <w ref="NT.Rom.w4272"/>
+        </conj>
+        <w ref="NT.Rom.w4273"/>
+        <w ref="NT.Rom.w4274"/>
+        <w ref="NT.Rom.w4275"/>
+        <w ref="NT.Rom.w4276"/>
+        <w ref="NT.Rom.w4277"/>
+        <w ref="NT.Rom.w4278"/>
+        <w ref="NT.Rom.w4279"/>
+        <w ref="NT.Rom.w4280"/>
+        <w ref="NT.Rom.w4281"/>
+        <w ref="NT.Rom.w4282"/>
+        <w ref="NT.Rom.w4283"/>
+        <w ref="NT.Rom.w4284"/>
+      </S>
+      <A>
+        <w ref="NT.Rom.w4285"/>
+        <w ref="NT.Rom.w4286"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg1">
+        <head>
+          <w ref="NT.Rom.w4270"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg2">
+        <head>
+          <w ref="NT.Rom.w4272"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg3">
+        <head>
+          <w ref="NT.Rom.w4273">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4271"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4276">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Rom.w4274"/>
+                    </specifier>
+                    <definer>
+                      <w ref="NT.Rom.w4275"/>
+                    </definer>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg4">
+        <connector>
+          <w ref="NT.Rom.w4277"/>
+        </connector>
+        <head>
+          <w ref="NT.Rom.w4279">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4278"/>
+              </specifier>
+              <relator>
+                <w ref="NT.Rom.w4282">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Rom.w4280"/>
+                      <w ref="NT.Rom.w4281"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+                <w ref="NT.Rom.w4284">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Rom.w4283"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </relator>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg5">
+        <head>
+          <w ref="NT.Rom.w4286">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4285"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4270" ref="NT.Rom.10.1">
+      <pos>
+        <NON num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="a)delfo/s" lex="ἀδελφός"></wf>
+      <sem>
+        <domain majorNum="10" primarydomain="rkt" subNum="49" select="1"/>
+        <domain majorNum="11" subNum="23 25 57 89"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4271" ref="NT.Rom.10.1">
+      <pos>
+        <ART num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4272" ref="NT.Rom.10.1">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="me/n" lex="μέν"></wf>
+      <sem>
+        <domain majorNum="91" subNum="3 6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4273" ref="NT.Rom.10.1">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="eu)doki/a" lex="εὐδοκία"></wf>
+      <sem>
+        <domain majorNum="25" subNum="88 8"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4274" ref="NT.Rom.10.1">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4275" ref="NT.Rom.10.1">
+      <pos>
+        <ADJ num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="e)mo/s" lex="ἐμός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="2"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4276" ref="NT.Rom.10.1">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="kardi/a" lex="καρδία"></wf>
+      <sem>
+        <domain majorNum="26" primarydomain="rkt" subNum="3" select="1"/>
+        <domain majorNum="83" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4277" ref="NT.Rom.10.1">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4278" ref="NT.Rom.10.1">
+      <pos>
+        <ART num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4279" ref="NT.Rom.10.1">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="de/hsis" lex="δέησις"></wf>
+      <sem>
+        <domain majorNum="33" subNum="171"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4280" ref="NT.Rom.10.1">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="pro/s" lex="πρός"></wf>
+      <sem>
+        <domain majorNum="84" subNum="18 23"/>
+        <domain majorNum="83" subNum="24 9"/>
+        <domain majorNum="90" subNum="58 25"/>
+        <domain majorNum="89" subNum="112 60 44 9 7"/>
+        <domain majorNum="67" subNum="162 16"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="90" subNum="20 33"/>
+        <domain majorNum="64" subNum="17"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4281" ref="NT.Rom.10.1">
+      <pos>
+        <ART num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4282" ref="NT.Rom.10.1">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4283" ref="NT.Rom.10.1">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="u(pe/r" lex="ὑπέρ"></wf>
+      <sem>
+        <domain majorNum="90" subNum="36 24"/>
+        <domain majorNum="78" subNum="29"/>
+        <domain majorNum="87" subNum="30"/>
+        <domain majorNum="89" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4284" ref="NT.Rom.10.1">
+      <pos>
+        <PRO type="int" num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" primarydomain="rkt" subNum="11 37" select="1"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4285" ref="NT.Rom.10.1">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4286" ref="NT.Rom.10.1">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="swthri/a" lex="σωτηρία"></wf>
+      <sem>
+        <domain majorNum="21" subNum="18 25 26"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c2" level="primary" connect="NT.Rom.10_c1" structure="P-conj-C">
+    <clause_level>
+      <P>
+        <w ref="NT.Rom.w4287"/>
+      </P>
+      <conj>
+        <w ref="NT.Rom.w4288"/>
+      </conj>
+      <C>
+        <w ref="NT.Rom.w4289"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg6">
+        <head>
+          <w ref="NT.Rom.w4287"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg7">
+        <head>
+          <w ref="NT.Rom.w4288"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg8">
+        <head>
+          <w ref="NT.Rom.w4289"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4287" ref="NT.Rom.10.2">
+      <pos>
+        <VBF num="sing" voc="act" per="1st" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="marture/w" lex="μαρτυρέω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="223 319"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4288" ref="NT.Rom.10.2">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4289" ref="NT.Rom.10.2">
+      <pos>
+        <PRO type="int" num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" primarydomain="rkt" subNum="11 37" select="1"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c3" level="primary" projected="yes" connect="NT.Rom.10_c2" structure="conj-C-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4290"/>
+      </conj>
+      <C>
+        <w ref="NT.Rom.w4291"/>
+        <w ref="NT.Rom.w4292"/>
+      </C>
+      <P>
+        <w ref="NT.Rom.w4293"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg9">
+        <head>
+          <w ref="NT.Rom.w4290"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg10">
+        <head>
+          <w ref="NT.Rom.w4291">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Rom.w4292"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg11">
+        <head>
+          <w ref="NT.Rom.w4293"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4290" ref="NT.Rom.10.2">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="o(/ti" lex="ὅτι"></wf>
+      <sem>
+        <domain majorNum="90" subNum="21"/>
+        <domain majorNum="89" primarydomain="rkt" subNum="33" select="1"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4291" ref="NT.Rom.10.2">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="zh=los" lex="ζῆλος"></wf>
+      <sem>
+        <domain majorNum="25" primarydomain="rkt" subNum="46" select="1"/>
+        <domain majorNum="88" subNum="162"/>
+        <domain majorNum="78" subNum="25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4292" ref="NT.Rom.10.2">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4293" ref="NT.Rom.10.2">
+      <pos>
+        <VBF num="plur" voc="act" per="3rd" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="e)/xw" lex="ἔχω"></wf>
+      <sem>
+        <domain majorNum="57" primarydomain="rkt" subNum="1" select="1"/>
+        <domain majorNum="18" subNum="6"/>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="49" subNum="13"/>
+        <domain majorNum="74" subNum="12"/>
+        <domain majorNum="90" subNum="65"/>
+        <domain majorNum="13" subNum="2"/>
+        <domain majorNum="90" subNum="51 27"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c4" level="primary" projected="yes" connect="NT.Rom.10_c3" structure="conj-A-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4294"/>
+      </conj>
+      <A>
+        <w ref="NT.Rom.w4295"/>
+      </A>
+      <A>
+        <w ref="NT.Rom.w4296"/>
+        <w ref="NT.Rom.w4297"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg12">
+        <head>
+          <w ref="NT.Rom.w4294"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg13">
+        <head>
+          <w ref="NT.Rom.w4295"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg14">
+        <head>
+          <w ref="NT.Rom.w4297">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4296"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4294" ref="NT.Rom.10.2">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+      <sem>
+        <domain majorNum="89" subNum="125 96"/>
+        <domain majorNum="91" subNum="2 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4295" ref="NT.Rom.10.2">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4296" ref="NT.Rom.10.2">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="kata/" lex="κατά"></wf>
+      <sem>
+        <domain majorNum="84" subNum="21 30 31"/>
+        <domain majorNum="83" subNum="45 12 44"/>
+        <domain majorNum="67" subNum="33 35"/>
+        <domain majorNum="90" subNum="29 31"/>
+        <domain majorNum="89" subNum="8 90 4 113"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4297" ref="NT.Rom.10.2">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="e)pi/gnwsis" lex="ἐπίγνωσις"></wf>
+      <sem>
+        <domain majorNum="28" subNum="2 18"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c5" level="primary" connect="NT.Rom.10_c2" structure="A-C-A-P">
+    <clause_level>
+      <A>
+        <clause xml:id="NT.Rom.10_c6" level="embedded" structure="P-conj-C">
+          <P>
+            <w ref="NT.Rom.w4298"/>
+          </P>
+          <conj>
+            <w ref="NT.Rom.w4299"/>
+          </conj>
+          <C>
+            <w ref="NT.Rom.w4300"/>
+            <w ref="NT.Rom.w4301"/>
+            <w ref="NT.Rom.w4302"/>
+            <w ref="NT.Rom.w4303"/>
+          </C>
+        </clause>
+        <clause xml:id="NT.Rom.10_c7" level="embedded" structure="conj-P-C">
+          <conj>
+            <w ref="NT.Rom.w4304"/>
+          </conj>
+          <P>
+            <w ref="NT.Rom.w4308"/>
+          </P>
+          <C>
+            <clause xml:id="NT.Rom.10_c8" level="embedded" structure="C-P">
+              <C>
+                <w ref="NT.Rom.w4305"/>
+                <w ref="NT.Rom.w4306"/>
+                <w ref="NT.Rom.w4307"/>
+              </C>
+              <P>
+                <w ref="NT.Rom.w4309"/>
+              </P>
+            </clause>
+          </C>
+        </clause>
+      </A>
+      <C>
+        <w ref="NT.Rom.w4310"/>
+        <w ref="NT.Rom.w4311"/>
+        <w ref="NT.Rom.w4312"/>
+        <w ref="NT.Rom.w4313"/>
+      </C>
+      <A>
+        <w ref="NT.Rom.w4314"/>
+      </A>
+      <P>
+        <w ref="NT.Rom.w4315"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg15">
+        <head>
+          <w ref="NT.Rom.w4298"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg16">
+        <head>
+          <w ref="NT.Rom.w4299"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg17">
+        <head>
+          <w ref="NT.Rom.w4303">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4300"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4302">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Rom.w4301"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg18">
+        <head>
+          <w ref="NT.Rom.w4304"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg19">
+        <head>
+          <w ref="NT.Rom.w4307">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4305"/>
+              </specifier>
+              <definer>
+                <w ref="NT.Rom.w4306"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg20">
+        <head>
+          <w ref="NT.Rom.w4308"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg21">
+        <head>
+          <w ref="NT.Rom.w4309"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg22">
+        <head>
+          <w ref="NT.Rom.w4311">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4310"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4313">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Rom.w4312"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg23">
+        <head>
+          <w ref="NT.Rom.w4314"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg24">
+        <head>
+          <w ref="NT.Rom.w4315"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4298" ref="NT.Rom.10.3">
+      <pos>
+        <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="a)gnoe/w" lex="ἀγνοέω"></wf>
+      <sem>
+        <domain majorNum="28" primarydomain="rkt" subNum="13" select="1"/>
+        <domain majorNum="30" subNum="28"/>
+        <domain majorNum="32" subNum="7"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4299" ref="NT.Rom.10.3">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4300" ref="NT.Rom.10.3">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4301" ref="NT.Rom.10.3">
+      <pos>
+        <ART num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4302" ref="NT.Rom.10.3">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4303" ref="NT.Rom.10.3">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="dikaiosu/nh" lex="δικαιοσύνη"></wf>
+      <sem>
+        <domain majorNum="88" subNum="13"/>
+        <domain majorNum="34" primarydomain="rkt" subNum="46" select="1"/>
+        <domain majorNum="53" subNum="4"/>
+        <domain majorNum="57" subNum="111"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4304" ref="NT.Rom.10.3">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4308" ref="NT.Rom.10.3">
+      <pos>
+        <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="zhte/w" lex="ζητέω"></wf>
+      <sem>
+        <domain majorNum="27" subNum="41 34"/>
+        <domain majorNum="25" subNum="9"/>
+        <domain majorNum="33" subNum="167"/>
+        <domain majorNum="68" subNum="60"/>
+        <domain majorNum="57" primarydomain="rkt" subNum="59" select="1"/>
+        <domain majorNum="13" subNum="19"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4305" ref="NT.Rom.10.3">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4306" ref="NT.Rom.10.3">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="i)/dios" lex="ἴδιος"></wf>
+      <sem>
+        <domain majorNum="57" primarydomain="rkt" subNum="4" select="1"/>
+        <domain majorNum="58" subNum="47"/>
+        <domain majorNum="92" subNum="21"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4307" ref="NT.Rom.10.3">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="dikaiosu/nh" lex="δικαιοσύνη"></wf>
+      <sem>
+        <domain majorNum="88" subNum="13"/>
+        <domain majorNum="34" primarydomain="rkt" subNum="46" select="1"/>
+        <domain majorNum="53" subNum="4"/>
+        <domain majorNum="57" subNum="111"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4309" ref="NT.Rom.10.3">
+      <pos>
+        <VBN voc="act" tf="aor"/>
+      </pos>
+      <wf betaLex="i(/sthmi" lex="ἵστημι"></wf>
+      <sem>
+        <domain majorNum="85" subNum="40"/>
+        <domain majorNum="76" primarydomain="rkt" subNum="20 21" select="1"/>
+        <domain majorNum="57" subNum="158"/>
+        <domain majorNum="30" subNum="87"/>
+        <domain majorNum="33" subNum="343"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4310" ref="NT.Rom.10.3">
+      <pos>
+        <ART num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4311" ref="NT.Rom.10.3">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="dikaiosu/nh" lex="δικαιοσύνη"></wf>
+      <sem>
+        <domain majorNum="88" subNum="13"/>
+        <domain majorNum="34" primarydomain="rkt" subNum="46" select="1"/>
+        <domain majorNum="53" subNum="4"/>
+        <domain majorNum="57" subNum="111"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4312" ref="NT.Rom.10.3">
+      <pos>
+        <ART num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4313" ref="NT.Rom.10.3">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4314" ref="NT.Rom.10.3">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4315" ref="NT.Rom.10.3">
+      <pos>
+        <VBF num="plur" voc="pas" per="3rd" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="u(pota/ssw" lex="ὑποτάσσω"></wf>
+      <sem>
+        <domain majorNum="37" subNum="31"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c9" level="primary" connect="NT.Rom.10_c5" structure="C-(conj)-S-A-C">
+    <clause_level>
+      <C>
+        <w ref="NT.Rom.w4316"/>
+        <conj type="embed" parent="NT.Rom.10_c9">
+          <w ref="NT.Rom.w4317"/>
+        </conj>
+        <w ref="NT.Rom.w4318"/>
+      </C>
+      <S>
+        <w ref="NT.Rom.w4319"/>
+      </S>
+      <A>
+        <w ref="NT.Rom.w4320"/>
+        <w ref="NT.Rom.w4321"/>
+      </A>
+      <C>
+        <clause xml:id="NT.Rom.10_c10" level="embedded" structure="P">
+          <P>
+            <w ref="NT.Rom.w4322"/>
+            <w ref="NT.Rom.w4323"/>
+            <w ref="NT.Rom.w4324"/>
+          </P>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg25">
+        <head>
+          <w ref="NT.Rom.w4316">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Rom.w4318"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg26">
+        <head>
+          <w ref="NT.Rom.w4317"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg27">
+        <head>
+          <w ref="NT.Rom.w4319"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg28">
+        <head>
+          <w ref="NT.Rom.w4321">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4320"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg29">
+        <head>
+          <w ref="NT.Rom.w4324">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4323"/>
+              </specifier>
+              <definer>
+                <w ref="NT.Rom.w4322"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4316" ref="NT.Rom.10.4">
+      <pos>
+        <NON num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="te/los" lex="τέλος"></wf>
+      <sem>
+        <domain majorNum="67" primarydomain="rkt" subNum="66" select="1"/>
+        <domain majorNum="89" subNum="40 55"/>
+        <domain majorNum="78" subNum="47"/>
+        <domain majorNum="57" subNum="179"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4317" ref="NT.Rom.10.4">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4318" ref="NT.Rom.10.4">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="no/mos" lex="νόμος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="333 55 56"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4319" ref="NT.Rom.10.4">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" primarydomain="rkt" subNum="82" select="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4320" ref="NT.Rom.10.4">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4321" ref="NT.Rom.10.4">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="dikaiosu/nh" lex="δικαιοσύνη"></wf>
+      <sem>
+        <domain majorNum="88" subNum="13"/>
+        <domain majorNum="34" primarydomain="rkt" subNum="46" select="1"/>
+        <domain majorNum="53" subNum="4"/>
+        <domain majorNum="57" subNum="111"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4322" ref="NT.Rom.10.4">
+      <pos>
+        <ADJ num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" primarydomain="rkt" subNum="23 24" select="1"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4323" ref="NT.Rom.10.4">
+      <pos>
+        <ART num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4324" ref="NT.Rom.10.4">
+      <pos>
+        <VBP num="sing" cas="dat" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="pisteu/w" lex="πιστεύω"></wf>
+      <sem>
+        <domain majorNum="31" primarydomain="rkt" subNum="35 85 102" select="1"/>
+        <domain majorNum="35" subNum="50"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c11" level="primary" connect="NT.Rom.10_c9" structure="S-conj-P-A">
+    <clause_level>
+      <S>
+        <w ref="NT.Rom.w4325"/>
+      </S>
+      <conj>
+        <w ref="NT.Rom.w4326"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4327"/>
+      </P>
+      <A>
+        <w ref="NT.Rom.w4328"/>
+        <w ref="NT.Rom.w4329"/>
+        <w ref="NT.Rom.w4330"/>
+        <w ref="NT.Rom.w4331"/>
+        <w ref="NT.Rom.w4332"/>
+        <w ref="NT.Rom.w4333"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg30">
+        <head>
+          <w ref="NT.Rom.w4325"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg31">
+        <head>
+          <w ref="NT.Rom.w4326"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg32">
+        <head>
+          <w ref="NT.Rom.w4327"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg33">
+        <head>
+          <w ref="NT.Rom.w4329">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4328"/>
+              </specifier>
+              <definer>
+                <w ref="NT.Rom.w4330">
+                  <modifiers>
+                    <relator>
+                      <w ref="NT.Rom.w4333">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Rom.w4331"/>
+                            <w ref="NT.Rom.w4332"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </relator>
+                  </modifiers>
+                </w>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4325" ref="NT.Rom.10.5">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*mwu+sh=s" lex="Μωψσῆς"></wf>
+      <sem>
+        <domain majorNum="93" primarydomain="rkt" subNum="266" select="1"/>
+        <domain majorNum="33" subNum="59"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4326" ref="NT.Rom.10.5">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4327" ref="NT.Rom.10.5">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="gra/fw" lex="γράφω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="61"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4328" ref="NT.Rom.10.5">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4329" ref="NT.Rom.10.5">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="dikaiosu/nh" lex="δικαιοσύνη"></wf>
+      <sem>
+        <domain majorNum="88" subNum="13"/>
+        <domain majorNum="34" primarydomain="rkt" subNum="46" select="1"/>
+        <domain majorNum="53" subNum="4"/>
+        <domain majorNum="57" subNum="111"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4330" ref="NT.Rom.10.5">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4331" ref="NT.Rom.10.5">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)k" lex="ἐκ"></wf>
+      <sem>
+        <domain majorNum="84" subNum="4"/>
+        <domain majorNum="89" subNum="25 77 85 121 142"/>
+        <domain majorNum="90" subNum="12 16"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="68" subNum="54"/>
+        <domain majorNum="67" subNum="33 131"/>
+        <domain majorNum="57" subNum="162"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4332" ref="NT.Rom.10.5">
+      <pos>
+        <ART num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4333" ref="NT.Rom.10.5">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="no/mos" lex="νόμος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="333 55 56"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c12" level="primary" projected="yes" connect="NT.Rom.10_c11" structure="conj-S-P-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4334"/>
+      </conj>
+      <S>
+        <w ref="NT.Rom.w4335"/>
+        <clause xml:id="NT.Rom.10_c13" level="embedded" structure="P-C">
+          <P>
+            <w ref="NT.Rom.w4336"/>
+          </P>
+          <C>
+            <w ref="NT.Rom.w4337"/>
+          </C>
+        </clause>
+        <w ref="NT.Rom.w4338"/>
+      </S>
+      <P>
+        <w ref="NT.Rom.w4339"/>
+      </P>
+      <A>
+        <w ref="NT.Rom.w4340"/>
+        <w ref="NT.Rom.w4341"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg34">
+        <head>
+          <w ref="NT.Rom.w4334"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg35">
+        <head>
+          <w ref="NT.Rom.w4338">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4335"/>
+              </specifier>
+              <definer>
+                <clause xlink:href="NT.Rom.10_c13">
+                  <wgroup xml:id="NT.Rom.10_wg36">
+                    <head>
+                      <w ref="NT.Rom.w4336"/>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Rom.10_wg37">
+                    <head>
+                      <w ref="NT.Rom.w4337"/>
+                    </head>
+                  </wgroup>
+                </clause>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg38">
+        <head>
+          <w ref="NT.Rom.w4339"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg39">
+        <head>
+          <w ref="NT.Rom.w4341">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4340"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4334" ref="NT.Rom.10.5">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="o(/ti" lex="ὅτι"></wf>
+      <sem>
+        <domain majorNum="90" subNum="21"/>
+        <domain majorNum="89" primarydomain="rkt" subNum="33" select="1"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4335" ref="NT.Rom.10.5">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4336" ref="NT.Rom.10.5">
+      <pos>
+        <VBP num="sing" cas="nom" voc="act" gen="mas" tf="aor"/>
+      </pos>
+      <wf betaLex="poie/w" lex="ποιέω"></wf>
+      <sem>
+        <domain majorNum="90" subNum="45"/>
+        <domain majorNum="42" primarydomain="rkt" subNum="7 41 29" select="1"/>
+        <domain majorNum="13" subNum="9"/>
+        <domain majorNum="41" subNum="7"/>
+        <domain majorNum="37" subNum="106"/>
+        <domain majorNum="57" subNum="189"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4337" ref="NT.Rom.10.5">
+      <pos>
+        <PRO type="int" num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" primarydomain="rkt" subNum="11 37" select="1"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4338" ref="NT.Rom.10.5">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="a)/nqrwpos" lex="ἄνθρωπος"></wf>
+      <sem>
+        <domain majorNum="9" primarydomain="rkt" subNum="1 24" select="1"/>
+        <domain majorNum="10" subNum="53"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4339" ref="NT.Rom.10.5">
+      <pos>
+        <VBF num="sing" voc="mid" per="3rd" tf="fut" mod="ind"/>
+      </pos>
+      <wf betaLex="za/w" lex="ζάω"></wf>
+      <sem>
+        <domain majorNum="23" primarydomain="rkt" subNum="88 93" select="1"/>
+        <domain majorNum="41" subNum="2"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4340" ref="NT.Rom.10.5">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4341" ref="NT.Rom.10.5">
+      <pos>
+        <PRO type="int" num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c14" level="primary" connect="NT.Rom.10_c11" structure="S-(conj)-A-P">
+    <clause_level>
+      <S>
+        <w ref="NT.Rom.w4342"/>
+        <conj type="embed" parent="NT.Rom.10_c14">
+          <w ref="NT.Rom.w4343"/>
+        </conj>
+        <w ref="NT.Rom.w4344"/>
+        <w ref="NT.Rom.w4345"/>
+        <w ref="NT.Rom.w4346"/>
+      </S>
+      <A>
+        <w ref="NT.Rom.w4347"/>
+      </A>
+      <P>
+        <w ref="NT.Rom.w4348"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg40">
+        <head>
+          <w ref="NT.Rom.w4343"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg41">
+        <head>
+          <w ref="NT.Rom.w4346">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4342"/>
+              </specifier>
+              <relator>
+                <w ref="NT.Rom.w4345">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Rom.w4344"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </relator>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg42">
+        <head>
+          <w ref="NT.Rom.w4347"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg43">
+        <head>
+          <w ref="NT.Rom.w4348"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4342" ref="NT.Rom.10.6">
+      <pos>
+        <ART num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4343" ref="NT.Rom.10.6">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4344" ref="NT.Rom.10.6">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)k" lex="ἐκ"></wf>
+      <sem>
+        <domain majorNum="84" subNum="4"/>
+        <domain majorNum="89" subNum="25 77 85 121 142"/>
+        <domain majorNum="90" subNum="12 16"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="68" subNum="54"/>
+        <domain majorNum="67" subNum="33 131"/>
+        <domain majorNum="57" subNum="162"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4345" ref="NT.Rom.10.6">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="pi/stis" lex="πίστις"></wf>
+      <sem>
+        <domain majorNum="31" primarydomain="rkt" subNum="43 85 88 102 104" select="1"/>
+        <domain majorNum="33" subNum="289"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4346" ref="NT.Rom.10.6">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="dikaiosu/nh" lex="δικαιοσύνη"></wf>
+      <sem>
+        <domain majorNum="88" subNum="13"/>
+        <domain majorNum="34" primarydomain="rkt" subNum="46" select="1"/>
+        <domain majorNum="53" subNum="4"/>
+        <domain majorNum="57" subNum="111"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4347" ref="NT.Rom.10.6">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="ou(/tw" lex="οὕτω"></wf>
+      <sem>
+        <domain majorNum="61" primarydomain="rkt" subNum="9 10" select="1"/>
+        <domain majorNum="78" subNum="4"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4348" ref="NT.Rom.10.6">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c15" level="primary" projected="yes" connect="NT.Rom.10_c14" structure="A-P-A">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4349"/>
+      </A>
+      <P>
+        <w ref="NT.Rom.w4350"/>
+      </P>
+      <A>
+        <w ref="NT.Rom.w4351"/>
+        <w ref="NT.Rom.w4352"/>
+        <w ref="NT.Rom.w4353"/>
+        <w ref="NT.Rom.w4354"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg44">
+        <head>
+          <w ref="NT.Rom.w4349"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg45">
+        <head>
+          <w ref="NT.Rom.w4350"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg46">
+        <head>
+          <w ref="NT.Rom.w4353">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4351"/>
+                <w ref="NT.Rom.w4352"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4354"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4349" ref="NT.Rom.10.6">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="mh/" lex="μή"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 15"/>
+        <domain majorNum="89" subNum="62"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4350" ref="NT.Rom.10.6">
+      <pos>
+        <VBF num="sing" voc="act" per="2nd" tf="aor" mod="sub"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4351" ref="NT.Rom.10.6">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4352" ref="NT.Rom.10.6">
+      <pos>
+        <ART num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4353" ref="NT.Rom.10.6">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="kardi/a" lex="καρδία"></wf>
+      <sem>
+        <domain majorNum="26" primarydomain="rkt" subNum="3" select="1"/>
+        <domain majorNum="83" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4354" ref="NT.Rom.10.6">
+      <pos>
+        <PRO num="sing" cas="gen" type="per" per="2nd"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c16" level="primary" projected="yes" connect="NT.Rom.10_c15" structure="S-P-A">
+    <clause_level>
+      <S>
+        <w ref="NT.Rom.w4355"/>
+      </S>
+      <P>
+        <w ref="NT.Rom.w4356"/>
+      </P>
+      <A>
+        <w ref="NT.Rom.w4357"/>
+        <w ref="NT.Rom.w4358"/>
+        <w ref="NT.Rom.w4359"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg47">
+        <head>
+          <w ref="NT.Rom.w4355"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg48">
+        <head>
+          <w ref="NT.Rom.w4356"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg49">
+        <head>
+          <w ref="NT.Rom.w4359">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4357"/>
+                <w ref="NT.Rom.w4358"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4355" ref="NT.Rom.10.6">
+      <pos>
+        <PRO num="sing" cas="nom" type="rog" gen="mas"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4356" ref="NT.Rom.10.6">
+      <pos>
+        <VBF num="sing" voc="mid" per="3rd" tf="fut" mod="ind"/>
+      </pos>
+      <wf betaLex="a)nabai/nw" lex="ἀναβαίνω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="101 99"/>
+        <domain majorNum="23" subNum="196 189"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4357" ref="NT.Rom.10.6">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4358" ref="NT.Rom.10.6">
+      <pos>
+        <ART num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4359" ref="NT.Rom.10.6">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="ou)rano/s" lex="οὐρανός"></wf>
+      <sem>
+        <domain majorNum="1" primarydomain="rkt" subNum="5 11" select="1"/>
+        <domain majorNum="12" subNum="16"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c17" level="secondary" connect="NT.Rom.10_c16" structure="S-P-C">
+    <clause_level>
+      <S>
+        <w ref="NT.Rom.w4360"/>
+      </S>
+      <P>
+        <w ref="NT.Rom.w4361"/>
+      </P>
+      <C>
+        <clause xml:id="NT.Rom.10_c18" level="embedded" structure="C-P">
+          <C>
+            <w ref="NT.Rom.w4362"/>
+          </C>
+          <P>
+            <w ref="NT.Rom.w4363"/>
+          </P>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg50">
+        <head>
+          <w ref="NT.Rom.w4360"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg51">
+        <head>
+          <w ref="NT.Rom.w4361"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg52">
+        <head>
+          <w ref="NT.Rom.w4362"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg53">
+        <head>
+          <w ref="NT.Rom.w4363"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4360" ref="NT.Rom.10.6">
+      <pos>
+        <PRO num="sing" cas="nom" type="dem" gen="neu"/>
+      </pos>
+      <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+      <sem>
+        <domain majorNum="92" subNum="29"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4361" ref="NT.Rom.10.6">
+      <pos>
+        <VBF num="sing" augment="-" per="3rd" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" primarydomain="rkt" subNum="1 4 69 104" select="1"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4362" ref="NT.Rom.10.6">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" primarydomain="rkt" subNum="82" select="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4363" ref="NT.Rom.10.6">
+      <pos>
+        <VBN voc="act" tf="aor"/>
+      </pos>
+      <wf betaLex="kata/gw" lex="κατάγω"></wf>
+      <sem>
+        <domain majorNum="15" primarydomain="rkt" subNum="175" select="1"/>
+        <domain majorNum="54" subNum="16"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c19" level="primary" projected="yes" connect="NT.Rom.10_c16" structure="conj-S-P-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4364"/>
+      </conj>
+      <S>
+        <w ref="NT.Rom.w4365"/>
+      </S>
+      <P>
+        <w ref="NT.Rom.w4366"/>
+      </P>
+      <A>
+        <w ref="NT.Rom.w4367"/>
+        <w ref="NT.Rom.w4368"/>
+        <w ref="NT.Rom.w4369"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg54">
+        <head>
+          <w ref="NT.Rom.w4364"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg55">
+        <head>
+          <w ref="NT.Rom.w4365"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg56">
+        <head>
+          <w ref="NT.Rom.w4366"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg57">
+        <head>
+          <w ref="NT.Rom.w4369">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4367"/>
+                <w ref="NT.Rom.w4368"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4364" ref="NT.Rom.10.7">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="h)/" lex="ἤ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="139 140"/>
+        <domain majorNum="64" subNum="18"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4365" ref="NT.Rom.10.7">
+      <pos>
+        <PRO num="sing" cas="nom" type="rog" gen="mas"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4366" ref="NT.Rom.10.7">
+      <pos>
+        <VBF num="sing" voc="mid" per="3rd" tf="fut" mod="ind"/>
+      </pos>
+      <wf betaLex="katabai/nw" lex="καταβαίνω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="107"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4367" ref="NT.Rom.10.7">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4368" ref="NT.Rom.10.7">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4369" ref="NT.Rom.10.7">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="a)/bussos" lex="ἄβυσσος"></wf>
+      <sem>
+        <domain majorNum="1" subNum="20"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c20" level="secondary" connect="NT.Rom.10_c19" structure="S-P-C">
+    <clause_level>
+      <S>
+        <w ref="NT.Rom.w4370"/>
+      </S>
+      <P>
+        <w ref="NT.Rom.w4371"/>
+      </P>
+      <C>
+        <clause xml:id="NT.Rom.10_c21" level="embedded" structure="C-A-P">
+          <C>
+            <w ref="NT.Rom.w4372"/>
+          </C>
+          <A>
+            <w ref="NT.Rom.w4373"/>
+            <w ref="NT.Rom.w4374"/>
+          </A>
+          <P>
+            <w ref="NT.Rom.w4375"/>
+          </P>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg58">
+        <head>
+          <w ref="NT.Rom.w4370"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg59">
+        <head>
+          <w ref="NT.Rom.w4371"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg60">
+        <head>
+          <w ref="NT.Rom.w4372"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg61">
+        <head>
+          <w ref="NT.Rom.w4374">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4373"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg62">
+        <head>
+          <w ref="NT.Rom.w4375"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4370" ref="NT.Rom.10.7">
+      <pos>
+        <PRO num="sing" cas="nom" type="dem" gen="neu"/>
+      </pos>
+      <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+      <sem>
+        <domain majorNum="92" subNum="29"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4371" ref="NT.Rom.10.7">
+      <pos>
+        <VBF num="sing" augment="-" per="3rd" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" primarydomain="rkt" subNum="1 4 69 104" select="1"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4372" ref="NT.Rom.10.7">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" primarydomain="rkt" subNum="82" select="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4373" ref="NT.Rom.10.7">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)k" lex="ἐκ"></wf>
+      <sem>
+        <domain majorNum="84" subNum="4"/>
+        <domain majorNum="89" subNum="25 77 85 121 142"/>
+        <domain majorNum="90" subNum="12 16"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="68" subNum="54"/>
+        <domain majorNum="67" subNum="33 131"/>
+        <domain majorNum="57" subNum="162"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4374" ref="NT.Rom.10.7">
+      <pos>
+        <ADJ num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="nekro/s" lex="νεκρός"></wf>
+      <sem>
+        <domain majorNum="23" primarydomain="rkt" subNum="121" select="1"/>
+        <domain majorNum="65" subNum="39"/>
+        <domain majorNum="74" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4375" ref="NT.Rom.10.7">
+      <pos>
+        <VBN voc="act" tf="aor"/>
+      </pos>
+      <wf betaLex="a)na/gw" lex="ἀνάγω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="176 211"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c22" level="primary" connect="NT.Rom.10_c14" structure="conj-C-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4376"/>
+      </conj>
+      <C>
+        <w ref="NT.Rom.w4377"/>
+      </C>
+      <P>
+        <w ref="NT.Rom.w4378"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg63">
+        <head>
+          <w ref="NT.Rom.w4376"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg64">
+        <head>
+          <w ref="NT.Rom.w4377"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg65">
+        <head>
+          <w ref="NT.Rom.w4378"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4376" ref="NT.Rom.10.8">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+      <sem>
+        <domain majorNum="89" subNum="125 96"/>
+        <domain majorNum="91" subNum="2 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4377" ref="NT.Rom.10.8">
+      <pos>
+        <PRO num="sing" cas="acc" type="rog" gen="neu"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4378" ref="NT.Rom.10.8">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c23" level="primary" projected="yes" connect="NT.Rom.10_c22" structure="A-S-P-A">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4379"/>
+        <w ref="NT.Rom.w4380"/>
+      </A>
+      <S>
+        <w ref="NT.Rom.w4381"/>
+        <w ref="NT.Rom.w4382"/>
+      </S>
+      <P>
+        <w ref="NT.Rom.w4383"/>
+      </P>
+      <A>
+        <w ref="NT.Rom.w4384"/>
+        <w ref="NT.Rom.w4385"/>
+        <w ref="NT.Rom.w4386"/>
+        <w ref="NT.Rom.w4387"/>
+        <w ref="NT.Rom.w4388"/>
+        <w ref="NT.Rom.w4389"/>
+        <w ref="NT.Rom.w4390"/>
+        <w ref="NT.Rom.w4391"/>
+        <w ref="NT.Rom.w4392"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg66">
+        <head>
+          <w ref="NT.Rom.w4380">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4379"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg67">
+        <head>
+          <w ref="NT.Rom.w4382">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4381"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg68">
+        <head>
+          <w ref="NT.Rom.w4383"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg69">
+        <head>
+          <w ref="NT.Rom.w4386">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4384"/>
+                <w ref="NT.Rom.w4385"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4387"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg70">
+        <connector>
+          <w ref="NT.Rom.w4388"/>
+        </connector>
+        <head>
+          <w ref="NT.Rom.w4391">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4389"/>
+                <w ref="NT.Rom.w4390"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4392"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4379" ref="NT.Rom.10.8">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)ggu/s" lex="ἐγγύς"></wf>
+      <sem>
+        <domain majorNum="83" subNum="26"/>
+        <domain majorNum="67" subNum="61"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4380" ref="NT.Rom.10.8">
+      <pos>
+        <PRO num="sing" cas="gen" type="per" per="2nd"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4381" ref="NT.Rom.10.8">
+      <pos>
+        <ART num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4382" ref="NT.Rom.10.8">
+      <pos>
+        <NON num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="r(h=ma" lex="ῥῆμα"></wf>
+      <sem>
+        <domain majorNum="33" primarydomain="rkt" subNum="9 98" select="1"/>
+        <domain majorNum="13" subNum="115"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4383" ref="NT.Rom.10.8">
+      <pos>
+        <VBF num="sing" augment="-" per="3rd" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" primarydomain="rkt" subNum="1 4 69 104" select="1"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4384" ref="NT.Rom.10.8">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4385" ref="NT.Rom.10.8">
+      <pos>
+        <ART num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4386" ref="NT.Rom.10.8">
+      <pos>
+        <NON num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="sto/ma" lex="στόμα"></wf>
+      <sem>
+        <domain majorNum="8" primarydomain="rkt" subNum="19" select="1"/>
+        <domain majorNum="33" subNum="74 75 101"/>
+        <domain majorNum="79" subNum="109"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4387" ref="NT.Rom.10.8">
+      <pos>
+        <PRO num="sing" cas="gen" type="per" per="2nd"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4388" ref="NT.Rom.10.8">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4389" ref="NT.Rom.10.8">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4390" ref="NT.Rom.10.8">
+      <pos>
+        <ART num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4391" ref="NT.Rom.10.8">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="kardi/a" lex="καρδία"></wf>
+      <sem>
+        <domain majorNum="26" primarydomain="rkt" subNum="3" select="1"/>
+        <domain majorNum="83" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4392" ref="NT.Rom.10.8">
+      <pos>
+        <PRO num="sing" cas="gen" type="per" per="2nd"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c24" level="primary" connect="NT.Rom.10_c22" structure="S-P-C">
+    <clause_level>
+      <S>
+        <w ref="NT.Rom.w4393"/>
+      </S>
+      <P>
+        <w ref="NT.Rom.w4394"/>
+      </P>
+      <C>
+        <w ref="NT.Rom.w4395"/>
+        <w ref="NT.Rom.w4396"/>
+        <w ref="NT.Rom.w4397"/>
+        <w ref="NT.Rom.w4398"/>
+        <clause xml:id="NT.Rom.10_c25" level="embedded" structure="C-P">
+          <C>
+            <w ref="NT.Rom.w4399"/>
+          </C>
+          <P>
+            <w ref="NT.Rom.w4400"/>
+          </P>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg71">
+        <head>
+          <w ref="NT.Rom.w4393"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg72">
+        <head>
+          <w ref="NT.Rom.w4394"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg73">
+        <head>
+          <w ref="NT.Rom.w4396">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4395"/>
+              </specifier>
+              <definer>
+                <clause xlink:href="NT.Rom.10_c25">
+                  <wgroup xml:id="NT.Rom.10_wg74">
+                    <head>
+                      <w ref="NT.Rom.w4399"/>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Rom.10_wg75">
+                    <head>
+                      <w ref="NT.Rom.w4400"/>
+                    </head>
+                  </wgroup>
+                </clause>
+              </definer>
+              <qualifier>
+                <w ref="NT.Rom.w4398">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Rom.w4397"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4393" ref="NT.Rom.10.8">
+      <pos>
+        <PRO num="sing" cas="nom" type="dem" gen="neu"/>
+      </pos>
+      <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+      <sem>
+        <domain majorNum="92" subNum="29"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4394" ref="NT.Rom.10.8">
+      <pos>
+        <VBF num="sing" augment="-" per="3rd" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" primarydomain="rkt" subNum="1 4 69 104" select="1"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4395" ref="NT.Rom.10.8">
+      <pos>
+        <ART num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4396" ref="NT.Rom.10.8">
+      <pos>
+        <NON num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="r(h=ma" lex="ῥῆμα"></wf>
+      <sem>
+        <domain majorNum="33" primarydomain="rkt" subNum="9 98" select="1"/>
+        <domain majorNum="13" subNum="115"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4397" ref="NT.Rom.10.8">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4398" ref="NT.Rom.10.8">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="pi/stis" lex="πίστις"></wf>
+      <sem>
+        <domain majorNum="31" primarydomain="rkt" subNum="43 85 88 102 104" select="1"/>
+        <domain majorNum="33" subNum="289"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4399" ref="NT.Rom.10.8">
+      <pos>
+        <PRO num="sing" cas="acc" type="rel" gen="neu"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4400" ref="NT.Rom.10.8">
+      <pos>
+        <VBF num="plur" voc="act" per="1st" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="khru/ssw" lex="κηρύσσω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="206 207 256"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c26" level="secondary" projected="yes" connect="NT.Rom.10_c29" structure="conj-conj-P-A-C-C">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4401"/>
+      </conj>
+      <conj>
+        <w ref="NT.Rom.w4402"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4403"/>
+      </P>
+      <A>
+        <w ref="NT.Rom.w4404"/>
+        <w ref="NT.Rom.w4405"/>
+        <w ref="NT.Rom.w4406"/>
+        <w ref="NT.Rom.w4407"/>
+      </A>
+      <C>
+        <w ref="NT.Rom.w4408"/>
+      </C>
+      <C>
+        <w ref="NT.Rom.w4409"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg76">
+        <head>
+          <w ref="NT.Rom.w4401"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg77">
+        <head>
+          <w ref="NT.Rom.w4402"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg78">
+        <head>
+          <w ref="NT.Rom.w4403"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg79">
+        <head>
+          <w ref="NT.Rom.w4406">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4404"/>
+                <w ref="NT.Rom.w4405"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4407"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg80">
+        <head>
+          <w ref="NT.Rom.w4408"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg81">
+        <head>
+          <w ref="NT.Rom.w4409"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4401" ref="NT.Rom.10.9">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="o(/ti" lex="ὅτι"></wf>
+      <sem>
+        <domain majorNum="90" subNum="21"/>
+        <domain majorNum="89" primarydomain="rkt" subNum="33" select="1"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4402" ref="NT.Rom.10.9">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="e)a/n" lex="ἐάν"></wf>
+      <sem>
+        <domain majorNum="89" subNum="67"/>
+        <domain majorNum="67" subNum="32"/>
+        <domain majorNum="71" subNum="8"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4403" ref="NT.Rom.10.9">
+      <pos>
+        <VBF num="sing" voc="act" per="2nd" tf="aor" mod="sub"/>
+      </pos>
+      <wf betaLex="o(mologe/w" lex="ὁμολογέω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="274 275 221"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4404" ref="NT.Rom.10.9">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4405" ref="NT.Rom.10.9">
+      <pos>
+        <ART num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4406" ref="NT.Rom.10.9">
+      <pos>
+        <NON num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="sto/ma" lex="στόμα"></wf>
+      <sem>
+        <domain majorNum="8" primarydomain="rkt" subNum="19" select="1"/>
+        <domain majorNum="33" subNum="74 75 101"/>
+        <domain majorNum="79" subNum="109"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4407" ref="NT.Rom.10.9">
+      <pos>
+        <PRO num="sing" cas="gen" type="per" per="2nd"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4408" ref="NT.Rom.10.9">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="ku/rios" lex="κύριος"></wf>
+      <sem>
+        <domain majorNum="12" primarydomain="rkt" subNum="9" select="1"/>
+        <domain majorNum="57" subNum="12"/>
+        <domain majorNum="37" subNum="51"/>
+        <domain majorNum="87" subNum="53"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4409" ref="NT.Rom.10.9">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+      <sem>
+        <domain majorNum="93" subNum="169"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c27" level="secondary" projected="yes" connect="NT.Rom.10_c26" structure="conj-P-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4410"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4411"/>
+      </P>
+      <A>
+        <w ref="NT.Rom.w4412"/>
+        <w ref="NT.Rom.w4413"/>
+        <w ref="NT.Rom.w4414"/>
+        <w ref="NT.Rom.w4415"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg82">
+        <head>
+          <w ref="NT.Rom.w4410"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg83">
+        <head>
+          <w ref="NT.Rom.w4411"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg84">
+        <head>
+          <w ref="NT.Rom.w4414">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4412"/>
+                <w ref="NT.Rom.w4413"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4415"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4410" ref="NT.Rom.10.9">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4411" ref="NT.Rom.10.9">
+      <pos>
+        <VBF num="sing" voc="act" per="2nd" tf="aor" mod="sub"/>
+      </pos>
+      <wf betaLex="pisteu/w" lex="πιστεύω"></wf>
+      <sem>
+        <domain majorNum="31" primarydomain="rkt" subNum="35 85 102" select="1"/>
+        <domain majorNum="35" subNum="50"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4412" ref="NT.Rom.10.9">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4413" ref="NT.Rom.10.9">
+      <pos>
+        <ART num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4414" ref="NT.Rom.10.9">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="kardi/a" lex="καρδία"></wf>
+      <sem>
+        <domain majorNum="26" primarydomain="rkt" subNum="3" select="1"/>
+        <domain majorNum="83" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4415" ref="NT.Rom.10.9">
+      <pos>
+        <PRO num="sing" cas="gen" type="per" per="2nd"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c28" level="secondary2" projected="yes" connect="NT.Rom.10_c27" structure="conj-S-C-P-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4416"/>
+      </conj>
+      <S>
+        <w ref="NT.Rom.w4417"/>
+        <w ref="NT.Rom.w4418"/>
+      </S>
+      <C>
+        <w ref="NT.Rom.w4419"/>
+      </C>
+      <P>
+        <w ref="NT.Rom.w4420"/>
+      </P>
+      <A>
+        <w ref="NT.Rom.w4421"/>
+        <w ref="NT.Rom.w4422"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg85">
+        <head>
+          <w ref="NT.Rom.w4416"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg86">
+        <head>
+          <w ref="NT.Rom.w4418">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4417"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg87">
+        <head>
+          <w ref="NT.Rom.w4419"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg88">
+        <head>
+          <w ref="NT.Rom.w4420"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg89">
+        <head>
+          <w ref="NT.Rom.w4422">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4421"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4416" ref="NT.Rom.10.9">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="o(/ti" lex="ὅτι"></wf>
+      <sem>
+        <domain majorNum="90" subNum="21"/>
+        <domain majorNum="89" primarydomain="rkt" subNum="33" select="1"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4417" ref="NT.Rom.10.9">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4418" ref="NT.Rom.10.9">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4419" ref="NT.Rom.10.9">
+      <pos>
+        <PRO type="int" num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" primarydomain="rkt" subNum="11 37" select="1"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4420" ref="NT.Rom.10.9">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="e)gei/rw" lex="ἐγείρω"></wf>
+      <sem>
+        <domain majorNum="17" subNum="10 9"/>
+        <domain majorNum="23" primarydomain="rkt" subNum="7s7 94" select="1"/>
+        <domain majorNum="13" subNum="83"/>
+        <domain majorNum="13" subNum="65"/>
+        <domain majorNum="55" subNum="2"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4421" ref="NT.Rom.10.9">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)k" lex="ἐκ"></wf>
+      <sem>
+        <domain majorNum="84" subNum="4"/>
+        <domain majorNum="89" subNum="25 77 85 121 142"/>
+        <domain majorNum="90" subNum="12 16"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="68" subNum="54"/>
+        <domain majorNum="67" subNum="33 131"/>
+        <domain majorNum="57" subNum="162"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4422" ref="NT.Rom.10.9">
+      <pos>
+        <ADJ num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="nekro/s" lex="νεκρός"></wf>
+      <sem>
+        <domain majorNum="23" primarydomain="rkt" subNum="121" select="1"/>
+        <domain majorNum="65" subNum="39"/>
+        <domain majorNum="74" subNum="28"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c29" level="primary" projected="yes" connect="NT.Rom.10_c24" structure="P">
+    <clause_level>
+      <P>
+        <w ref="NT.Rom.w4423"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg90">
+        <head>
+          <w ref="NT.Rom.w4423"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4423" ref="NT.Rom.10.9">
+      <pos>
+        <VBF num="sing" voc="pas" per="2nd" tf="fut" mod="ind"/>
+      </pos>
+      <wf betaLex="sw/|zw" lex="σῴζω"></wf>
+      <sem>
+        <domain majorNum="21" subNum="18 27"/>
+        <domain majorNum="23" subNum="136"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c30" level="primary" connect="NT.Rom.10_c24" structure="A-conj-P-A">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4424"/>
+      </A>
+      <conj>
+        <w ref="NT.Rom.w4425"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4426"/>
+      </P>
+      <A>
+        <w ref="NT.Rom.w4427"/>
+        <w ref="NT.Rom.w4428"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg91">
+        <head>
+          <w ref="NT.Rom.w4424"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg92">
+        <head>
+          <w ref="NT.Rom.w4425"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg93">
+        <head>
+          <w ref="NT.Rom.w4426"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg94">
+        <head>
+          <w ref="NT.Rom.w4428">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4427"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4424" ref="NT.Rom.10.10">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="kardi/a" lex="καρδία"></wf>
+      <sem>
+        <domain majorNum="26" primarydomain="rkt" subNum="3" select="1"/>
+        <domain majorNum="83" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4425" ref="NT.Rom.10.10">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4426" ref="NT.Rom.10.10">
+      <pos>
+        <VBF voc="mop" num="sing" per="3rd" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="pisteu/w" lex="πιστεύω"></wf>
+      <sem>
+        <domain majorNum="31" primarydomain="rkt" subNum="35 85 102" select="1"/>
+        <domain majorNum="35" subNum="50"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4427" ref="NT.Rom.10.10">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4428" ref="NT.Rom.10.10">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="dikaiosu/nh" lex="δικαιοσύνη"></wf>
+      <sem>
+        <domain majorNum="88" subNum="13"/>
+        <domain majorNum="34" primarydomain="rkt" subNum="46" select="1"/>
+        <domain majorNum="53" subNum="4"/>
+        <domain majorNum="57" subNum="111"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c31" level="primary" connect="NT.Rom.10_c30" structure="A-conj-P-A">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4429"/>
+      </A>
+      <conj>
+        <w ref="NT.Rom.w4430"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4431"/>
+      </P>
+      <A>
+        <w ref="NT.Rom.w4432"/>
+        <w ref="NT.Rom.w4433"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg95">
+        <head>
+          <w ref="NT.Rom.w4429"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg96">
+        <head>
+          <w ref="NT.Rom.w4430"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg97">
+        <head>
+          <w ref="NT.Rom.w4431"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg98">
+        <head>
+          <w ref="NT.Rom.w4433">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4432"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4429" ref="NT.Rom.10.10">
+      <pos>
+        <NON num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="sto/ma" lex="στόμα"></wf>
+      <sem>
+        <domain majorNum="8" primarydomain="rkt" subNum="19" select="1"/>
+        <domain majorNum="33" subNum="74 75 101"/>
+        <domain majorNum="79" subNum="109"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4430" ref="NT.Rom.10.10">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4431" ref="NT.Rom.10.10">
+      <pos>
+        <VBF voc="mop" num="sing" per="3rd" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="o(mologe/w" lex="ὁμολογέω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="274 275 221"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4432" ref="NT.Rom.10.10">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4433" ref="NT.Rom.10.10">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="swthri/a" lex="σωτηρία"></wf>
+      <sem>
+        <domain majorNum="21" subNum="18 25 26"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c32" level="primary" connect="NT.Rom.10_c31" structure="P-conj-S">
+    <clause_level>
+      <P>
+        <w ref="NT.Rom.w4434"/>
+      </P>
+      <conj>
+        <w ref="NT.Rom.w4435"/>
+      </conj>
+      <S>
+        <w ref="NT.Rom.w4436"/>
+        <w ref="NT.Rom.w4437"/>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg99">
+        <head>
+          <w ref="NT.Rom.w4434"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg100">
+        <head>
+          <w ref="NT.Rom.w4435"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg101">
+        <head>
+          <w ref="NT.Rom.w4437">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4436"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4434" ref="NT.Rom.10.11">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4435" ref="NT.Rom.10.11">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4436" ref="NT.Rom.10.11">
+      <pos>
+        <ART num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4437" ref="NT.Rom.10.11">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="grafh/" lex="γραφή"></wf>
+      <sem>
+        <domain majorNum="33" subNum="10 33.53"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c33" level="primary" projected="yes" connect="NT.Rom.10_c32" structure="S-A-P">
+    <clause_level>
+      <S>
+        <clause xml:id="NT.Rom.10_c34" level="embedded" structure="P-A">
+          <P>
+            <w ref="NT.Rom.w4438"/>
+            <w ref="NT.Rom.w4439"/>
+            <w ref="NT.Rom.w4440"/>
+          </P>
+          <A>
+            <w ref="NT.Rom.w4441"/>
+            <w ref="NT.Rom.w4442"/>
+          </A>
+        </clause>
+      </S>
+      <A>
+        <w ref="NT.Rom.w4443"/>
+      </A>
+      <P>
+        <w ref="NT.Rom.w4444"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg102">
+        <head>
+          <w ref="NT.Rom.w4440">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4439"/>
+              </specifier>
+              <definer>
+                <w ref="NT.Rom.w4438"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg103">
+        <head>
+          <w ref="NT.Rom.w4442">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4441"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg104">
+        <head>
+          <w ref="NT.Rom.w4443"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg105">
+        <head>
+          <w ref="NT.Rom.w4444"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4438" ref="NT.Rom.10.11">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" primarydomain="rkt" subNum="23 24" select="1"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4439" ref="NT.Rom.10.11">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4440" ref="NT.Rom.10.11">
+      <pos>
+        <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="pisteu/w" lex="πιστεύω"></wf>
+      <sem>
+        <domain majorNum="31" primarydomain="rkt" subNum="35 85 102" select="1"/>
+        <domain majorNum="35" subNum="50"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4441" ref="NT.Rom.10.11">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)pi/" lex="ἐπί"></wf>
+      <sem>
+        <domain majorNum="83" subNum="46 23 9 35"/>
+        <domain majorNum="84" subNum="17 20"/>
+        <domain majorNum="90" subNum="17 57 9 34 23 5"/>
+        <domain majorNum="89" subNum="101 27 60 13"/>
+        <domain majorNum="37" subNum="9"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4442" ref="NT.Rom.10.11">
+      <pos>
+        <PRO type="int" num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" primarydomain="rkt" subNum="11 37" select="1"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4443" ref="NT.Rom.10.11">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4444" ref="NT.Rom.10.11">
+      <pos>
+        <VBF num="sing" voc="pas" per="3rd" tf="fut" mod="ind"/>
+      </pos>
+      <wf betaLex="kataisxu/nw" lex="καταισχύνω"></wf>
+      <sem>
+        <domain majorNum="25" subNum="194"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c35" level="primary" connect="NT.Rom.10_c32" structure="A-conj-P-S">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4445"/>
+      </A>
+      <conj>
+        <w ref="NT.Rom.w4446"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4447"/>
+      </P>
+      <S>
+        <w ref="NT.Rom.w4448"/>
+        <w ref="NT.Rom.w4449"/>
+        <w ref="NT.Rom.w4450"/>
+        <w ref="NT.Rom.w4451"/>
+        <w ref="NT.Rom.w4452"/>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg106">
+        <head>
+          <w ref="NT.Rom.w4445"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg107">
+        <head>
+          <w ref="NT.Rom.w4446"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg108">
+        <head>
+          <w ref="NT.Rom.w4447"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg109">
+        <head>
+          <w ref="NT.Rom.w4448">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Rom.w4449">
+                  <connector>
+                    <w ref="NT.Rom.w4450"/>
+                  </connector>
+                </w>
+                <w ref="NT.Rom.w4452">
+                  <connector>
+                    <w ref="NT.Rom.w4451"/>
+                  </connector>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4445" ref="NT.Rom.10.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4446" ref="NT.Rom.10.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4447" ref="NT.Rom.10.12">
+      <pos>
+        <VBF num="sing" augment="-" per="3rd" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" primarydomain="rkt" subNum="1 4 69 104" select="1"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4448" ref="NT.Rom.10.12">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="diastolh/" lex="διαστολή"></wf>
+      <sem>
+        <domain majorNum="58" subNum="42"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4449" ref="NT.Rom.10.12">
+      <pos>
+        <ADJ num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)oudai=os" lex="Ἰουδαῖος"></wf>
+      <sem>
+        <domain majorNum="93" subNum="172"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4450" ref="NT.Rom.10.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="te/" lex="τέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="95 88"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4451" ref="NT.Rom.10.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4452" ref="NT.Rom.10.12">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*e(/llhn" lex="ἕλλην"></wf>
+      <sem>
+        <domain majorNum="11" subNum="90 40"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c36" level="primary" connect="NT.Rom.10_c35" structure="S-(conj)-C-A">
+    <clause_level>
+      <S>
+        <w ref="NT.Rom.w4453"/>
+        <conj type="embed" parent="NT.Rom.10_c36">
+          <w ref="NT.Rom.w4454"/>
+        </conj>
+        <w ref="NT.Rom.w4455"/>
+      </S>
+      <C>
+        <w ref="NT.Rom.w4456"/>
+        <w ref="NT.Rom.w4457"/>
+      </C>
+      <A>
+        <clause xml:id="NT.Rom.10_c37" level="embedded" structure="P-A">
+          <P>
+            <w ref="NT.Rom.w4458"/>
+          </P>
+          <A>
+            <clause xml:id="NT.Rom.10_c38" level="embedded" structure="P-C">
+              <P>
+                <w ref="NT.Rom.w4459"/>
+                <w ref="NT.Rom.w4460"/>
+                <w ref="NT.Rom.w4461"/>
+                <w ref="NT.Rom.w4462"/>
+              </P>
+              <C>
+                <w ref="NT.Rom.w4463"/>
+              </C>
+            </clause>
+          </A>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg110">
+        <head>
+          <w ref="NT.Rom.w4454"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg111">
+        <head>
+          <w ref="NT.Rom.w4455">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4453"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg112">
+        <head>
+          <w ref="NT.Rom.w4456">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Rom.w4457"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg113">
+        <head>
+          <w ref="NT.Rom.w4458"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg114">
+        <head>
+          <w ref="NT.Rom.w4462">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4459"/>
+                <w ref="NT.Rom.w4461"/>
+              </specifier>
+              <definer>
+                <w ref="NT.Rom.w4460"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg115">
+        <head>
+          <w ref="NT.Rom.w4463"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4453" ref="NT.Rom.10.12">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4454" ref="NT.Rom.10.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4455" ref="NT.Rom.10.12">
+      <pos>
+        <PRO num="sing" cas="nom" type="int" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" primarydomain="rkt" subNum="11 37" select="1"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4456" ref="NT.Rom.10.12">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="ku/rios" lex="κύριος"></wf>
+      <sem>
+        <domain majorNum="12" primarydomain="rkt" subNum="9" select="1"/>
+        <domain majorNum="57" subNum="12"/>
+        <domain majorNum="37" subNum="51"/>
+        <domain majorNum="87" subNum="53"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4457" ref="NT.Rom.10.12">
+      <pos>
+        <ADJ num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" primarydomain="rkt" subNum="23 24" select="1"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4458" ref="NT.Rom.10.12">
+      <pos>
+        <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="ploute/w" lex="πλουτέω"></wf>
+      <sem>
+        <domain majorNum="57" primarydomain="rkt" subNum="25 28 104" select="1"/>
+        <domain majorNum="59" subNum="58"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4459" ref="NT.Rom.10.12">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4460" ref="NT.Rom.10.12">
+      <pos>
+        <ADJ num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" primarydomain="rkt" subNum="23 24" select="1"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4461" ref="NT.Rom.10.12">
+      <pos>
+        <ART num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4462" ref="NT.Rom.10.12">
+      <pos>
+        <VBP voc="mop" num="plur" cas="acc" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="e)pikale/w" lex="ἐπικαλέω"></wf>
+      <sem>
+        <domain majorNum="33" primarydomain="rkt" subNum="131 176" select="1"/>
+        <domain majorNum="56" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4463" ref="NT.Rom.10.12">
+      <pos>
+        <PRO type="int" num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" primarydomain="rkt" subNum="11 37" select="1"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c39" level="primary" connect="NT.Rom.10_c36" structure="S-P">
+    <clause_level>
+      <S>
+        <clause xml:id="NT.Rom.10_c40" level="embedded" structure="S-(conj)-A-P-C">
+          <S>
+            <w ref="NT.Rom.w4464"/>
+            <conj type="embed" parent="NT.Rom.10_c40">
+              <w ref="NT.Rom.w4465"/>
+            </conj>
+            <w ref="NT.Rom.w4466"/>
+          </S>
+          <A>
+            <w ref="NT.Rom.w4467"/>
+          </A>
+          <P>
+            <w ref="NT.Rom.w4468"/>
+          </P>
+          <C>
+            <w ref="NT.Rom.w4469"/>
+            <w ref="NT.Rom.w4470"/>
+            <w ref="NT.Rom.w4471"/>
+          </C>
+        </clause>
+      </S>
+      <P>
+        <w ref="NT.Rom.w4472"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg116">
+        <head>
+          <w ref="NT.Rom.w4465"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg117">
+        <head>
+          <w ref="NT.Rom.w4466">
+            <modifiers>
+              <definer>
+                <w ref="NT.Rom.w4464"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg118">
+        <head>
+          <w ref="NT.Rom.w4467"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg119">
+        <head>
+          <w ref="NT.Rom.w4468"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg120">
+        <head>
+          <w ref="NT.Rom.w4470">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4469"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4471"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg121">
+        <head>
+          <w ref="NT.Rom.w4472"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4464" ref="NT.Rom.10.13">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" primarydomain="rkt" subNum="23 24" select="1"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4465" ref="NT.Rom.10.13">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4466" ref="NT.Rom.10.13">
+      <pos>
+        <PRO num="sing" cas="nom" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4467" ref="NT.Rom.10.13">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)/n" lex="ἄν"></wf>
+      <sem>
+        <domain majorNum="71" subNum="14 8"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4468" ref="NT.Rom.10.13">
+      <pos>
+        <VBF num="sing" voc="mid" per="3rd" tf="aor" mod="sub"/>
+      </pos>
+      <wf betaLex="e)pikale/w" lex="ἐπικαλέω"></wf>
+      <sem>
+        <domain majorNum="33" primarydomain="rkt" subNum="131 176" select="1"/>
+        <domain majorNum="56" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4469" ref="NT.Rom.10.13">
+      <pos>
+        <ART num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4470" ref="NT.Rom.10.13">
+      <pos>
+        <NON num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o)/noma" lex="ὄνομα"></wf>
+      <sem>
+        <domain majorNum="33" primarydomain="rkt" subNum="126 265" select="1"/>
+        <domain majorNum="9" subNum="19"/>
+        <domain majorNum="58" subNum="22"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4471" ref="NT.Rom.10.13">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="ku/rios" lex="κύριος"></wf>
+      <sem>
+        <domain majorNum="12" primarydomain="rkt" subNum="9" select="1"/>
+        <domain majorNum="57" subNum="12"/>
+        <domain majorNum="37" subNum="51"/>
+        <domain majorNum="87" subNum="53"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4472" ref="NT.Rom.10.13">
+      <pos>
+        <VBF num="sing" voc="pas" per="3rd" tf="fut" mod="ind"/>
+      </pos>
+      <wf betaLex="sw/|zw" lex="σῴζω"></wf>
+      <sem>
+        <domain majorNum="21" subNum="18 27"/>
+        <domain majorNum="23" subNum="136"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c41" level="primary" connect="NT.Rom.10_c39" structure="A-conj-P-C">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4473"/>
+      </A>
+      <conj>
+        <w ref="NT.Rom.w4474"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4475"/>
+      </P>
+      <C>
+        <clause xml:id="NT.Rom.10_c42" level="embedded" structure="A-A-P">
+          <A>
+            <w ref="NT.Rom.w4476"/>
+            <w ref="NT.Rom.w4477"/>
+          </A>
+          <A>
+            <w ref="NT.Rom.w4478"/>
+          </A>
+          <P>
+            <w ref="NT.Rom.w4479"/>
+          </P>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg122">
+        <head>
+          <w ref="NT.Rom.w4473"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg123">
+        <head>
+          <w ref="NT.Rom.w4474"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg124">
+        <head>
+          <w ref="NT.Rom.w4475"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg125">
+        <head>
+          <w ref="NT.Rom.w4477">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4476"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg126">
+        <head>
+          <w ref="NT.Rom.w4478"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg127">
+        <head>
+          <w ref="NT.Rom.w4479"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4473" ref="NT.Rom.10.14">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="pw=s" lex="πῶς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="16"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4474" ref="NT.Rom.10.14">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)=n" lex="οὖν"></wf>
+      <sem>
+        <domain majorNum="89" subNum="50 127"/>
+        <domain majorNum="91" subNum="7"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4475" ref="NT.Rom.10.14">
+      <pos>
+        <VBF num="plur" voc="mid" per="3rd" tf="aor" mod="sub"/>
+      </pos>
+      <wf betaLex="e)pikale/w" lex="ἐπικαλέω"></wf>
+      <sem>
+        <domain majorNum="33" primarydomain="rkt" subNum="131 176" select="1"/>
+        <domain majorNum="56" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4476" ref="NT.Rom.10.14">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4477" ref="NT.Rom.10.14">
+      <pos>
+        <PRO num="sing" cas="acc" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4478" ref="NT.Rom.10.14">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4479" ref="NT.Rom.10.14">
+      <pos>
+        <VBF num="plur" voc="act" per="3rd" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="pisteu/w" lex="πιστεύω"></wf>
+      <sem>
+        <domain majorNum="31" primarydomain="rkt" subNum="35 85 102" select="1"/>
+        <domain majorNum="35" subNum="50"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c43" level="primary" connect="NT.Rom.10_c41" structure="A-conj-P-C">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4480"/>
+      </A>
+      <conj>
+        <w ref="NT.Rom.w4481"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4482"/>
+      </P>
+      <C>
+        <clause xml:id="NT.Rom.10_c44" level="embedded" structure="C-A-P">
+          <C>
+            <w ref="NT.Rom.w4483"/>
+          </C>
+          <A>
+            <w ref="NT.Rom.w4484"/>
+          </A>
+          <P>
+            <w ref="NT.Rom.w4485"/>
+          </P>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg128">
+        <head>
+          <w ref="NT.Rom.w4480"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg129">
+        <head>
+          <w ref="NT.Rom.w4481"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg130">
+        <head>
+          <w ref="NT.Rom.w4482"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg131">
+        <head>
+          <w ref="NT.Rom.w4483"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg132">
+        <head>
+          <w ref="NT.Rom.w4484"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg133">
+        <head>
+          <w ref="NT.Rom.w4485"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4480" ref="NT.Rom.10.14">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="pw=s" lex="πῶς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="16"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4481" ref="NT.Rom.10.14">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4482" ref="NT.Rom.10.14">
+      <pos>
+        <VBF num="plur" voc="act" per="3rd" tf="aor" mod="sub"/>
+      </pos>
+      <wf betaLex="pisteu/w" lex="πιστεύω"></wf>
+      <sem>
+        <domain majorNum="31" primarydomain="rkt" subNum="35 85 102" select="1"/>
+        <domain majorNum="35" subNum="50"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4483" ref="NT.Rom.10.14">
+      <pos>
+        <PRO num="sing" cas="gen" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="ou(=" lex="οὗ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4484" ref="NT.Rom.10.14">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4485" ref="NT.Rom.10.14">
+      <pos>
+        <VBF num="plur" voc="act" per="3rd" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="a)kou/w" lex="ἀκούω"></wf>
+      <sem>
+        <domain majorNum="24" primarydomain="rkt" subNum="52 58" select="1"/>
+        <domain majorNum="33" subNum="212"/>
+        <domain majorNum="31" subNum="56"/>
+        <domain majorNum="36" subNum="14"/>
+        <domain majorNum="32" subNum="1"/>
+        <domain majorNum="56" subNum="13"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c45" level="primary" connect="NT.Rom.10_c43" structure="A-conj-P-A">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4486"/>
+      </A>
+      <conj>
+        <w ref="NT.Rom.w4487"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4488"/>
+      </P>
+      <A>
+        <clause xml:id="NT.Rom.10_c46" level="embedded" structure="P">
+          <P>
+            <w ref="NT.Rom.w4489"/>
+            <w ref="NT.Rom.w4490"/>
+          </P>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg134">
+        <head>
+          <w ref="NT.Rom.w4486"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg135">
+        <head>
+          <w ref="NT.Rom.w4487"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg136">
+        <head>
+          <w ref="NT.Rom.w4488"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg137">
+        <head>
+          <w ref="NT.Rom.w4490">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4489"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4486" ref="NT.Rom.10.14">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="pw=s" lex="πῶς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="16"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4487" ref="NT.Rom.10.14">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4488" ref="NT.Rom.10.14">
+      <pos>
+        <VBF num="plur" voc="act" per="3rd" tf="aor" mod="sub"/>
+      </pos>
+      <wf betaLex="a)kou/w" lex="ἀκούω"></wf>
+      <sem>
+        <domain majorNum="24" primarydomain="rkt" subNum="52 58" select="1"/>
+        <domain majorNum="33" subNum="212"/>
+        <domain majorNum="31" subNum="56"/>
+        <domain majorNum="36" subNum="14"/>
+        <domain majorNum="32" subNum="1"/>
+        <domain majorNum="56" subNum="13"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4489" ref="NT.Rom.10.14">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="xwri/s" lex="χωρίς"></wf>
+      <sem>
+        <domain majorNum="89" subNum="120"/>
+        <domain majorNum="63" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4490" ref="NT.Rom.10.14">
+      <pos>
+        <VBP num="sing" cas="gen" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="khru/ssw" lex="κηρύσσω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="206 207 256"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c47" level="primary" connect="NT.Rom.10_c45" structure="A-conj-P">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4491"/>
+      </A>
+      <conj>
+        <w ref="NT.Rom.w4492"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4493"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg138">
+        <head>
+          <w ref="NT.Rom.w4491"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg139">
+        <head>
+          <w ref="NT.Rom.w4492"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg140">
+        <head>
+          <w ref="NT.Rom.w4493"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4491" ref="NT.Rom.10.15">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="pw=s" lex="πῶς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="16"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4492" ref="NT.Rom.10.15">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4493" ref="NT.Rom.10.15">
+      <pos>
+        <VBF num="plur" voc="act" per="3rd" tf="aor" mod="sub"/>
+      </pos>
+      <wf betaLex="khru/ssw" lex="κηρύσσω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="206 207 256"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c48" level="secondary" connect="NT.Rom.10_c47" structure="conj-A-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4494"/>
+      </conj>
+      <A>
+        <w ref="NT.Rom.w4495"/>
+      </A>
+      <P>
+        <w ref="NT.Rom.w4496"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg141">
+        <head>
+          <w ref="NT.Rom.w4494"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg142">
+        <head>
+          <w ref="NT.Rom.w4495"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg143">
+        <head>
+          <w ref="NT.Rom.w4496"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4494" ref="NT.Rom.10.15">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="e)a/n" lex="ἐάν"></wf>
+      <sem>
+        <domain majorNum="89" subNum="67"/>
+        <domain majorNum="67" subNum="32"/>
+        <domain majorNum="71" subNum="8"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4495" ref="NT.Rom.10.15">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="mh/" lex="μή"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 15"/>
+        <domain majorNum="89" subNum="62"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4496" ref="NT.Rom.10.15">
+      <pos>
+        <VBF num="plur" voc="pas" per="3rd" tf="aor" mod="sub"/>
+      </pos>
+      <wf betaLex="a)poste/llw" lex="ἀποστέλλω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="66 67"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c49" level="secondary" connect="NT.Rom.10_c47" structure="conj-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4497"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4498"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg144">
+        <head>
+          <w ref="NT.Rom.w4497"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg145">
+        <head>
+          <w ref="NT.Rom.w4498"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4497" ref="NT.Rom.10.15">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kaqw/s" lex="καθώς"></wf>
+      <sem>
+        <domain majorNum="78" subNum="53"/>
+        <domain majorNum="89" subNum="34 86"/>
+        <domain majorNum="64" subNum="14"/>
+        <domain majorNum="67" subNum="33"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4498" ref="NT.Rom.10.15">
+      <pos>
+        <VBF voc="mop" num="sing" per="3rd" tf="per" mod="ind"/>
+      </pos>
+      <wf betaLex="gra/fw" lex="γράφω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="61"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c50" level="secondary" projected="yes" connect="NT.Rom.10_c49" structure="A-C-S">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4499"/>
+      </A>
+      <C>
+        <w ref="NT.Rom.w4500"/>
+      </C>
+      <S>
+        <w ref="NT.Rom.w4501"/>
+        <w ref="NT.Rom.w4502"/>
+        <clause xml:id="NT.Rom.10_c51" level="embedded" structure="P-C">
+          <P>
+            <w ref="NT.Rom.w4503"/>
+            <w ref="NT.Rom.w4504"/>
+          </P>
+          <C>
+            <w ref="NT.Rom.w4505"/>
+            <w ref="NT.Rom.w4506"/>
+          </C>
+        </clause>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg146">
+        <head>
+          <w ref="NT.Rom.w4499"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg147">
+        <head>
+          <w ref="NT.Rom.w4500"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg148">
+        <head>
+          <w ref="NT.Rom.w4502">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4501"/>
+              </specifier>
+              <qualifier>
+                <clause xlink:href="NT.Rom.10_c51">
+                  <wgroup xml:id="NT.Rom.10_wg149">
+                    <head>
+                      <w ref="NT.Rom.w4504">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Rom.w4503"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Rom.10_wg150">
+                    <head>
+                      <w ref="NT.Rom.w4506">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Rom.w4505"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </head>
+                  </wgroup>
+                </clause>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4499" ref="NT.Rom.10.15">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="w(s" lex="ὡς"></wf>
+      <sem>
+        <domain majorNum="64" primarydomain="rkt" subNum="12" select="1"/>
+        <domain majorNum="90" subNum="21"/>
+        <domain majorNum="89" subNum="86 37 61 52"/>
+        <domain majorNum="67" subNum="45 139"/>
+        <domain majorNum="78" subNum="42 13"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4500" ref="NT.Rom.10.15">
+      <pos>
+        <ADJ num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="w(rai=os" lex="ὡραῖος"></wf>
+      <sem>
+        <domain majorNum="79" primarydomain="rkt" subNum="10" select="1"/>
+        <domain majorNum="67" subNum="3"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4501" ref="NT.Rom.10.15">
+      <pos>
+        <ART num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4502" ref="NT.Rom.10.15">
+      <pos>
+        <NON num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="pou/s" lex="πούς"></wf>
+      <sem>
+        <domain majorNum="8" subNum="49"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4503" ref="NT.Rom.10.15">
+      <pos>
+        <ART num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4504" ref="NT.Rom.10.15">
+      <pos>
+        <VBP voc="mop" num="plur" cas="gen" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="eu)aggeli/zw" lex="εὐαγγελίζω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="215"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4505" ref="NT.Rom.10.15">
+      <pos>
+        <ART num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4506" ref="NT.Rom.10.15">
+      <pos>
+        <ADJ num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="a)gaqo/s" lex="ἀγαθός"></wf>
+      <sem>
+        <domain majorNum="88" primarydomain="rkt" subNum="1" select="1"/>
+        <domain majorNum="65" subNum="20"/>
+        <domain majorNum="57" subNum="110"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c52" level="primary" connect="NT.Rom.10_c47" structure="conj-S-P-C">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4507"/>
+      </conj>
+      <S>
+        <w ref="NT.Rom.w4508"/>
+        <w ref="NT.Rom.w4509"/>
+      </S>
+      <P>
+        <w ref="NT.Rom.w4510"/>
+      </P>
+      <C>
+        <w ref="NT.Rom.w4511"/>
+        <w ref="NT.Rom.w4512"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg151">
+        <head>
+          <w ref="NT.Rom.w4507"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg152">
+        <head>
+          <w ref="NT.Rom.w4509">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Rom.w4508"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg153">
+        <head>
+          <w ref="NT.Rom.w4510"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg154">
+        <head>
+          <w ref="NT.Rom.w4512">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4511"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4507" ref="NT.Rom.10.16">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+      <sem>
+        <domain majorNum="89" subNum="125 96"/>
+        <domain majorNum="91" subNum="2 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4508" ref="NT.Rom.10.16">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4509" ref="NT.Rom.10.16">
+      <pos>
+        <ADJ num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" primarydomain="rkt" subNum="23 24" select="1"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4510" ref="NT.Rom.10.16">
+      <pos>
+        <VBF num="plur" voc="act" per="3rd" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="u(pakou/w" lex="ὑπακούω"></wf>
+      <sem>
+        <domain majorNum="36" primarydomain="rkt" subNum="15" select="1"/>
+        <domain majorNum="46" subNum="11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4511" ref="NT.Rom.10.16">
+      <pos>
+        <ART num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4512" ref="NT.Rom.10.16">
+      <pos>
+        <NON num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="eu)agge/lion" lex="εὐαγγέλιον"></wf>
+      <sem>
+        <domain majorNum="33" subNum="217"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c53" level="primary" connect="NT.Rom.10_c52" structure="S-conj-P">
+    <clause_level>
+      <S>
+        <w ref="NT.Rom.w4513"/>
+      </S>
+      <conj>
+        <w ref="NT.Rom.w4514"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4515"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg155">
+        <head>
+          <w ref="NT.Rom.w4513"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg156">
+        <head>
+          <w ref="NT.Rom.w4514"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg157">
+        <head>
+          <w ref="NT.Rom.w4515"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4513" ref="NT.Rom.10.16">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*h)sai/+as" lex="Ἠσαΐας"></wf>
+      <sem>
+        <domain majorNum="93" subNum="147"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4514" ref="NT.Rom.10.16">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4515" ref="NT.Rom.10.16">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c54" level="primary" projected="yes" connect="NT.Rom.10_c53" structure="add-S-P-C">
+    <clause_level>
+      <add>
+        <w ref="NT.Rom.w4516"/>
+      </add>
+      <S>
+        <w ref="NT.Rom.w4517"/>
+      </S>
+      <P>
+        <w ref="NT.Rom.w4518"/>
+      </P>
+      <C>
+        <w ref="NT.Rom.w4519"/>
+        <w ref="NT.Rom.w4520"/>
+        <w ref="NT.Rom.w4521"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg158">
+        <head>
+          <w ref="NT.Rom.w4516"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg159">
+        <head>
+          <w ref="NT.Rom.w4517"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg160">
+        <head>
+          <w ref="NT.Rom.w4518"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg161">
+        <head>
+          <w ref="NT.Rom.w4520">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4519"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4521"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4516" ref="NT.Rom.10.16">
+      <pos>
+        <NON num="sing" cas="voc" gen="mas"/>
+      </pos>
+      <wf betaLex="ku/rios" lex="κύριος"></wf>
+      <sem>
+        <domain majorNum="12" primarydomain="rkt" subNum="9" select="1"/>
+        <domain majorNum="57" subNum="12"/>
+        <domain majorNum="37" subNum="51"/>
+        <domain majorNum="87" subNum="53"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4517" ref="NT.Rom.10.16">
+      <pos>
+        <PRO num="sing" cas="nom" type="rog" gen="mas"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4518" ref="NT.Rom.10.16">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="pisteu/w" lex="πιστεύω"></wf>
+      <sem>
+        <domain majorNum="31" primarydomain="rkt" subNum="35 85 102" select="1"/>
+        <domain majorNum="35" subNum="50"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4519" ref="NT.Rom.10.16">
+      <pos>
+        <ART num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4520" ref="NT.Rom.10.16">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="a)koh/" lex="ἀκοή"></wf>
+      <sem>
+        <domain majorNum="24" subNum="52 53 57"/>
+        <domain majorNum="33" primarydomain="rkt" subNum="213" select="1"/>
+        <domain majorNum="31" subNum="56"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4521" ref="NT.Rom.10.16">
+      <pos>
+        <PRO num="plur" cas="gen" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c55" level="primary" connect="NT.Rom.10_c53" structure="conj-S-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4522"/>
+      </conj>
+      <S>
+        <w ref="NT.Rom.w4523"/>
+        <w ref="NT.Rom.w4524"/>
+      </S>
+      <A>
+        <w ref="NT.Rom.w4525"/>
+        <w ref="NT.Rom.w4526"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg162">
+        <head>
+          <w ref="NT.Rom.w4522"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg163">
+        <head>
+          <w ref="NT.Rom.w4524">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4523"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg164">
+        <head>
+          <w ref="NT.Rom.w4526">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4525"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4522" ref="NT.Rom.10.17">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)ra/" lex="ἀρά"></wf>
+      <sem>
+        <domain majorNum="89" subNum="46"/>
+        <domain majorNum="71" subNum="7"/>
+        <domain majorNum="71" subNum="19"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4523" ref="NT.Rom.10.17">
+      <pos>
+        <ART num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4524" ref="NT.Rom.10.17">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="pi/stis" lex="πίστις"></wf>
+      <sem>
+        <domain majorNum="31" primarydomain="rkt" subNum="43 85 88 102 104" select="1"/>
+        <domain majorNum="33" subNum="289"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4525" ref="NT.Rom.10.17">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e(/c" lex="ἕξ"></wf>
+      <sem>
+        <domain majorNum="84" subNum="4"/>
+        <domain majorNum="89" subNum="25 77 85 121 142"/>
+        <domain majorNum="90" subNum="12 16"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="68" subNum="54"/>
+        <domain majorNum="67" subNum="33 131"/>
+        <domain majorNum="57" subNum="162"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4526" ref="NT.Rom.10.17">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="a)koh/" lex="ἀκοή"></wf>
+      <sem>
+        <domain majorNum="24" subNum="52 53 57"/>
+        <domain majorNum="33" primarydomain="rkt" subNum="213" select="1"/>
+        <domain majorNum="31" subNum="56"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c56" level="primary" connect="NT.Rom.10_c55" structure="S-(conj)-A">
+    <clause_level>
+      <S>
+        <w ref="NT.Rom.w4527"/>
+        <conj type="embed" parent="NT.Rom.10_c56">
+          <w ref="NT.Rom.w4528"/>
+        </conj>
+        <w ref="NT.Rom.w4529"/>
+      </S>
+      <A>
+        <w ref="NT.Rom.w4530"/>
+        <w ref="NT.Rom.w4531"/>
+        <w ref="NT.Rom.w4532"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg165">
+        <head>
+          <w ref="NT.Rom.w4528"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg166">
+        <head>
+          <w ref="NT.Rom.w4529">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4527"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg167">
+        <head>
+          <w ref="NT.Rom.w4531">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4530"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4532"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4527" ref="NT.Rom.10.17">
+      <pos>
+        <ART num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4528" ref="NT.Rom.10.17">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4529" ref="NT.Rom.10.17">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="a)koh/" lex="ἀκοή"></wf>
+      <sem>
+        <domain majorNum="24" subNum="52 53 57"/>
+        <domain majorNum="33" primarydomain="rkt" subNum="213" select="1"/>
+        <domain majorNum="31" subNum="56"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4530" ref="NT.Rom.10.17">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="dia/" lex="διά"></wf>
+      <sem>
+        <domain majorNum="90" subNum="4 8 38 44"/>
+        <domain majorNum="89" subNum="76 26"/>
+        <domain majorNum="84" subNum="29 32"/>
+        <domain majorNum="67" subNum="136 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4531" ref="NT.Rom.10.17">
+      <pos>
+        <NON num="sing" cas="gen" gen="neu"/>
+      </pos>
+      <wf betaLex="r(h=ma" lex="ῥῆμα"></wf>
+      <sem>
+        <domain majorNum="33" primarydomain="rkt" subNum="9 98" select="1"/>
+        <domain majorNum="13" subNum="115"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4532" ref="NT.Rom.10.17">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" primarydomain="rkt" subNum="82" select="1"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c57" level="primary" connect="NT.Rom.10_c56" structure="conj-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4533"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4534"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg168">
+        <head>
+          <w ref="NT.Rom.w4533"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg169">
+        <head>
+          <w ref="NT.Rom.w4534"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4533" ref="NT.Rom.10.18">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+      <sem>
+        <domain majorNum="89" subNum="125 96"/>
+        <domain majorNum="91" subNum="2 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4534" ref="NT.Rom.10.18">
+      <pos>
+        <VBF num="sing" voc="act" per="1st" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c58" level="primary" projected="yes" connect="NT.Rom.10_c57" structure="A-A-P">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4535"/>
+      </A>
+      <A>
+        <w ref="NT.Rom.w4536"/>
+      </A>
+      <P>
+        <w ref="NT.Rom.w4537"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg170">
+        <head>
+          <w ref="NT.Rom.w4535"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg171">
+        <head>
+          <w ref="NT.Rom.w4536"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg172">
+        <head>
+          <w ref="NT.Rom.w4537"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4535" ref="NT.Rom.10.18">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="mh/" lex="μή"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 15"/>
+        <domain majorNum="89" subNum="62"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4536" ref="NT.Rom.10.18">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4537" ref="NT.Rom.10.18">
+      <pos>
+        <VBF num="plur" voc="act" per="3rd" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="a)kou/w" lex="ἀκούω"></wf>
+      <sem>
+        <domain majorNum="24" primarydomain="rkt" subNum="52 58" select="1"/>
+        <domain majorNum="33" subNum="212"/>
+        <domain majorNum="31" subNum="56"/>
+        <domain majorNum="36" subNum="14"/>
+        <domain majorNum="32" subNum="1"/>
+        <domain majorNum="56" subNum="13"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c59" level="primary" projected="yes" connect="NT.Rom.10_c58" structure="conj-A-P-S">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4538"/>
+      </conj>
+      <A>
+        <w ref="NT.Rom.w4539"/>
+        <w ref="NT.Rom.w4540"/>
+        <w ref="NT.Rom.w4541"/>
+        <w ref="NT.Rom.w4542"/>
+      </A>
+      <P>
+        <w ref="NT.Rom.w4543"/>
+      </P>
+      <S>
+        <w ref="NT.Rom.w4544"/>
+        <w ref="NT.Rom.w4545"/>
+        <w ref="NT.Rom.w4546"/>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg173">
+        <head>
+          <w ref="NT.Rom.w4538"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg174">
+        <head>
+          <w ref="NT.Rom.w4542">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4539"/>
+                <w ref="NT.Rom.w4541"/>
+              </specifier>
+              <definer>
+                <w ref="NT.Rom.w4540"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg175">
+        <head>
+          <w ref="NT.Rom.w4543"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg176">
+        <head>
+          <w ref="NT.Rom.w4545">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4544"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4546"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4538" ref="NT.Rom.10.18">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="menou=n" lex="μενοῦν"></wf>
+      <sem>
+        <domain majorNum="89" subNum="128"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4539" ref="NT.Rom.10.18">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4540" ref="NT.Rom.10.18">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" primarydomain="rkt" subNum="23 24" select="1"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4541" ref="NT.Rom.10.18">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4542" ref="NT.Rom.10.18">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="gh=" lex="γῆ"></wf>
+      <sem>
+        <domain majorNum="1" primarydomain="rkt" subNum="39 60 79" select="1"/>
+        <domain majorNum="2" subNum="14"/>
+        <domain majorNum="9" subNum="22"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4543" ref="NT.Rom.10.18">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="e)ce/rxomai" lex="ἐξέρχομαι"></wf>
+      <sem>
+        <domain majorNum="15" subNum="40"/>
+        <domain majorNum="13" subNum="93"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4544" ref="NT.Rom.10.18">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4545" ref="NT.Rom.10.18">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="fqo/ggos" lex="φθόγγος"></wf>
+      <sem>
+        <domain majorNum="14" subNum="74"/>
+        <domain majorNum="33" primarydomain="rkt" subNum="104" select="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4546" ref="NT.Rom.10.18">
+      <pos>
+        <PRO type="int" num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" primarydomain="rkt" subNum="11 37" select="1"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c60" level="primary" projected="yes" connect="NT.Rom.10_c59" structure="conj-A-S">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4547"/>
+      </conj>
+      <A>
+        <w ref="NT.Rom.w4548"/>
+        <w ref="NT.Rom.w4549"/>
+        <w ref="NT.Rom.w4550"/>
+        <w ref="NT.Rom.w4551"/>
+        <w ref="NT.Rom.w4552"/>
+      </A>
+      <S>
+        <w ref="NT.Rom.w4553"/>
+        <w ref="NT.Rom.w4554"/>
+        <w ref="NT.Rom.w4555"/>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg177">
+        <head>
+          <w ref="NT.Rom.w4547"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg178">
+        <head>
+          <w ref="NT.Rom.w4550">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4548"/>
+                <w ref="NT.Rom.w4549"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4552">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Rom.w4551"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg180">
+        <head>
+          <w ref="NT.Rom.w4554">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4553"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4555"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4547" ref="NT.Rom.10.18">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4548" ref="NT.Rom.10.18">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4549" ref="NT.Rom.10.18">
+      <pos>
+        <ART num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4550" ref="NT.Rom.10.18">
+      <pos>
+        <NON num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="pe/ras" lex="πέρας"></wf>
+      <sem>
+        <domain majorNum="80" primarydomain="rkt" subNum="6" select="1"/>
+        <domain majorNum="61" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4551" ref="NT.Rom.10.18">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4552" ref="NT.Rom.10.18">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="oi)ke/w" lex="οἰκέω"></wf>
+      <sem>
+        <domain majorNum="1" subNum="39 83"/>
+        <domain majorNum="9" subNum="22"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4553" ref="NT.Rom.10.18">
+      <pos>
+        <ART num="plur" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4554" ref="NT.Rom.10.18">
+      <pos>
+        <NON num="plur" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="r(h=ma" lex="ῥῆμα"></wf>
+      <sem>
+        <domain majorNum="33" primarydomain="rkt" subNum="9 98" select="1"/>
+        <domain majorNum="13" subNum="115"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4555" ref="NT.Rom.10.18">
+      <pos>
+        <PRO type="int" num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" primarydomain="rkt" subNum="11 37" select="1"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c61" level="primary" connect="NT.Rom.10_c57" structure="conj-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4556"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4557"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg181">
+        <head>
+          <w ref="NT.Rom.w4556"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg182">
+        <head>
+          <w ref="NT.Rom.w4557"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4556" ref="NT.Rom.10.19">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+      <sem>
+        <domain majorNum="89" subNum="125 96"/>
+        <domain majorNum="91" subNum="2 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4557" ref="NT.Rom.10.19">
+      <pos>
+        <VBF num="sing" voc="act" per="1st" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c62" level="primary" projected="yes" connect="NT.Rom.10_c61" structure="A-S-A-P">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4558"/>
+      </A>
+      <S>
+        <w ref="NT.Rom.w4559"/>
+      </S>
+      <A>
+        <w ref="NT.Rom.w4560"/>
+      </A>
+      <P>
+        <w ref="NT.Rom.w4561"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg183">
+        <head>
+          <w ref="NT.Rom.w4558"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg184">
+        <head>
+          <w ref="NT.Rom.w4559"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg185">
+        <head>
+          <w ref="NT.Rom.w4560"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg186">
+        <head>
+          <w ref="NT.Rom.w4561"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4558" ref="NT.Rom.10.19">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="mh/" lex="μή"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 15"/>
+        <domain majorNum="89" subNum="62"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4559" ref="NT.Rom.10.19">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)srah/l" lex="Ἰσραήλ"></wf>
+      <sem>
+        <domain majorNum="93" subNum="182"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4560" ref="NT.Rom.10.19">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4561" ref="NT.Rom.10.19">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="ginw/skw" lex="γινώσκω"></wf>
+      <sem>
+        <domain majorNum="28" primarydomain="rkt" subNum="1" select="1"/>
+        <domain majorNum="27" subNum="2 18"/>
+        <domain majorNum="32" subNum="16"/>
+        <domain majorNum="31" subNum="27"/>
+        <domain majorNum="23" subNum="61"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c63" level="primary" connect="NT.Rom.10_c61" structure="A-S-P">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4562"/>
+      </A>
+      <S>
+        <w ref="NT.Rom.w4563"/>
+      </S>
+      <P>
+        <w ref="NT.Rom.w4564"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg187">
+        <head>
+          <w ref="NT.Rom.w4562"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg188">
+        <head>
+          <w ref="NT.Rom.w4563"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg189">
+        <head>
+          <w ref="NT.Rom.w4564"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4562" ref="NT.Rom.10.19">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="prw=tos" lex="πρῶτος"></wf>
+      <sem>
+        <domain majorNum="60" primarydomain="rkt" subNum="46" select="1"/>
+        <domain majorNum="67" subNum="18"/>
+        <domain majorNum="87" subNum="45"/>
+        <domain majorNum="65" subNum="24 52"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4563" ref="NT.Rom.10.19">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*mwu+sh=s" lex="Μωψσῆς"></wf>
+      <sem>
+        <domain majorNum="93" primarydomain="rkt" subNum="266" select="1"/>
+        <domain majorNum="33" subNum="59"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4564" ref="NT.Rom.10.19">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c64" level="primary" projected="yes" connect="NT.Rom.10_c63" structure="S-P-C-A">
+    <clause_level>
+      <S>
+        <w ref="NT.Rom.w4565"/>
+      </S>
+      <P>
+        <w ref="NT.Rom.w4566"/>
+      </P>
+      <C>
+        <w ref="NT.Rom.w4567"/>
+      </C>
+      <A>
+        <w ref="NT.Rom.w4568"/>
+        <w ref="NT.Rom.w4569"/>
+        <w ref="NT.Rom.w4570"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg190">
+        <head>
+          <w ref="NT.Rom.w4565"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg191">
+        <head>
+          <w ref="NT.Rom.w4566"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg192">
+        <head>
+          <w ref="NT.Rom.w4567"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg193">
+        <head>
+          <w ref="NT.Rom.w4570">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4568"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4569"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4565" ref="NT.Rom.10.19">
+      <pos>
+        <PRO num="sing" cas="nom" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4566" ref="NT.Rom.10.19">
+      <pos>
+        <VBF num="sing" voc="act" per="1st" tf="fut" mod="ind"/>
+      </pos>
+      <wf betaLex="parazhlo/w" lex="παραζηλόω"></wf>
+      <sem>
+        <domain majorNum="88" subNum="164"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4567" ref="NT.Rom.10.19">
+      <pos>
+        <PRO num="plur" cas="acc" type="per" per="2nd"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4568" ref="NT.Rom.10.19">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)pi/" lex="ἐπί"></wf>
+      <sem>
+        <domain majorNum="83" subNum="46 23 9 35"/>
+        <domain majorNum="84" subNum="17 20"/>
+        <domain majorNum="90" subNum="17 57 9 34 23 5"/>
+        <domain majorNum="89" subNum="101 27 60 13"/>
+        <domain majorNum="37" subNum="9"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4569" ref="NT.Rom.10.19">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4570" ref="NT.Rom.10.19">
+      <pos>
+        <NON num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="e)/qnos" lex="ἔθνος"></wf>
+      <sem>
+        <domain majorNum="11" subNum="55 37"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c65" level="primary" projected="yes" connect="NT.Rom.10_c64" structure="A-P-C">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4571"/>
+        <w ref="NT.Rom.w4572"/>
+        <w ref="NT.Rom.w4573"/>
+      </A>
+      <P>
+        <w ref="NT.Rom.w4574"/>
+      </P>
+      <C>
+        <w ref="NT.Rom.w4575"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg194">
+        <head>
+          <w ref="NT.Rom.w4572">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4571"/>
+              </specifier>
+              <definer>
+                <w ref="NT.Rom.w4573"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg195">
+        <head>
+          <w ref="NT.Rom.w4574"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg196">
+        <head>
+          <w ref="NT.Rom.w4575"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4571" ref="NT.Rom.10.19">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)pi/" lex="ἐπί"></wf>
+      <sem>
+        <domain majorNum="83" subNum="46 23 9 35"/>
+        <domain majorNum="84" subNum="17 20"/>
+        <domain majorNum="90" subNum="17 57 9 34 23 5"/>
+        <domain majorNum="89" subNum="101 27 60 13"/>
+        <domain majorNum="37" subNum="9"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4572" ref="NT.Rom.10.19">
+      <pos>
+        <NON num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="e)/qnos" lex="ἔθνος"></wf>
+      <sem>
+        <domain majorNum="11" subNum="55 37"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4573" ref="NT.Rom.10.19">
+      <pos>
+        <ADJ num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="a)su/netos" lex="ἀσύνετος"></wf>
+      <sem>
+        <domain majorNum="32" subNum="49"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4574" ref="NT.Rom.10.19">
+      <pos>
+        <VBF num="sing" voc="act" per="1st" tf="fut" mod="ind"/>
+      </pos>
+      <wf betaLex="parorgi/zw" lex="παροργίζω"></wf>
+      <sem>
+        <domain majorNum="88" subNum="177"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4575" ref="NT.Rom.10.19">
+      <pos>
+        <PRO num="plur" cas="acc" type="per" per="2nd"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c66" level="primary" connect="NT.Rom.10_c63" structure="S-conj-P">
+    <clause_level>
+      <S>
+        <w ref="NT.Rom.w4576"/>
+      </S>
+      <conj>
+        <w ref="NT.Rom.w4577"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4578"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg197">
+        <head>
+          <w ref="NT.Rom.w4576"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg198">
+        <head>
+          <w ref="NT.Rom.w4577"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg199">
+        <head>
+          <w ref="NT.Rom.w4578"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4576" ref="NT.Rom.10.20">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*h)sai/+as" lex="Ἠσαΐας"></wf>
+      <sem>
+        <domain majorNum="93" subNum="147"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4577" ref="NT.Rom.10.20">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4578" ref="NT.Rom.10.20">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="a)potolma/w" lex="ἀποτολμάω"></wf>
+      <sem>
+        <domain majorNum="25" subNum="163"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c67" level="primary" connect="NT.Rom.10_c66" structure="conj-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Rom.w4579"/>
+      </conj>
+      <P>
+        <w ref="NT.Rom.w4580"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg200">
+        <head>
+          <w ref="NT.Rom.w4579"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg201">
+        <head>
+          <w ref="NT.Rom.w4580"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4579" ref="NT.Rom.10.20">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4580" ref="NT.Rom.10.20">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c68" level="primary" projected="yes" connect="NT.Rom.10_c67" structure="P-A">
+    <clause_level>
+      <P>
+        <w ref="NT.Rom.w4581"/>
+      </P>
+      <A>
+        <clause xml:id="NT.Rom.10_c69" level="embedded" structure="P-(C)">
+          <P>
+            <w ref="NT.Rom.w4582"/>
+            <w ref="NT.Rom.w4583"/>
+            <C type="embed" parent="NT.Rom.10_c69">
+              <w ref="NT.Rom.w4584"/>
+            </C>
+            <w ref="NT.Rom.w4585"/>
+            <w ref="NT.Rom.w4586"/>
+          </P>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg202">
+        <head>
+          <w ref="NT.Rom.w4581"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg203">
+        <head>
+          <w ref="NT.Rom.w4582"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg204">
+        <head>
+          <w ref="NT.Rom.w4584"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg205">
+        <head>
+          <w ref="NT.Rom.w4586">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4583"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4585"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4581" ref="NT.Rom.10.20">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="eu(ri/skw" lex="εὑρίσκω"></wf>
+      <sem>
+        <domain majorNum="27" subNum="27 1"/>
+        <domain majorNum="13" subNum="17"/>
+        <domain majorNum="90" subNum="70"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4582" ref="NT.Rom.10.20">
+      <pos>
+        <VBF num="sing" voc="pas" per="1st" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="ei(=s" lex="εἷς"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4583" ref="NT.Rom.10.20">
+      <pos>
+        <ART num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4584" ref="NT.Rom.10.20">
+      <pos>
+        <PRO num="sing" cas="acc" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4585" ref="NT.Rom.10.20">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="mh/" lex="μή"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 15"/>
+        <domain majorNum="89" subNum="62"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4586" ref="NT.Rom.10.20">
+      <pos>
+        <VBP num="plur" cas="dat" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="zhte/w" lex="ζητέω"></wf>
+      <sem>
+        <domain majorNum="27" subNum="41 34"/>
+        <domain majorNum="25" subNum="9"/>
+        <domain majorNum="33" subNum="167"/>
+        <domain majorNum="68" subNum="60"/>
+        <domain majorNum="57" primarydomain="rkt" subNum="59" select="1"/>
+        <domain majorNum="13" subNum="19"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c70" level="primary" projected="yes" connect="NT.Rom.10_c68" structure="C-P-C">
+    <clause_level>
+      <C>
+        <w ref="NT.Rom.w4587"/>
+      </C>
+      <P>
+        <w ref="NT.Rom.w4588"/>
+      </P>
+      <C>
+        <clause xml:id="NT.Rom.10_c71" level="embedded" structure="P-(C)">
+          <P>
+            <w ref="NT.Rom.w4589"/>
+            <C type="embed" parent="NT.Rom.10_c71">
+              <w ref="NT.Rom.w4590"/>
+            </C>
+            <w ref="NT.Rom.w4591"/>
+            <w ref="NT.Rom.w4592"/>
+          </P>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg206">
+        <head>
+          <w ref="NT.Rom.w4587"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg207">
+        <head>
+          <w ref="NT.Rom.w4588"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg208">
+        <head>
+          <w ref="NT.Rom.w4590"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg209">
+        <head>
+          <w ref="NT.Rom.w4592">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4589"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4591"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4587" ref="NT.Rom.10.20">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="e)mfanh/s" lex="ἐμφανής"></wf>
+      <sem>
+        <domain majorNum="24" primarydomain="rkt" subNum="22" select="1"/>
+        <domain majorNum="28" subNum="35"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4588" ref="NT.Rom.10.20">
+      <pos>
+        <VBF num="sing" voc="mid" per="1st" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="gi/nomai" lex="γίνομαι"></wf>
+      <sem>
+        <domain majorNum="13" primarydomain="rkt" subNum="80 3 48 107" select="1"/>
+        <domain majorNum="15" subNum="1"/>
+        <domain majorNum="57" subNum="2"/>
+        <domain majorNum="41" subNum="1"/>
+        <domain majorNum="85" subNum="6 7"/>
+        <domain majorNum="91" subNum="5"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4589" ref="NT.Rom.10.20">
+      <pos>
+        <ART num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4590" ref="NT.Rom.10.20">
+      <pos>
+        <PRO num="sing" cas="acc" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4591" ref="NT.Rom.10.20">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="mh/" lex="μή"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 15"/>
+        <domain majorNum="89" subNum="62"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4592" ref="NT.Rom.10.20">
+      <pos>
+        <VBP num="plur" cas="dat" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="e)perwta/w" lex="ἐπερωτάω"></wf>
+      <sem>
+        <domain majorNum="33" primarydomain="rkt" subNum="180 161" select="1"/>
+        <domain majorNum="56" subNum="14"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c72" level="primary" connect="NT.Rom.10_c67" structure="A-(conj)-P">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4593"/>
+        <conj type="embed" parent="NT.Rom.10_c72">
+          <w ref="NT.Rom.w4594"/>
+        </conj>
+        <w ref="NT.Rom.w4595"/>
+        <w ref="NT.Rom.w4596"/>
+      </A>
+      <P>
+        <w ref="NT.Rom.w4597"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg210">
+        <head>
+          <w ref="NT.Rom.w4594"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg211">
+        <head>
+          <w ref="NT.Rom.w4596">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4593"/>
+                <w ref="NT.Rom.w4595"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg212">
+        <head>
+          <w ref="NT.Rom.w4597"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4593" ref="NT.Rom.10.21">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="pro/s" lex="πρός"></wf>
+      <sem>
+        <domain majorNum="84" subNum="18 23"/>
+        <domain majorNum="83" subNum="24 9"/>
+        <domain majorNum="90" subNum="58 25"/>
+        <domain majorNum="89" subNum="112 60 44 9 7"/>
+        <domain majorNum="67" subNum="162 16"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="90" subNum="20 33"/>
+        <domain majorNum="64" subNum="17"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4594" ref="NT.Rom.10.21">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4595" ref="NT.Rom.10.21">
+      <pos>
+        <ART num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4596" ref="NT.Rom.10.21">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)srah/l" lex="Ἰσραήλ"></wf>
+      <sem>
+        <domain majorNum="93" subNum="182"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4597" ref="NT.Rom.10.21">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Rom.10_c73" level="primary" projected="yes" connect="NT.Rom.10_c72" structure="A-P-C-A">
+    <clause_level>
+      <A>
+        <w ref="NT.Rom.w4598"/>
+        <w ref="NT.Rom.w4599"/>
+        <w ref="NT.Rom.w4600"/>
+      </A>
+      <P>
+        <w ref="NT.Rom.w4601"/>
+      </P>
+      <C>
+        <w ref="NT.Rom.w4602"/>
+        <w ref="NT.Rom.w4603"/>
+        <w ref="NT.Rom.w4604"/>
+      </C>
+      <A>
+        <w ref="NT.Rom.w4605"/>
+        <w ref="NT.Rom.w4606"/>
+        <clause xml:id="NT.Rom.10_c74" level="embedded" structure="P">
+          <P>
+            <w ref="NT.Rom.w4607"/>
+          </P>
+        </clause>
+        <clause xml:id="NT.Rom.10_c75" level="embedded" structure="conj-P">
+          <conj>
+            <w ref="NT.Rom.w4608"/>
+          </conj>
+          <P>
+            <w ref="NT.Rom.w4609"/>
+          </P>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Rom.10_wg213">
+        <head>
+          <w ref="NT.Rom.w4600">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4599"/>
+              </specifier>
+              <definer>
+                <w ref="NT.Rom.w4598"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg214">
+        <head>
+          <w ref="NT.Rom.w4601"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg215">
+        <head>
+          <w ref="NT.Rom.w4603">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4602"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Rom.w4604"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Rom.10_wg216">
+        <head>
+          <w ref="NT.Rom.w4606">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Rom.w4605"/>
+              </specifier>
+              <definer>
+                <clause xlink:href="NT.Rom.10_c74">
+                  <wgroup xml:id="NT.Rom.10_wg217">
+                    <head>
+                      <w ref="NT.Rom.w4607"/>
+                    </head>
+                  </wgroup>
+                </clause>
+                <clause xlink:href="NT.Rom.10_c75">
+                  <wgroup xml:id="NT.Rom.10_wg218">
+                    <head>
+                      <w ref="NT.Rom.w4608"/>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Rom.10_wg219">
+                    <head>
+                      <w ref="NT.Rom.w4609"/>
+                    </head>
+                  </wgroup>
+                </clause>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Rom.w4598" ref="NT.Rom.10.21">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(/los" lex="ὅλος"></wf>
+      <sem>
+        <domain majorNum="63" primarydomain="rkt" subNum="1" select="1"/>
+        <domain majorNum="59" subNum="29"/>
+        <domain majorNum="78" subNum="44"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4599" ref="NT.Rom.10.21">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4600" ref="NT.Rom.10.21">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="h(me/ra" lex="ἡμέρα"></wf>
+      <sem>
+        <domain majorNum="67" primarydomain="rkt" subNum="178 186 142" select="1"/>
+        <domain majorNum="14" subNum="40"/>
+        <domain majorNum="56" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4601" ref="NT.Rom.10.21">
+      <pos>
+        <VBF num="sing" voc="act" per="1st" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="e)kpeta/nnumi" lex="ἐκπετάννυμι"></wf>
+      <sem>
+        <domain majorNum="16" subNum="19"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4602" ref="NT.Rom.10.21">
+      <pos>
+        <ART num="plur" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4603" ref="NT.Rom.10.21">
+      <pos>
+        <NON num="plur" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="xei/r" lex="χείρ"></wf>
+      <sem>
+        <domain majorNum="8" primarydomain="rkt" subNum="30" select="1"/>
+        <domain majorNum="9" subNum="17"/>
+        <domain majorNum="76" subNum="3"/>
+        <domain majorNum="37" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4604" ref="NT.Rom.10.21">
+      <pos>
+        <PRO num="sing" cas="gen" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4605" ref="NT.Rom.10.21">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="pro/s" lex="πρός"></wf>
+      <sem>
+        <domain majorNum="84" subNum="18 23"/>
+        <domain majorNum="83" subNum="24 9"/>
+        <domain majorNum="90" subNum="58 25"/>
+        <domain majorNum="89" subNum="112 60 44 9 7"/>
+        <domain majorNum="67" subNum="162 16"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="90" subNum="20 33"/>
+        <domain majorNum="64" subNum="17"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4606" ref="NT.Rom.10.21">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="lao/s" lex="λαός"></wf>
+      <sem>
+        <domain majorNum="11" primarydomain="rkt" subNum="55 12 1" select="1"/>
+        <domain majorNum="87" subNum="64"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4607" ref="NT.Rom.10.21">
+      <pos>
+        <VBP num="sing" cas="acc" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="a)peiqe/w" lex="ἀπειθέω"></wf>
+      <sem>
+        <domain majorNum="36" primarydomain="rkt" subNum="23" select="1"/>
+        <domain majorNum="31" subNum="107"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4608" ref="NT.Rom.10.21">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Rom.w4609" ref="NT.Rom.10.21">
+      <pos>
+        <VBP num="sing" cas="acc" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="a)ntile/gw" lex="ἀντιλέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="455"/>
+      </sem>
+    </w>
+  </clause>
+</chapter>

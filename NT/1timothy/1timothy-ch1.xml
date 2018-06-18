@@ -1,0 +1,5480 @@
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="1Tim" num="1">
+  <clause xml:id="NT.1Tim.1_c1" level="primary" structure="S-C">
+    <clause_level>
+      <S>
+        <w ref="NT.1Tim.w1"/>
+        <w ref="NT.1Tim.w2"/>
+        <w ref="NT.1Tim.w3"/>
+        <w ref="NT.1Tim.w4"/>
+        <w ref="NT.1Tim.w5"/>
+        <w ref="NT.1Tim.w6"/>
+        <w ref="NT.1Tim.w7"/>
+        <w ref="NT.1Tim.w8"/>
+        <w ref="NT.1Tim.w9"/>
+        <w ref="NT.1Tim.w10"/>
+        <w ref="NT.1Tim.w11"/>
+        <w ref="NT.1Tim.w12"/>
+        <w ref="NT.1Tim.w13"/>
+        <w ref="NT.1Tim.w14"/>
+        <w ref="NT.1Tim.w15"/>
+      </S>
+      <C>
+        <w ref="NT.1Tim.w16"/>
+        <w ref="NT.1Tim.w17"/>
+        <w ref="NT.1Tim.w18"/>
+        <w ref="NT.1Tim.w19"/>
+        <w ref="NT.1Tim.w20"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg1">
+        <head>
+          <w ref="NT.1Tim.w1">
+            <modifiers>
+              <definer>
+                <w ref="NT.1Tim.w2">
+                  <modifiers>
+                    <qualifier>
+                      <w ref="NT.1Tim.w3">
+                        <modifiers>
+                          <definer>
+                            <w ref="NT.1Tim.w4"/>
+                          </definer>
+                        </modifiers>
+                      </w>
+                    </qualifier>
+                    <relator>
+                      <w ref="NT.1Tim.w6">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.1Tim.w5"/>
+                          </specifier>
+                          <qualifier>
+                            <w ref="NT.1Tim.w7">
+                              <modifiers>
+                                <definer>
+                                  <w ref="NT.1Tim.w8">
+                                    <modifiers>
+                                      <qualifier>
+                                        <w ref="NT.1Tim.w9"/>
+                                      </qualifier>
+                                    </modifiers>
+                                  </w>
+                                </definer>
+                              </modifiers>
+                            </w>
+                            <w ref="NT.1Tim.w11">
+                              <connector>
+                                <w ref="NT.1Tim.w10"/>
+                              </connector>
+                              <modifiers>
+                                <definer>
+                                  <w ref="NT.1Tim.w12">
+                                    <modifiers>
+                                      <definer>
+                                        <w ref="NT.1Tim.w14">
+                                          <modifiers>
+                                            <specifier>
+                                              <w ref="NT.1Tim.w13"/>
+                                            </specifier>
+                                            <qualifier>
+                                              <w ref="NT.1Tim.w15"/>
+                                            </qualifier>
+                                          </modifiers>
+                                        </w>
+                                      </definer>
+                                    </modifiers>
+                                  </w>
+                                </definer>
+                              </modifiers>
+                            </w>
+                          </qualifier>
+                        </modifiers>
+                      </w>
+                    </relator>
+                  </modifiers>
+                </w>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w1" ref="NT.1Tim.1.1">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*pau=los" lex="Παῦλος"></wf>
+      <sem>
+        <domain majorNum="93" subNum="294"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w2" ref="NT.1Tim.1.1">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="a)po/stolos" lex="ἀπόστολος"></wf>
+      <sem>
+        <domain majorNum="53" subNum="73"/>
+        <domain majorNum="33" subNum="194"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w3" ref="NT.1Tim.1.1">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w4" ref="NT.1Tim.1.1">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+      <sem>
+        <domain majorNum="93" subNum="169"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w5" ref="NT.1Tim.1.1">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="kata/" lex="κατά"></wf>
+      <sem>
+        <domain majorNum="84" subNum="21 30 31"/>
+        <domain majorNum="83" subNum="45 12 44"/>
+        <domain majorNum="67" subNum="33 35"/>
+        <domain majorNum="90" subNum="29 31"/>
+        <domain majorNum="89" subNum="8 90 4 113"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w6" ref="NT.1Tim.1.1">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="e)pitagh/" lex="ἐπιταγή"></wf>
+      <sem>
+        <domain majorNum="33" subNum="326 42"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w7" ref="NT.1Tim.1.1">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w8" ref="NT.1Tim.1.1">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="swth/r" lex="σωτήρ"></wf>
+      <sem>
+        <domain majorNum="21" subNum="22 31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w9" ref="NT.1Tim.1.1">
+      <pos>
+        <PRO num="plur" cas="gen" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w10" ref="NT.1Tim.1.1">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w11" ref="NT.1Tim.1.1">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w12" ref="NT.1Tim.1.1">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+      <sem>
+        <domain majorNum="93" subNum="169"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w13" ref="NT.1Tim.1.1">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w14" ref="NT.1Tim.1.1">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="e)lpi/s" lex="ἐλπίς"></wf>
+      <sem>
+        <domain majorNum="25" subNum="59 61 62"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w15" ref="NT.1Tim.1.1">
+      <pos>
+        <PRO num="plur" cas="gen" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w16" ref="NT.1Tim.1.2">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="*timo/qeos" lex="Τιμόθεος"></wf>
+      <sem>
+        <domain majorNum="93" subNum="361"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w17" ref="NT.1Tim.1.2">
+      <pos>
+        <ADJ num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="gnh/sios" lex="γνήσιος"></wf>
+      <sem>
+        <domain majorNum="73" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w18" ref="NT.1Tim.1.2">
+      <pos>
+        <NON num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="te/knon" lex="τέκνον"></wf>
+      <sem>
+        <domain majorNum="10" subNum="36 28"/>
+        <domain majorNum="11" subNum="63"/>
+        <domain majorNum="9" subNum="46"/>
+        <domain majorNum="36" subNum="40"/>
+        <domain majorNum="58" subNum="26"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w19" ref="NT.1Tim.1.2">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w20" ref="NT.1Tim.1.2">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="pi/stis" lex="πίστις"></wf>
+      <sem>
+        <domain majorNum="31" subNum="43 85 88 102 104"/>
+        <domain majorNum="33" subNum="289"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c2" level="primary" connect="NT.1Tim.1_c1" structure="S-A">
+    <clause_level>
+      <S>
+        <w ref="NT.1Tim.w21"/>
+        <w ref="NT.1Tim.w22"/>
+        <w ref="NT.1Tim.w23"/>
+      </S>
+      <A>
+        <w ref="NT.1Tim.w24"/>
+        <w ref="NT.1Tim.w25"/>
+        <w ref="NT.1Tim.w26"/>
+        <w ref="NT.1Tim.w27"/>
+        <w ref="NT.1Tim.w28"/>
+        <w ref="NT.1Tim.w29"/>
+        <w ref="NT.1Tim.w30"/>
+        <w ref="NT.1Tim.w31"/>
+        <w ref="NT.1Tim.w32"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg3">
+        <head>
+          <w ref="NT.1Tim.w21"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg4">
+        <head>
+          <w ref="NT.1Tim.w22"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg5">
+        <head>
+          <w ref="NT.1Tim.w23"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg6">
+        <head>
+          <w ref="NT.1Tim.w25">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w24"/>
+              </specifier>
+              <definer>
+                <w ref="NT.1Tim.w26"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg7">
+        <connector>
+          <w ref="NT.1Tim.w27"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w28">
+            <modifiers>
+              <definer>
+                <w ref="NT.1Tim.w29">
+                  <modifiers>
+                    <definer>
+                      <w ref="NT.1Tim.w31">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.1Tim.w30"/>
+                          </specifier>
+                          <qualifier>
+                            <w ref="NT.1Tim.w32"/>
+                          </qualifier>
+                        </modifiers>
+                      </w>
+                    </definer>
+                  </modifiers>
+                </w>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w21" ref="NT.1Tim.1.2">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="xa/ris" lex="χάρις"></wf>
+      <sem>
+        <domain majorNum="88" subNum="66"/>
+        <domain majorNum="57" subNum="103"/>
+        <domain majorNum="33" subNum="350"/>
+        <domain majorNum="25" subNum="89"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w22" ref="NT.1Tim.1.2">
+      <pos>
+        <NON num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="e)/leos" lex="ἔλεος"></wf>
+      <sem>
+        <domain majorNum="88" subNum="76"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w23" ref="NT.1Tim.1.2">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="ei)rh/nh" lex="εἰρήνη"></wf>
+      <sem>
+        <domain majorNum="22" subNum="42"/>
+        <domain majorNum="25" subNum="248"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w24" ref="NT.1Tim.1.2">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="a)po/" lex="ἀπό"></wf>
+      <sem>
+        <domain majorNum="89" subNum="122 142 25"/>
+        <domain majorNum="90" subNum="15 7 11 19"/>
+        <domain majorNum="84" subNum="3"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="67" subNum="131"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w25" ref="NT.1Tim.1.2">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w26" ref="NT.1Tim.1.2">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="path/r" lex="πατήρ"></wf>
+      <sem>
+        <domain majorNum="10" subNum="14 18 20"/>
+        <domain majorNum="12" subNum="12"/>
+        <domain majorNum="87" subNum="48"/>
+        <domain majorNum="11" subNum="26"/>
+        <domain majorNum="58" subNum="64"/>
+        <domain majorNum="36" subNum="8"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w27" ref="NT.1Tim.1.2">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w28" ref="NT.1Tim.1.2">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w29" ref="NT.1Tim.1.2">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+      <sem>
+        <domain majorNum="93" subNum="169"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w30" ref="NT.1Tim.1.2">
+      <pos>
+        <ART num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w31" ref="NT.1Tim.1.2">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="ku/rios" lex="κύριος"></wf>
+      <sem>
+        <domain majorNum="12" subNum="9"/>
+        <domain majorNum="57" subNum="12"/>
+        <domain majorNum="37" subNum="51"/>
+        <domain majorNum="87" subNum="53"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w32" ref="NT.1Tim.1.2">
+      <pos>
+        <PRO num="plur" cas="gen" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c3" level="primary" connect="NT.1Tim.1_c2" structure="conj-P-C-C-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w33"/>
+      </conj>
+      <P>
+        <w ref="NT.1Tim.w34"/>
+      </P>
+      <C>
+        <w ref="NT.1Tim.w35"/>
+      </C>
+      <C>
+        <clause xml:id="NT.1Tim.1_c4" level="embedded" structure="P-A">
+          <P>
+            <w ref="NT.1Tim.w36"/>
+          </P>
+          <A>
+            <w ref="NT.1Tim.w37"/>
+            <w ref="NT.1Tim.w38"/>
+          </A>
+        </clause>
+      </C>
+      <A>
+        <clause xml:id="NT.1Tim.1_c5" level="embedded" structure="P-A">
+          <P>
+            <w ref="NT.1Tim.w39"/>
+          </P>
+          <A>
+            <w ref="NT.1Tim.w40"/>
+            <w ref="NT.1Tim.w41"/>
+          </A>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg8">
+        <head>
+          <w ref="NT.1Tim.w33"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg9">
+        <head>
+          <w ref="NT.1Tim.w34"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg10">
+        <head>
+          <w ref="NT.1Tim.w35"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg11">
+        <head>
+          <w ref="NT.1Tim.w36"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg12">
+        <head>
+          <w ref="NT.1Tim.w38">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w37"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg13">
+        <head>
+          <w ref="NT.1Tim.w39"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg14">
+        <head>
+          <w ref="NT.1Tim.w41">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w40"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w33" ref="NT.1Tim.1.3">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kaqw/s" lex="καθώς"></wf>
+      <sem>
+        <domain majorNum="78" subNum="53"/>
+        <domain majorNum="89" subNum="34 86"/>
+        <domain majorNum="64" subNum="14"/>
+        <domain majorNum="67" subNum="33"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w34" ref="NT.1Tim.1.3">
+      <pos>
+        <VBF num="sing" voc="act" per="1st" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="parakale/w" lex="παρακαλέω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="168 315 310"/>
+        <domain majorNum="25" subNum="150"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w35" ref="NT.1Tim.1.3">
+      <pos>
+        <PRO num="sing" cas="acc" type="per" per="2nd"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w36" ref="NT.1Tim.1.3">
+      <pos>
+        <VBN voc="act" tf="aor"/>
+      </pos>
+      <wf betaLex="prosme/nw" lex="προσμένω"></wf>
+      <sem>
+        <domain majorNum="85" subNum="59"/>
+        <domain majorNum="68" subNum="11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w37" ref="NT.1Tim.1.3">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w38" ref="NT.1Tim.1.3">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="*e)/fesos" lex="ἔφεσος"></wf>
+      <sem>
+        <domain majorNum="93" subNum="471"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w39" ref="NT.1Tim.1.3">
+      <pos>
+        <VBP num="sing" cas="nom" voc="mop" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="poreu/omai" lex="πορεύομαι"></wf>
+      <sem>
+        <domain majorNum="15" subNum="10 18 34"/>
+        <domain majorNum="41" subNum="11"/>
+        <domain majorNum="23" subNum="101"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w40" ref="NT.1Tim.1.3">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w41" ref="NT.1Tim.1.3">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="*makedoni/a" lex="Μακεδονία"></wf>
+      <sem>
+        <domain majorNum="93" subNum="527"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c6" level="secondary" connect="NT.1Tim.1_c3" structure="conj-P-C-C">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w42"/>
+      </conj>
+      <P>
+        <w ref="NT.1Tim.w43"/>
+      </P>
+      <C>
+        <w ref="NT.1Tim.w44"/>
+      </C>
+      <C>
+        <clause xml:id="NT.1Tim.1_c7" level="embedded" structure="A-P">
+          <A>
+            <w ref="NT.1Tim.w45"/>
+          </A>
+          <P>
+            <w ref="NT.1Tim.w46"/>
+          </P>
+        </clause>
+        <clause xml:id="NT.1Tim.1_c8" level="embedded" structure="A-P-C">
+          <A>
+            <w ref="NT.1Tim.w47"/>
+          </A>
+          <P>
+            <w ref="NT.1Tim.w48"/>
+          </P>
+          <C>
+            <w ref="NT.1Tim.w49"/>
+            <w ref="NT.1Tim.w50"/>
+            <w ref="NT.1Tim.w51"/>
+            <w ref="NT.1Tim.w52"/>
+          </C>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg15">
+        <head>
+          <w ref="NT.1Tim.w42"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg16">
+        <head>
+          <w ref="NT.1Tim.w43"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg17">
+        <head>
+          <w ref="NT.1Tim.w44"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg18">
+        <head>
+          <w ref="NT.1Tim.w45"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg19">
+        <head>
+          <w ref="NT.1Tim.w46"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg20">
+        <head>
+          <w ref="NT.1Tim.w47"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg21">
+        <head>
+          <w ref="NT.1Tim.w48"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg22">
+        <head>
+          <w ref="NT.1Tim.w49"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg23">
+        <connector>
+          <w ref="NT.1Tim.w50"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w51">
+            <modifiers>
+              <definer>
+                <w ref="NT.1Tim.w52"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w42" ref="NT.1Tim.1.3">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="i(/na" lex="ἵνα"></wf>
+      <sem>
+        <domain majorNum="89" subNum="59 49"/>
+        <domain majorNum="90" subNum="22"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w43" ref="NT.1Tim.1.3">
+      <pos>
+        <VBF num="sing" voc="act" per="2nd" tf="aor" mod="sub"/>
+      </pos>
+      <wf betaLex="paragge/llw" lex="παραγγέλλω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="327"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w44" ref="NT.1Tim.1.3">
+      <pos>
+        <PRO num="plur" cas="dat" type="ind" gen="mas"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w45" ref="NT.1Tim.1.3">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="mh/" lex="μή"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 15"/>
+        <domain majorNum="89" subNum="62"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w46" ref="NT.1Tim.1.3">
+      <pos>
+        <VBN voc="act" tf="pre"/>
+      </pos>
+      <wf betaLex="e(terodidaskale/w" lex="ἑτεροδιδασκαλέω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="235"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w47" ref="NT.1Tim.1.4">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="mhde/" lex="μηδέ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="7 8"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w48" ref="NT.1Tim.1.4">
+      <pos>
+        <VBN voc="act" tf="pre"/>
+      </pos>
+      <wf betaLex="prose/xw" lex="προσέχω"></wf>
+      <sem>
+        <domain majorNum="27" subNum="59"/>
+        <domain majorNum="30" subNum="35"/>
+        <domain majorNum="31" subNum="47"/>
+        <domain majorNum="68" subNum="19"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w49" ref="NT.1Tim.1.4">
+      <pos>
+        <NON num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="mu=qos" lex="μῦθος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="13"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w50" ref="NT.1Tim.1.4">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w51" ref="NT.1Tim.1.4">
+      <pos>
+        <NON num="plur" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="genealogi/a" lex="γενεαλογία"></wf>
+      <sem>
+        <domain majorNum="10" subNum="26"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w52" ref="NT.1Tim.1.4">
+      <pos>
+        <ADJ num="plur" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="a)pe/rantos" lex="ἀπέραντος"></wf>
+      <sem>
+        <domain majorNum="61" subNum="19"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c9" level="secondary2" connect="NT.1Tim.1_c6" structure="S-C-P">
+    <clause_level>
+      <S>
+        <w ref="NT.1Tim.w53"/>
+      </S>
+      <C>
+        <w ref="NT.1Tim.w54"/>
+      </C>
+      <P>
+        <w ref="NT.1Tim.w55"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg24">
+        <head>
+          <w ref="NT.1Tim.w53"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg25">
+        <head>
+          <w ref="NT.1Tim.w54"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg26">
+        <head>
+          <w ref="NT.1Tim.w55"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w53" ref="NT.1Tim.1.4">
+      <pos>
+        <PRO num="plur" cas="nom" type="rel" gen="fem"/>
+      </pos>
+      <wf betaLex="o(/stis" lex="ὅστις"></wf>
+      <sem>
+        <domain majorNum="92" subNum="18"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w54" ref="NT.1Tim.1.4">
+      <pos>
+        <NON num="plur" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="e)kzhte/w" lex="ἐκζητέω"></wf>
+      <sem>
+        <domain majorNum="27" subNum="35"/>
+        <domain majorNum="56" subNum="9"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w55" ref="NT.1Tim.1.4">
+      <pos>
+        <VBF num="plur" voc="act" per="3rd" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="pare/xw" lex="παρέχω"></wf>
+      <sem>
+        <domain majorNum="13" subNum="26 127"/>
+        <domain majorNum="90" subNum="91"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c10" level="secondary" connect="NT.1Tim.1_c9" structure="A-conj-C">
+    <clause_level>
+      <A>
+        <w ref="NT.1Tim.w56"/>
+      </A>
+      <conj>
+        <w ref="NT.1Tim.w57"/>
+      </conj>
+      <C>
+        <w ref="NT.1Tim.w58"/>
+        <w ref="NT.1Tim.w59"/>
+        <w ref="NT.1Tim.w60"/>
+        <w ref="NT.1Tim.w61"/>
+        <w ref="NT.1Tim.w62"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg27">
+        <head>
+          <w ref="NT.1Tim.w56"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg28">
+        <head>
+          <w ref="NT.1Tim.w57"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg29">
+        <head>
+          <w ref="NT.1Tim.w58">
+            <modifiers>
+              <definer>
+                <w ref="NT.1Tim.w60">
+                  <modifiers>
+                    <relator>
+                      <w ref="NT.1Tim.w62">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.1Tim.w61"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </relator>
+                  </modifiers>
+                </w>
+              </definer>
+              <qualifier>
+                <w ref="NT.1Tim.w59"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w56" ref="NT.1Tim.1.4">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="ma=llon" lex="μᾶλλον"></wf>
+      <sem>
+        <domain majorNum="78" subNum="28"/>
+        <domain majorNum="89" subNum="126"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w57" ref="NT.1Tim.1.4">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="h)/" lex="ἤ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="139 140"/>
+        <domain majorNum="64" subNum="18"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w58" ref="NT.1Tim.1.4">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="oi)konomi/a" lex="οἰκονομία"></wf>
+      <sem>
+        <domain majorNum="42" subNum="25"/>
+        <domain majorNum="30" subNum="68"/>
+        <domain majorNum="46" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w59" ref="NT.1Tim.1.4">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w60" ref="NT.1Tim.1.4">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w61" ref="NT.1Tim.1.4">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w62" ref="NT.1Tim.1.4">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="pi/stis" lex="πίστις"></wf>
+      <sem>
+        <domain majorNum="31" subNum="43 85 88 102 104"/>
+        <domain majorNum="33" subNum="289"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c11" level="primary" connect="NT.1Tim.1_c3" structure="S-(conj)-P-C">
+    <clause_level>
+      <S>
+        <w ref="NT.1Tim.w63"/>
+        <conj type="embed" parent="NT.1Tim.1_c11">
+          <w ref="NT.1Tim.w64"/>
+        </conj>
+        <w ref="NT.1Tim.w65"/>
+        <w ref="NT.1Tim.w66"/>
+        <w ref="NT.1Tim.w67"/>
+      </S>
+      <P>
+        <w ref="NT.1Tim.w68"/>
+      </P>
+      <C>
+        <w ref="NT.1Tim.w69"/>
+        <w ref="NT.1Tim.w70"/>
+        <w ref="NT.1Tim.w71"/>
+        <w ref="NT.1Tim.w72"/>
+        <w ref="NT.1Tim.w73"/>
+        <w ref="NT.1Tim.w74"/>
+        <w ref="NT.1Tim.w75"/>
+        <w ref="NT.1Tim.w76"/>
+        <w ref="NT.1Tim.w77"/>
+        <w ref="NT.1Tim.w78"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg30">
+        <head>
+          <w ref="NT.1Tim.w64"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg31">
+        <head>
+          <w ref="NT.1Tim.w65">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w63"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.1Tim.w67">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.1Tim.w66"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg32">
+        <head>
+          <w ref="NT.1Tim.w68"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg33">
+        <head>
+          <w ref="NT.1Tim.w69">
+            <modifiers>
+              <relator>
+                <w ref="NT.1Tim.w72">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.1Tim.w70"/>
+                    </specifier>
+                    <definer>
+                      <w ref="NT.1Tim.w71"/>
+                    </definer>
+                  </modifiers>
+                </w>
+              </relator>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg34">
+        <connector>
+          <w ref="NT.1Tim.w73"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w74">
+            <modifiers>
+              <definer>
+                <w ref="NT.1Tim.w75"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg35">
+        <connector>
+          <w ref="NT.1Tim.w76"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w77">
+            <modifiers>
+              <definer>
+                <w ref="NT.1Tim.w78"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w63" ref="NT.1Tim.1.5">
+      <pos>
+        <ART num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w64" ref="NT.1Tim.1.5">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w65" ref="NT.1Tim.1.5">
+      <pos>
+        <NON num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="te/los" lex="τέλος"></wf>
+      <sem>
+        <domain majorNum="67" subNum="66"/>
+        <domain majorNum="89" subNum="40 55"/>
+        <domain majorNum="78" subNum="47"/>
+        <domain majorNum="57" subNum="179"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w66" ref="NT.1Tim.1.5">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w67" ref="NT.1Tim.1.5">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="paraggeli/a" lex="παραγγελία"></wf>
+      <sem>
+        <domain majorNum="33" subNum="328"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w68" ref="NT.1Tim.1.5">
+      <pos>
+        <VBF num="sing" augment="-" per="3rd" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w69" ref="NT.1Tim.1.5">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="a)ga/ph" lex="ἀγάπη"></wf>
+      <sem>
+        <domain majorNum="25" subNum="43"/>
+        <domain majorNum="23" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w70" ref="NT.1Tim.1.5">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)k" lex="ἐκ"></wf>
+      <sem>
+        <domain majorNum="84" subNum="4"/>
+        <domain majorNum="89" subNum="25 77 85 121 142"/>
+        <domain majorNum="90" subNum="12 16"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="68" subNum="54"/>
+        <domain majorNum="67" subNum="33 131"/>
+        <domain majorNum="57" subNum="162"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w71" ref="NT.1Tim.1.5">
+      <pos>
+        <ADJ num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="kaqaro/s" lex="καθαρός"></wf>
+      <sem>
+        <domain majorNum="79" subNum="48"/>
+        <domain majorNum="53" subNum="29"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w72" ref="NT.1Tim.1.5">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="kardi/a" lex="καρδία"></wf>
+      <sem>
+        <domain majorNum="26" subNum="3"/>
+        <domain majorNum="83" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w73" ref="NT.1Tim.1.5">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w74" ref="NT.1Tim.1.5">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="sunei/dhsis" lex="συνείδησις"></wf>
+      <sem>
+        <domain majorNum="28" subNum="4"/>
+        <domain majorNum="26" subNum="13"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w75" ref="NT.1Tim.1.5">
+      <pos>
+        <ADJ num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="a)gaqo/s" lex="ἀγαθός"></wf>
+      <sem>
+        <domain majorNum="88" subNum="1"/>
+        <domain majorNum="65" subNum="20"/>
+        <domain majorNum="57" subNum="110"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w76" ref="NT.1Tim.1.5">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w77" ref="NT.1Tim.1.5">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="pi/stis" lex="πίστις"></wf>
+      <sem>
+        <domain majorNum="31" subNum="43 85 88 102 104"/>
+        <domain majorNum="33" subNum="289"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w78" ref="NT.1Tim.1.5">
+      <pos>
+        <ADJ num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="a)nupo/kritos" lex="ἀνυπόκριτος"></wf>
+      <sem>
+        <domain majorNum="73" subNum="8"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c12" level="secondary" connect="NT.1Tim.1_c11" structure="A-(S)-P-A-A">
+    <clause_level>
+      <A>
+        <clause xml:id="NT.1Tim.1_c13" level="embedded" structure="C-P">
+          <C>
+            <w ref="NT.1Tim.w79"/>
+          </C>
+          <P>
+            <w ref="NT.1Tim.w81"/>
+          </P>
+        </clause>
+        <S type="embed" parent="NT.1Tim.1_c12">
+          <w ref="NT.1Tim.w80"/>
+        </S>
+      </A>
+      <P>
+        <w ref="NT.1Tim.w82"/>
+      </P>
+      <A>
+        <w ref="NT.1Tim.w83"/>
+        <w ref="NT.1Tim.w84"/>
+      </A>
+      <A>
+        <clause xml:id="NT.1Tim.1_c14" level="embedded" structure="P-C-A">
+          <P>
+            <w ref="NT.1Tim.w85"/>
+          </P>
+          <C>
+            <clause xml:id="NT.1Tim.1_c15" level="embedded" structure="P-C">
+              <P>
+                <w ref="NT.1Tim.w86"/>
+              </P>
+              <C>
+                <w ref="NT.1Tim.w87"/>
+              </C>
+            </clause>
+          </C>
+          <A>
+            <clause xml:id="NT.1Tim.1_c16" level="embedded" structure="A-P">
+              <A>
+                <w ref="NT.1Tim.w88"/>
+              </A>
+              <P>
+                <w ref="NT.1Tim.w89"/>
+              </P>
+            </clause>
+            <clause xml:id="NT.1Tim.1_c17" level="embedded" structure="conj-C-P">
+              <conj>
+                <w ref="NT.1Tim.w90"/>
+              </conj>
+              <C>
+                <w ref="NT.1Tim.w91"/>
+              </C>
+              <P>
+                <w ref="NT.1Tim.w92"/>
+              </P>
+            </clause>
+            <clause xml:id="NT.1Tim.1_c18" level="embedded" structure="conj-A-P">
+              <conj>
+                <w ref="NT.1Tim.w93"/>
+              </conj>
+              <A>
+                <w ref="NT.1Tim.w94"/>
+                <w ref="NT.1Tim.w95"/>
+              </A>
+              <P>
+                <w ref="NT.1Tim.w96"/>
+              </P>
+            </clause>
+          </A>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg36">
+        <head>
+          <w ref="NT.1Tim.w79"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg37">
+        <head>
+          <w ref="NT.1Tim.w81"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg38">
+        <head>
+          <w ref="NT.1Tim.w80"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg39">
+        <head>
+          <w ref="NT.1Tim.w82"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg40">
+        <head>
+          <w ref="NT.1Tim.w84">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w83"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg41">
+        <head>
+          <w ref="NT.1Tim.w85"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg42">
+        <head>
+          <w ref="NT.1Tim.w86"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg43">
+        <head>
+          <w ref="NT.1Tim.w87"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg44">
+        <head>
+          <w ref="NT.1Tim.w88"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg45">
+        <head>
+          <w ref="NT.1Tim.w89"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg46">
+        <head>
+          <w ref="NT.1Tim.w90"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg47">
+        <head>
+          <w ref="NT.1Tim.w91"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg48">
+        <head>
+          <w ref="NT.1Tim.w92"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg49">
+        <head>
+          <w ref="NT.1Tim.w93"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg50">
+        <head>
+          <w ref="NT.1Tim.w95">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w94"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg51">
+        <head>
+          <w ref="NT.1Tim.w96"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w79" ref="NT.1Tim.1.6">
+      <pos>
+        <PRO num="plur" cas="gen" type="rel" gen="fem"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w81" ref="NT.1Tim.1.6">
+      <pos>
+        <VBP num="plur" cas="nom" voc="act" gen="mas" tf="aor"/>
+      </pos>
+      <wf betaLex="a)stoxe/w" lex="ἀστοχέω"></wf>
+      <sem>
+        <domain majorNum="31" subNum="68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w80" ref="NT.1Tim.1.6">
+      <pos>
+        <PRO num="plur" cas="nom" type="ind" gen="mas"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w82" ref="NT.1Tim.1.6">
+      <pos>
+        <VBF num="plur" per="3rd" voc="mop" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="e)ktre/pw" lex="ἐκτρέπω"></wf>
+      <sem>
+        <domain majorNum="23" subNum="178"/>
+        <domain majorNum="31" subNum="65"/>
+        <domain majorNum="13" subNum="155"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w83" ref="NT.1Tim.1.6">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w84" ref="NT.1Tim.1.6">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="mataiologi/a" lex="ματαιολογία"></wf>
+      <sem>
+        <domain majorNum="33" subNum="377"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w85" ref="NT.1Tim.1.7">
+      <pos>
+        <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="qe/lw" lex="θέλω"></wf>
+      <sem>
+        <domain majorNum="30" subNum="58"/>
+        <domain majorNum="31" subNum="4"/>
+        <domain majorNum="25" subNum="1 102"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w86" ref="NT.1Tim.1.7">
+      <pos>
+        <VBN augment="-"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w87" ref="NT.1Tim.1.7">
+      <pos>
+        <NON num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="nomodida/skalos" lex="νομοδιδάσκαλος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="248"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w88" ref="NT.1Tim.1.7">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="mh/" lex="μή"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 15"/>
+        <domain majorNum="89" subNum="62"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w89" ref="NT.1Tim.1.7">
+      <pos>
+        <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="noe/w" lex="νοέω"></wf>
+      <sem>
+        <domain majorNum="32" subNum="2"/>
+        <domain majorNum="30" subNum="3"/>
+        <domain majorNum="31" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w90" ref="NT.1Tim.1.7">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="mh/te" lex="μήτε"></wf>
+      <sem>
+        <domain majorNum="69" subNum="9"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w91" ref="NT.1Tim.1.7">
+      <pos>
+        <PRO num="plur" cas="acc" type="rel" gen="neu"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w92" ref="NT.1Tim.1.7">
+      <pos>
+        <VBF num="plur" voc="act" per="3rd" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w93" ref="NT.1Tim.1.7">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="mh/te" lex="μήτε"></wf>
+      <sem>
+        <domain majorNum="69" subNum="9"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w94" ref="NT.1Tim.1.7">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="peri/" lex="περί"></wf>
+      <sem>
+        <domain majorNum="83" subNum="18"/>
+        <domain majorNum="90" subNum="24 39"/>
+        <domain majorNum="67" subNum="35"/>
+        <domain majorNum="89" subNum="36 110 6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w95" ref="NT.1Tim.1.7">
+      <pos>
+        <PRO num="plur" cas="gen" type="rog" gen="neu"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w96" ref="NT.1Tim.1.7">
+      <pos>
+        <VBF num="plur" per="3rd" voc="mop" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="diabebaio/omai" lex="διαβεβαιόομαι"></wf>
+      <sem>
+        <domain majorNum="33" subNum="322"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c19" level="primary" connect="NT.1Tim.1_c11" structure="P-conj">
+    <clause_level>
+      <P>
+        <w ref="NT.1Tim.w97"/>
+      </P>
+      <conj>
+        <w ref="NT.1Tim.w98"/>
+      </conj>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg52">
+        <head>
+          <w ref="NT.1Tim.w97"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg53">
+        <head>
+          <w ref="NT.1Tim.w98"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w97" ref="NT.1Tim.1.8">
+      <pos>
+        <VBF num="plur" voc="act" per="1st" tf="per" mod="ind"/>
+      </pos>
+      <wf betaLex="oi)=da" lex="οἶδα"></wf>
+      <sem>
+        <domain majorNum="28" subNum="1 7"/>
+        <domain majorNum="32" subNum="4"/>
+        <domain majorNum="29" subNum="6"/>
+        <domain majorNum="87" subNum="12"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w98" ref="NT.1Tim.1.8">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c20" level="secondary" connect="NT.1Tim.1_c19" structure="conj-C-S">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w99"/>
+      </conj>
+      <C>
+        <w ref="NT.1Tim.w100"/>
+      </C>
+      <S>
+        <w ref="NT.1Tim.w101"/>
+        <w ref="NT.1Tim.w102"/>
+      </S>
+    </clause_level>
+    <wordgroup_level/>
+    <w xml:id="NT.1Tim.w99" ref="NT.1Tim.1.8">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="o(/ti" lex="ὅτι"></wf>
+      <sem>
+        <domain majorNum="90" subNum="21"/>
+        <domain majorNum="89" subNum="33"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w100" ref="NT.1Tim.1.8">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="kalo/s" lex="καλός"></wf>
+      <sem>
+        <domain majorNum="88" subNum="4"/>
+        <domain majorNum="65" subNum="22 43"/>
+        <domain majorNum="66" subNum="2"/>
+        <domain majorNum="79" subNum="9"/>
+        <domain majorNum="87" subNum="25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w101" ref="NT.1Tim.1.8">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w102" ref="NT.1Tim.1.8">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="no/mos" lex="νόμος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="333 55 56"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c21" level="secondary2" connect="NT.1Tim.1_c20" structure="conj-S-C-A-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w103"/>
+      </conj>
+      <S>
+        <w ref="NT.1Tim.w104"/>
+      </S>
+      <C>
+        <w ref="NT.1Tim.w105"/>
+      </C>
+      <A>
+        <w ref="NT.1Tim.w106"/>
+      </A>
+      <P>
+        <w ref="NT.1Tim.w107"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg57">
+        <head>
+          <w ref="NT.1Tim.w103"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg58">
+        <head>
+          <w ref="NT.1Tim.w104"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg59">
+        <head>
+          <w ref="NT.1Tim.w105"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg60">
+        <head>
+          <w ref="NT.1Tim.w106"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg61">
+        <head>
+          <w ref="NT.1Tim.w107"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w103" ref="NT.1Tim.1.8">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="e)a/n" lex="ἐάν"></wf>
+      <sem>
+        <domain majorNum="89" subNum="67"/>
+        <domain majorNum="67" subNum="32"/>
+        <domain majorNum="71" subNum="8"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w104" ref="NT.1Tim.1.8">
+      <pos>
+        <PRO num="sing" cas="nom" type="ind" gen="mas"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w105" ref="NT.1Tim.1.8">
+      <pos>
+        <PRO num="sing" cas="dat" type="int" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w106" ref="NT.1Tim.1.8">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="nomi/mws" lex="νομίμως"></wf>
+      <sem>
+        <domain majorNum="72" subNum="18"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w107" ref="NT.1Tim.1.8">
+      <pos>
+        <VBF num="sing" per="3rd" voc="mop" tf="pre" mod="sub"/>
+      </pos>
+      <wf betaLex="xra/omai" lex="χράομαι"></wf>
+      <sem>
+        <domain majorNum="41" subNum="4 5"/>
+        <domain majorNum="42" subNum="24"/>
+        <domain majorNum="90" subNum="13"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c22" level="secondary" connect="NT.1Tim.1_c19" structure="P-C">
+    <clause_level>
+      <P>
+        <w ref="NT.1Tim.w108"/>
+      </P>
+      <C>
+        <w ref="NT.1Tim.w109"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg62">
+        <head>
+          <w ref="NT.1Tim.w108"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg63">
+        <head>
+          <w ref="NT.1Tim.w109"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w108" ref="NT.1Tim.1.9">
+      <pos>
+        <VBP num="sing" cas="nom" voc="act" gen="mas" tf="per"/>
+      </pos>
+      <wf betaLex="o(ra/w" lex="ὁράω"></wf>
+      <sem>
+        <domain majorNum="24" subNum="1"/>
+        <domain majorNum="30" subNum="45"/>
+        <domain majorNum="31" subNum="11"/>
+        <domain majorNum="34" subNum="50"/>
+        <domain majorNum="90" subNum="79"/>
+        <domain majorNum="27" subNum="5"/>
+        <domain majorNum="13" subNum="134"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w109" ref="NT.1Tim.1.9">
+      <pos>
+        <PRO num="sing" cas="acc" type="dem" gen="neu"/>
+      </pos>
+      <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+      <sem>
+        <domain majorNum="92" subNum="29"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c23" level="secondary2" connect="NT.1Tim.1_c22" structure="conj-C-S-A-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w110"/>
+      </conj>
+      <C>
+        <w ref="NT.1Tim.w111"/>
+      </C>
+      <S>
+        <w ref="NT.1Tim.w112"/>
+      </S>
+      <A>
+        <w ref="NT.1Tim.w113"/>
+      </A>
+      <P>
+        <w ref="NT.1Tim.w114"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg64">
+        <head>
+          <w ref="NT.1Tim.w110"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg65">
+        <head>
+          <w ref="NT.1Tim.w111"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg66">
+        <head>
+          <w ref="NT.1Tim.w112"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg67">
+        <head>
+          <w ref="NT.1Tim.w113"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg68">
+        <head>
+          <w ref="NT.1Tim.w114"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w110" ref="NT.1Tim.1.9">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="o(/ti" lex="ὅτι"></wf>
+      <sem>
+        <domain majorNum="90" subNum="21"/>
+        <domain majorNum="89" subNum="33"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w111" ref="NT.1Tim.1.9">
+      <pos>
+        <ADJ num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="di/kaios" lex="δίκαιος"></wf>
+      <sem>
+        <domain majorNum="88" subNum="12"/>
+        <domain majorNum="34" subNum="47"/>
+        <domain majorNum="66" subNum="5"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w112" ref="NT.1Tim.1.9">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="no/mos" lex="νόμος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="333 55 56"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w113" ref="NT.1Tim.1.9">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w114" ref="NT.1Tim.1.9">
+      <pos>
+        <VBF num="sing" per="3rd" voc="mop" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="kei=mai" lex="κεῖμαι"></wf>
+      <sem>
+        <domain majorNum="17" subNum="26"/>
+        <domain majorNum="85" subNum="3"/>
+        <domain majorNum="13" subNum="73"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c24" level="secondary" connect="NT.1Tim.1_c23" structure="C-(conj)">
+    <clause_level>
+      <C>
+        <w ref="NT.1Tim.w115"/>
+        <conj type="embed" parent="NT.1Tim.1_c24">
+          <w ref="NT.1Tim.w116"/>
+        </conj>
+        <w ref="NT.1Tim.w117"/>
+        <w ref="NT.1Tim.w118"/>
+        <w ref="NT.1Tim.w119"/>
+        <w ref="NT.1Tim.w120"/>
+        <w ref="NT.1Tim.w121"/>
+        <w ref="NT.1Tim.w122"/>
+        <w ref="NT.1Tim.w123"/>
+        <w ref="NT.1Tim.w124"/>
+        <w ref="NT.1Tim.w125"/>
+        <w ref="NT.1Tim.w126"/>
+        <w ref="NT.1Tim.w127"/>
+        <w ref="NT.1Tim.w128"/>
+        <w ref="NT.1Tim.w129"/>
+        <w ref="NT.1Tim.w130"/>
+        <w ref="NT.1Tim.w131"/>
+        <w ref="NT.1Tim.w132"/>
+        <w ref="NT.1Tim.w133"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg69">
+        <head>
+          <w ref="NT.1Tim.w115"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg70">
+        <head>
+          <w ref="NT.1Tim.w116"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg71">
+        <connector>
+          <w ref="NT.1Tim.w117"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w118"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg72">
+        <head>
+          <w ref="NT.1Tim.w119"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg73">
+        <connector>
+          <w ref="NT.1Tim.w120"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w121"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg74">
+        <head>
+          <w ref="NT.1Tim.w122"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg75">
+        <connector>
+          <w ref="NT.1Tim.w123"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w124"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg76">
+        <head>
+          <w ref="NT.1Tim.w125"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg77">
+        <connector>
+          <w ref="NT.1Tim.w126"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w127"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg78">
+        <head>
+          <w ref="NT.1Tim.w128"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg79">
+        <head>
+          <w ref="NT.1Tim.w129"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg80">
+        <head>
+          <w ref="NT.1Tim.w130"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg81">
+        <head>
+          <w ref="NT.1Tim.w131"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg82">
+        <head>
+          <w ref="NT.1Tim.w132"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg83">
+        <head>
+          <w ref="NT.1Tim.w133"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w115" ref="NT.1Tim.1.9">
+      <pos>
+        <ADJ num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="a)/nomos" lex="ἄνομος"></wf>
+      <sem>
+        <domain majorNum="11" subNum="42"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w116" ref="NT.1Tim.1.9">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w117" ref="NT.1Tim.1.9">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w118" ref="NT.1Tim.1.9">
+      <pos>
+        <ADJ num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="a)nupo/taktos" lex="ἀνυπότακτος"></wf>
+      <sem>
+        <domain majorNum="37" subNum="32"/>
+        <domain majorNum="36" subNum="26"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w119" ref="NT.1Tim.1.9">
+      <pos>
+        <ADJ num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="a)sebh/s" lex="ἀσεβής"></wf>
+      <sem>
+        <domain majorNum="53" subNum="11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w120" ref="NT.1Tim.1.9">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w121" ref="NT.1Tim.1.9">
+      <pos>
+        <ADJ num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="a(martwlo/s" lex="ἁμαρτωλός"></wf>
+      <sem>
+        <domain majorNum="88" subNum="294"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w122" ref="NT.1Tim.1.9">
+      <pos>
+        <ADJ num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="a)no/sios" lex="ἀνόσιος"></wf>
+      <sem>
+        <domain majorNum="53" subNum="47"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w123" ref="NT.1Tim.1.9">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w124" ref="NT.1Tim.1.9">
+      <pos>
+        <ADJ num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="be/bhlos" lex="βέβηλος"></wf>
+      <sem>
+        <domain majorNum="88" subNum="115"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w125" ref="NT.1Tim.1.9">
+      <pos>
+        <NON num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="patrolw/|as" lex="πατρολῴας"></wf>
+      <sem>
+        <domain majorNum="20" subNum="88"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w126" ref="NT.1Tim.1.9">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w127" ref="NT.1Tim.1.9">
+      <pos>
+        <NON num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="mhtrolw/|as" lex="μητρολῴας"></wf>
+      <sem>
+        <domain majorNum="20" subNum="87"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w128" ref="NT.1Tim.1.9">
+      <pos>
+        <NON num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="a)ndrofo/nos" lex="ἀνδροφόνος"></wf>
+      <sem>
+        <domain majorNum="20" subNum="85"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w129" ref="NT.1Tim.1.10">
+      <pos>
+        <NON num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="po/nos" lex="πόνος"></wf>
+      <sem>
+        <domain majorNum="24" subNum="77"/>
+        <domain majorNum="42" subNum="49"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w130" ref="NT.1Tim.1.10">
+      <pos>
+        <NON num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="a)rsenokoi/ths" lex="ἀρσενοκοίτης"></wf>
+      <sem>
+        <domain majorNum="88" subNum="280."/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w131" ref="NT.1Tim.1.10">
+      <pos>
+        <NON num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="a)ndrapodisth/s" lex="ἀνδραποδιστής"></wf>
+      <sem>
+        <domain majorNum="57" subNum="187"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w132" ref="NT.1Tim.1.10">
+      <pos>
+        <NON num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="yeu/sths" lex="ψεύστης"></wf>
+      <sem>
+        <domain majorNum="33" subNum="255"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w133" ref="NT.1Tim.1.10">
+      <pos>
+        <ADJ num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="e)pi/orkos" lex="ἐπίορκος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="466"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c25" level="secondary" connect="NT.1Tim.1_c24" structure="conj-conj-C-A-P-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w134"/>
+      </conj>
+      <conj>
+        <w ref="NT.1Tim.w135"/>
+      </conj>
+      <C>
+        <w ref="NT.1Tim.w136"/>
+        <w ref="NT.1Tim.w137"/>
+      </C>
+      <A>
+        <w ref="NT.1Tim.w138"/>
+        <w ref="NT.1Tim.w139"/>
+        <w ref="NT.1Tim.w140"/>
+      </A>
+      <P>
+        <w ref="NT.1Tim.w141"/>
+      </P>
+      <A>
+        <w ref="NT.1Tim.w142"/>
+        <w ref="NT.1Tim.w143"/>
+        <w ref="NT.1Tim.w144"/>
+        <w ref="NT.1Tim.w145"/>
+        <w ref="NT.1Tim.w146"/>
+        <w ref="NT.1Tim.w147"/>
+        <w ref="NT.1Tim.w148"/>
+        <w ref="NT.1Tim.w149"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg84">
+        <head>
+          <w ref="NT.1Tim.w134"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg85">
+        <head>
+          <w ref="NT.1Tim.w135"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg86">
+        <head>
+          <w ref="NT.1Tim.w136">
+            <modifiers>
+              <definer>
+                <w ref="NT.1Tim.w137"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg87">
+        <head>
+          <w ref="NT.1Tim.w140">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w138"/>
+              </specifier>
+              <definer>
+                <w ref="NT.1Tim.w139"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg88">
+        <head>
+          <w ref="NT.1Tim.w141"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg89">
+        <head>
+          <w ref="NT.1Tim.w144">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w142"/>
+                <w ref="NT.1Tim.w143"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.1Tim.w146">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.1Tim.w145"/>
+                    </specifier>
+                    <qualifier>
+                      <w ref="NT.1Tim.w149">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.1Tim.w147"/>
+                          </specifier>
+                          <definer>
+                            <w ref="NT.1Tim.w148"/>
+                          </definer>
+                        </modifiers>
+                      </w>
+                    </qualifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w134" ref="NT.1Tim.1.10">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w135" ref="NT.1Tim.1.10">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ei)" lex="εἰ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="65 30"/>
+        <domain majorNum="90" subNum="26"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w136" ref="NT.1Tim.1.10">
+      <pos>
+        <PRO num="sing" cas="nom" type="ind" gen="neu"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w137" ref="NT.1Tim.1.10">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="e(/teros" lex="ἕτερος"></wf>
+      <sem>
+        <domain majorNum="58" subNum="36 37"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w138" ref="NT.1Tim.1.10">
+      <pos>
+        <ART num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w139" ref="NT.1Tim.1.10">
+      <pos>
+        <VBP num="sing" cas="dat" voc="act" gen="fem" tf="pre"/>
+      </pos>
+      <wf betaLex="u(giai/nw" lex="ὑγιαίνω"></wf>
+      <sem>
+        <domain majorNum="23" subNum="129"/>
+        <domain majorNum="72" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w140" ref="NT.1Tim.1.10">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="didaskali/a" lex="διδασκαλία"></wf>
+      <sem>
+        <domain majorNum="33" subNum="224 236"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w141" ref="NT.1Tim.1.10">
+      <pos>
+        <VBF num="sing" per="3rd" voc="mop" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="a)nti/keimai" lex="ἀντίκειμαι"></wf>
+      <sem>
+        <domain majorNum="39" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w142" ref="NT.1Tim.1.11">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="kata/" lex="κατά"></wf>
+      <sem>
+        <domain majorNum="84" subNum="21 30 31"/>
+        <domain majorNum="83" subNum="45 12 44"/>
+        <domain majorNum="67" subNum="33 35"/>
+        <domain majorNum="90" subNum="29 31"/>
+        <domain majorNum="89" subNum="8 90 4 113"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w143" ref="NT.1Tim.1.11">
+      <pos>
+        <ART num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w144" ref="NT.1Tim.1.11">
+      <pos>
+        <NON num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="eu)agge/lion" lex="εὐαγγέλιον"></wf>
+      <sem>
+        <domain majorNum="33" subNum="217"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w145" ref="NT.1Tim.1.11">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w146" ref="NT.1Tim.1.11">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="do/ca" lex="δόξα"></wf>
+      <sem>
+        <domain majorNum="79" subNum="18"/>
+        <domain majorNum="14" subNum="49"/>
+        <domain majorNum="76" subNum="13"/>
+        <domain majorNum="33" subNum="357"/>
+        <domain majorNum="87" subNum="4"/>
+        <domain majorNum="87" subNum="23"/>
+        <domain majorNum="12" subNum="49"/>
+        <domain majorNum="1" subNum="15"/>
+        <domain majorNum="25" subNum="205"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w147" ref="NT.1Tim.1.11">
+      <pos>
+        <ART num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w148" ref="NT.1Tim.1.11">
+      <pos>
+        <ADJ num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="maka/rios" lex="μακάριος"></wf>
+      <sem>
+        <domain majorNum="25" subNum="119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w149" ref="NT.1Tim.1.11">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c26" level="secondary2" connect="NT.1Tim.1_c25" structure="C-P">
+    <clause_level>
+      <C>
+        <w ref="NT.1Tim.w150"/>
+      </C>
+      <P>
+        <w ref="NT.1Tim.w151"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg90">
+        <head>
+          <w ref="NT.1Tim.w150"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg91">
+        <head>
+          <w ref="NT.1Tim.w151"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w150" ref="NT.1Tim.1.11">
+      <pos>
+        <PRO num="sing" cas="acc" type="rel" gen="neu"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w151" ref="NT.1Tim.1.11">
+      <pos>
+        <VBF num="sing" per="1st" voc="mop" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="pisteu/w" lex="πιστεύω"></wf>
+      <sem>
+        <domain majorNum="31" subNum="35 85 102"/>
+        <domain majorNum="35" subNum="50"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c27" level="primary" connect="NT.1Tim.1_c19" structure="S-C-P-C">
+    <clause_level>
+      <S>
+        <w ref="NT.1Tim.w152"/>
+      </S>
+      <C>
+        <w ref="NT.1Tim.w153"/>
+      </C>
+      <P>
+        <w ref="NT.1Tim.w154"/>
+      </P>
+      <C>
+        <clause xml:id="NT.1Tim.1_c28" level="embedded" structure="P-C">
+          <P>
+            <w ref="NT.1Tim.w155"/>
+            <w ref="NT.1Tim.w156"/>
+          </P>
+          <C>
+            <w ref="NT.1Tim.w157"/>
+          </C>
+        </clause>
+        <w ref="NT.1Tim.w158"/>
+        <w ref="NT.1Tim.w159"/>
+        <w ref="NT.1Tim.w160"/>
+        <w ref="NT.1Tim.w161"/>
+        <w ref="NT.1Tim.w162"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg92">
+        <head>
+          <w ref="NT.1Tim.w152"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg93">
+        <head>
+          <w ref="NT.1Tim.w153"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg94">
+        <head>
+          <w ref="NT.1Tim.w154"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg95">
+        <head>
+          <w ref="NT.1Tim.w156">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w155"/>
+              </specifier>
+              <definer>
+                <w ref="NT.1Tim.w158">
+                  <modifiers>
+                    <definer>
+                      <w ref="NT.1Tim.w159">
+                        <modifiers>
+                          <definer>
+                            <w ref="NT.1Tim.w161">
+                              <modifiers>
+                                <specifier>
+                                  <w ref="NT.1Tim.w160"/>
+                                </specifier>
+                                <qualifier>
+                                  <w ref="NT.1Tim.w162"/>
+                                </qualifier>
+                              </modifiers>
+                            </w>
+                          </definer>
+                        </modifiers>
+                      </w>
+                    </definer>
+                  </modifiers>
+                </w>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg96">
+        <head>
+          <w ref="NT.1Tim.w157"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w152" ref="NT.1Tim.1.11">
+      <pos>
+        <PRO num="sing" cas="nom" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w153" ref="NT.1Tim.1.12">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="xa/ris" lex="χάρις"></wf>
+      <sem>
+        <domain majorNum="88" subNum="66"/>
+        <domain majorNum="57" subNum="103"/>
+        <domain majorNum="33" subNum="350"/>
+        <domain majorNum="25" subNum="89"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w154" ref="NT.1Tim.1.12">
+      <pos>
+        <VBF num="sing" voc="act" per="1st" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="e)/xw" lex="ἔχω"></wf>
+      <sem>
+        <domain majorNum="57" subNum="1"/>
+        <domain majorNum="18" subNum="6"/>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="49" subNum="13"/>
+        <domain majorNum="74" subNum="12"/>
+        <domain majorNum="90" subNum="65"/>
+        <domain majorNum="13" subNum="2"/>
+        <domain majorNum="90" subNum="51 27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w155" ref="NT.1Tim.1.12">
+      <pos>
+        <ART num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w156" ref="NT.1Tim.1.12">
+      <pos>
+        <VBP num="sing" cas="dat" voc="act" gen="mas" tf="aor"/>
+      </pos>
+      <wf betaLex="e)ndunamo/w" lex="ἐνδυναμόω"></wf>
+      <sem>
+        <domain majorNum="74" subNum="6 7"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w157" ref="NT.1Tim.1.12">
+      <pos>
+        <PRO num="sing" cas="acc" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w158" ref="NT.1Tim.1.12">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w159" ref="NT.1Tim.1.12">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+      <sem>
+        <domain majorNum="93" subNum="169"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w160" ref="NT.1Tim.1.12">
+      <pos>
+        <ART num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w161" ref="NT.1Tim.1.12">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="ku/rios" lex="κύριος"></wf>
+      <sem>
+        <domain majorNum="12" subNum="9"/>
+        <domain majorNum="57" subNum="12"/>
+        <domain majorNum="37" subNum="51"/>
+        <domain majorNum="87" subNum="53"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w162" ref="NT.1Tim.1.12">
+      <pos>
+        <PRO num="plur" cas="gen" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c29" level="secondary" connect="NT.1Tim.1_c27" structure="conj-C-C-(P)-(A)">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w163"/>
+      </conj>
+      <C>
+        <w ref="NT.1Tim.w164"/>
+      </C>
+      <C>
+        <w ref="NT.1Tim.w165"/>
+        <P type="embed" parent="NT.1Tim.1_c29">
+          <w ref="NT.1Tim.w166"/>
+        </P>
+        <A type="embed" parent="NT.1Tim.1_c29">
+          <clause xml:id="NT.1Tim.1_c30" level="embedded" structure="P-A">
+            <P>
+              <w ref="NT.1Tim.w167"/>
+            </P>
+            <A>
+              <w ref="NT.1Tim.w168"/>
+              <w ref="NT.1Tim.w169"/>
+            </A>
+          </clause>
+        </A>
+        <clause xml:id="NT.1Tim.1_c31" level="embedded" structure="A-P-C">
+          <A>
+            <w ref="NT.1Tim.w170"/>
+            <w ref="NT.1Tim.w171"/>
+          </A>
+          <P>
+            <w ref="NT.1Tim.w172"/>
+          </P>
+          <C>
+            <w ref="NT.1Tim.w173"/>
+            <w ref="NT.1Tim.w174"/>
+            <w ref="NT.1Tim.w175"/>
+            <w ref="NT.1Tim.w176"/>
+            <w ref="NT.1Tim.w177"/>
+          </C>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg97">
+        <head>
+          <w ref="NT.1Tim.w163"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg98">
+        <head>
+          <w ref="NT.1Tim.w164"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg99">
+        <head>
+          <w ref="NT.1Tim.w165"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg100">
+        <head>
+          <w ref="NT.1Tim.w166"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg101">
+        <head>
+          <w ref="NT.1Tim.w167"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg102">
+        <head>
+          <w ref="NT.1Tim.w169">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w168"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg103">
+        <head>
+          <w ref="NT.1Tim.w171">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w170"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg104">
+        <head>
+          <w ref="NT.1Tim.w172"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg105">
+        <head>
+          <w ref="NT.1Tim.w173"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg106">
+        <head>
+          <w ref="NT.1Tim.w175">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w174"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg107">
+        <connector>
+          <w ref="NT.1Tim.w176"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w177"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w163" ref="NT.1Tim.1.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="o(/ti" lex="ὅτι"></wf>
+      <sem>
+        <domain majorNum="90" subNum="21"/>
+        <domain majorNum="89" subNum="33"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w164" ref="NT.1Tim.1.12">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="pisto/s" lex="πιστός"></wf>
+      <sem>
+        <domain majorNum="31" subNum="86 87"/>
+        <domain majorNum="71" subNum="17"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w165" ref="NT.1Tim.1.12">
+      <pos>
+        <PRO num="sing" cas="acc" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w166" ref="NT.1Tim.1.12">
+      <pos>
+        <VBF num="sing" per="3rd" voc="mop" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="h(ge/omai" lex="ἡγέομαι"></wf>
+      <sem>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="36" subNum="1"/>
+        <domain majorNum="37" subNum="58"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w167" ref="NT.1Tim.1.12">
+      <pos>
+        <VBP num="sing" cas="nom" voc="mop" gen="mas" tf="aor"/>
+      </pos>
+      <wf betaLex="ti/qhmi" lex="τίθημι"></wf>
+      <sem>
+        <domain majorNum="85" subNum="32"/>
+        <domain majorNum="37" subNum="96"/>
+        <domain majorNum="49" subNum="21"/>
+        <domain majorNum="33" subNum="151"/>
+        <domain majorNum="57" subNum="217"/>
+        <domain majorNum="13" subNum="9"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w168" ref="NT.1Tim.1.12">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w169" ref="NT.1Tim.1.12">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="diakoni/a" lex="διακονία"></wf>
+      <sem>
+        <domain majorNum="35" subNum="19 21 38"/>
+        <domain majorNum="46" subNum="13"/>
+        <domain majorNum="57" subNum="119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w170" ref="NT.1Tim.1.13">
+      <pos>
+        <ART num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w171" ref="NT.1Tim.1.13">
+      <pos>
+        <ADJ num="sing" cas="acc" type="com" gen="neu"/>
+      </pos>
+      <wf betaLex="pro/teros" lex="πρότερος"></wf>
+      <sem>
+        <domain majorNum="67" subNum="18 47"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w172" ref="NT.1Tim.1.13">
+      <pos>
+        <VBP num="sing" augment="-" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w173" ref="NT.1Tim.1.13">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="bla/sfhmos" lex="βλάσφημος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="402"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w174" ref="NT.1Tim.1.13">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w175" ref="NT.1Tim.1.13">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="diw/kths" lex="διώκτης"></wf>
+      <sem>
+        <domain majorNum="39" subNum=""/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w176" ref="NT.1Tim.1.13">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w177" ref="NT.1Tim.1.13">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="u(bristh/s" lex="ὑβριστής"></wf>
+      <sem>
+        <domain majorNum="88" subNum="132"/>
+        <domain majorNum="33" subNum="392"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c32" level="primary" connect="NT.1Tim.1_c27" structure="conj-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w178"/>
+      </conj>
+      <P>
+        <w ref="NT.1Tim.w179"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg108">
+        <head>
+          <w ref="NT.1Tim.w178"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg109">
+        <head>
+          <w ref="NT.1Tim.w179"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w178" ref="NT.1Tim.1.13">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+      <sem>
+        <domain majorNum="89" subNum="125 96"/>
+        <domain majorNum="91" subNum="2 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w179" ref="NT.1Tim.1.13">
+      <pos>
+        <VBF num="sing" per="1st" voc="mop" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="e)lea/w" lex="ἐλεάω"></wf>
+      <sem>
+        <domain majorNum="88" subNum="76"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c33" level="secondary" connect="NT.1Tim.1_c32" structure="conj-A-P-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w180"/>
+      </conj>
+      <A>
+        <clause xml:id="NT.1Tim.1_c34" level="embedded" structure="P">
+          <P>
+            <w ref="NT.1Tim.w181"/>
+          </P>
+        </clause>
+      </A>
+      <P>
+        <w ref="NT.1Tim.w182"/>
+      </P>
+      <A>
+        <w ref="NT.1Tim.w183"/>
+        <w ref="NT.1Tim.w184"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg110">
+        <head>
+          <w ref="NT.1Tim.w180"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg111">
+        <head>
+          <w ref="NT.1Tim.w181"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg112">
+        <head>
+          <w ref="NT.1Tim.w182"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg113">
+        <head>
+          <w ref="NT.1Tim.w184">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w183"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w180" ref="NT.1Tim.1.13">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="o(/ti" lex="ὅτι"></wf>
+      <sem>
+        <domain majorNum="90" subNum="21"/>
+        <domain majorNum="89" subNum="33"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w181" ref="NT.1Tim.1.13">
+      <pos>
+        <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="a)gnoe/w" lex="ἀγνοέω"></wf>
+      <sem>
+        <domain majorNum="28" subNum="13"/>
+        <domain majorNum="30" subNum="28"/>
+        <domain majorNum="32" subNum="7"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w182" ref="NT.1Tim.1.13">
+      <pos>
+        <VBF num="sing" voc="act" per="1st" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="poie/w" lex="ποιέω"></wf>
+      <sem>
+        <domain majorNum="90" subNum="45"/>
+        <domain majorNum="42" subNum="7"/>
+        <domain majorNum="13" subNum="9"/>
+        <domain majorNum="42" subNum="41 29"/>
+        <domain majorNum="41" subNum="7"/>
+        <domain majorNum="37" subNum="106"/>
+        <domain majorNum="57" subNum="189"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w183" ref="NT.1Tim.1.13">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w184" ref="NT.1Tim.1.13">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="a)pisti/a" lex="ἀπιστία"></wf>
+      <sem>
+        <domain majorNum="31" subNum="89 97 105"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c35" level="primary" connect="NT.1Tim.1_c32" structure="P-conj-S-A">
+    <clause_level>
+      <P>
+        <w ref="NT.1Tim.w185"/>
+      </P>
+      <conj>
+        <w ref="NT.1Tim.w186"/>
+      </conj>
+      <S>
+        <w ref="NT.1Tim.w187"/>
+        <w ref="NT.1Tim.w188"/>
+        <w ref="NT.1Tim.w189"/>
+        <w ref="NT.1Tim.w190"/>
+        <w ref="NT.1Tim.w191"/>
+      </S>
+      <A>
+        <w ref="NT.1Tim.w192"/>
+        <w ref="NT.1Tim.w193"/>
+        <w ref="NT.1Tim.w194"/>
+        <w ref="NT.1Tim.w195"/>
+        <w ref="NT.1Tim.w196"/>
+        <w ref="NT.1Tim.w197"/>
+        <w ref="NT.1Tim.w198"/>
+        <w ref="NT.1Tim.w199"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg114">
+        <head>
+          <w ref="NT.1Tim.w185"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg115">
+        <head>
+          <w ref="NT.1Tim.w186"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg116">
+        <head>
+          <w ref="NT.1Tim.w188">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w187"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.1Tim.w190">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.1Tim.w189"/>
+                    </specifier>
+                    <qualifier>
+                      <w ref="NT.1Tim.w191"/>
+                    </qualifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg117">
+        <head>
+          <w ref="NT.1Tim.w193">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w192"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg118">
+        <connector>
+          <w ref="NT.1Tim.w194"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w195">
+            <modifiers>
+              <definer>
+                <w ref="NT.1Tim.w196">
+                  <modifiers>
+                    <relator>
+                      <w ref="NT.1Tim.w198">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.1Tim.w197"/>
+                          </specifier>
+                          <definer>
+                            <w ref="NT.1Tim.w199"/>
+                          </definer>
+                        </modifiers>
+                      </w>
+                    </relator>
+                  </modifiers>
+                </w>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w185" ref="NT.1Tim.1.14">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="u(perpleona/zw" lex="ὑπερπλεονάζω"></wf>
+      <sem>
+        <domain majorNum="59" subNum="49"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w186" ref="NT.1Tim.1.14">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w187" ref="NT.1Tim.1.14">
+      <pos>
+        <ART num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w188" ref="NT.1Tim.1.14">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="xa/ris" lex="χάρις"></wf>
+      <sem>
+        <domain majorNum="88" subNum="66"/>
+        <domain majorNum="57" subNum="103"/>
+        <domain majorNum="33" subNum="350"/>
+        <domain majorNum="25" subNum="89"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w189" ref="NT.1Tim.1.14">
+      <pos>
+        <ART num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w190" ref="NT.1Tim.1.14">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="ku/rios" lex="κύριος"></wf>
+      <sem>
+        <domain majorNum="12" subNum="9"/>
+        <domain majorNum="57" subNum="12"/>
+        <domain majorNum="37" subNum="51"/>
+        <domain majorNum="87" subNum="53"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w191" ref="NT.1Tim.1.14">
+      <pos>
+        <PRO num="plur" cas="gen" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w192" ref="NT.1Tim.1.14">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="meta/" lex="μετά"></wf>
+      <sem>
+        <domain majorNum="89" subNum="108 109 123 79 78"/>
+        <domain majorNum="90" subNum="60 32 42"/>
+        <domain majorNum="67" subNum="48"/>
+        <domain majorNum="83" subNum="9 56"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w193" ref="NT.1Tim.1.14">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="pi/stis" lex="πίστις"></wf>
+      <sem>
+        <domain majorNum="31" subNum="43 85 88 102 104"/>
+        <domain majorNum="33" subNum="289"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w194" ref="NT.1Tim.1.14">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w195" ref="NT.1Tim.1.14">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="a)ga/ph" lex="ἀγάπη"></wf>
+      <sem>
+        <domain majorNum="25" subNum="43"/>
+        <domain majorNum="23" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w196" ref="NT.1Tim.1.14">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w197" ref="NT.1Tim.1.14">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w198" ref="NT.1Tim.1.14">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w199" ref="NT.1Tim.1.14">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+      <sem>
+        <domain majorNum="93" subNum="169"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c36" level="primary" connect="NT.1Tim.1_c35" structure="S-(C)">
+    <clause_level>
+      <S>
+        <w ref="NT.1Tim.w200"/>
+        <C type="embed" parent="NT.1Tim.1_c36">
+          <w ref="NT.1Tim.w201"/>
+          <w ref="NT.1Tim.w202"/>
+        </C>
+        <w ref="NT.1Tim.w203"/>
+        <w ref="NT.1Tim.w204"/>
+        <w ref="NT.1Tim.w205"/>
+        <w ref="NT.1Tim.w206"/>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg119">
+        <head>
+          <w ref="NT.1Tim.w200"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg120">
+        <head>
+          <w ref="NT.1Tim.w202">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w201"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg121">
+        <connector>
+          <w ref="NT.1Tim.w203"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w206">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.1Tim.w205">
+                  <modifiers>
+                    <definer>
+                      <w ref="NT.1Tim.w204"/>
+                    </definer>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w200" ref="NT.1Tim.1.15">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="pisto/s" lex="πιστός"></wf>
+      <sem>
+        <domain majorNum="31" subNum="86 87"/>
+        <domain majorNum="71" subNum="17"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w201" ref="NT.1Tim.1.15">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w202" ref="NT.1Tim.1.15">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="lo/gos" lex="λόγος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="98 99 260 51 100"/>
+        <domain majorNum="57" subNum="228"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w203" ref="NT.1Tim.1.15">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w204" ref="NT.1Tim.1.15">
+      <pos>
+        <ADJ num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" subNum="23 24"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w205" ref="NT.1Tim.1.15">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="a)podoxh/" lex="ἀποδοχή"></wf>
+      <sem>
+        <domain majorNum="31" subNum="52"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w206" ref="NT.1Tim.1.15">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="a)/cios" lex="ἄξιος"></wf>
+      <sem>
+        <domain majorNum="65" subNum="17"/>
+        <domain majorNum="66" subNum="6"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c37" level="secondary" connect="NT.1Tim.1_c36" structure="conj-S-P-A-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w207"/>
+      </conj>
+      <S>
+        <w ref="NT.1Tim.w208"/>
+        <w ref="NT.1Tim.w209"/>
+      </S>
+      <P>
+        <w ref="NT.1Tim.w210"/>
+      </P>
+      <A>
+        <w ref="NT.1Tim.w211"/>
+        <w ref="NT.1Tim.w212"/>
+        <w ref="NT.1Tim.w213"/>
+      </A>
+      <A>
+        <clause xml:id="NT.1Tim.1_c38" level="embedded" structure="C-P">
+          <C>
+            <w ref="NT.1Tim.w214"/>
+          </C>
+          <P>
+            <w ref="NT.1Tim.w215"/>
+          </P>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg122">
+        <head>
+          <w ref="NT.1Tim.w207"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg123">
+        <head>
+          <w ref="NT.1Tim.w208">
+            <modifiers>
+              <definer>
+                <w ref="NT.1Tim.w209"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg124">
+        <head>
+          <w ref="NT.1Tim.w210"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg125">
+        <head>
+          <w ref="NT.1Tim.w213">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w211"/>
+                <w ref="NT.1Tim.w212"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg126">
+        <head>
+          <w ref="NT.1Tim.w214"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg127">
+        <head>
+          <w ref="NT.1Tim.w215"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w207" ref="NT.1Tim.1.15">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="o(/ti" lex="ὅτι"></wf>
+      <sem>
+        <domain majorNum="90" subNum="21"/>
+        <domain majorNum="89" subNum="33"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w208" ref="NT.1Tim.1.15">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w209" ref="NT.1Tim.1.15">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+      <sem>
+        <domain majorNum="93" subNum="169"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w210" ref="NT.1Tim.1.15">
+      <pos>
+        <VBF num="sing" voc="act" per="3rd" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="e)/rxomai" lex="ἔρχομαι"></wf>
+      <sem>
+        <domain majorNum="15" subNum="7 81"/>
+        <domain majorNum="13" subNum="50 117"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w211" ref="NT.1Tim.1.15">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w212" ref="NT.1Tim.1.15">
+      <pos>
+        <ART num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w213" ref="NT.1Tim.1.15">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="ko/smos" lex="κόσμος"></wf>
+      <sem>
+        <domain majorNum="1" subNum="1 39"/>
+        <domain majorNum="41" subNum="38"/>
+        <domain majorNum="9" subNum="23"/>
+        <domain majorNum="79" subNum="12"/>
+        <domain majorNum="6" subNum="188"/>
+        <domain majorNum="59" subNum="55"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w214" ref="NT.1Tim.1.15">
+      <pos>
+        <ADJ num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="a(martwlo/s" lex="ἁμαρτωλός"></wf>
+      <sem>
+        <domain majorNum="88" subNum="294"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w215" ref="NT.1Tim.1.15">
+      <pos>
+        <VBN voc="act" tf="aor"/>
+      </pos>
+      <wf betaLex="sw/|zw" lex="σῴζω"></wf>
+      <sem>
+        <domain majorNum="21" subNum="18 27"/>
+        <domain majorNum="23" subNum="136"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c39" level="secondary2" connect="NT.1Tim.1_c37" structure="C-P-S">
+    <clause_level>
+      <C>
+        <w ref="NT.1Tim.w216"/>
+        <w ref="NT.1Tim.w217"/>
+      </C>
+      <P>
+        <w ref="NT.1Tim.w218"/>
+      </P>
+      <S>
+        <w ref="NT.1Tim.w219"/>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg128">
+        <head>
+          <w ref="NT.1Tim.w217">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.1Tim.w216"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg129">
+        <head>
+          <w ref="NT.1Tim.w218"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg130">
+        <head>
+          <w ref="NT.1Tim.w219"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w216" ref="NT.1Tim.1.15">
+      <pos>
+        <PRO num="plur" cas="gen" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w217" ref="NT.1Tim.1.15">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="prw=tos" lex="πρῶτος"></wf>
+      <sem>
+        <domain majorNum="60" subNum="46"/>
+        <domain majorNum="67" subNum="18"/>
+        <domain majorNum="87" subNum="45"/>
+        <domain majorNum="65" subNum="24 52"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w218" ref="NT.1Tim.1.15">
+      <pos>
+        <VBF num="sing" augment="-" per="1st" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w219" ref="NT.1Tim.1.15">
+      <pos>
+        <PRO num="sing" cas="nom" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c40" level="primary" connect="NT.1Tim.1_c36" structure="conj-A-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w220"/>
+      </conj>
+      <A>
+        <w ref="NT.1Tim.w221"/>
+        <w ref="NT.1Tim.w222"/>
+      </A>
+      <P>
+        <w ref="NT.1Tim.w223"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg131">
+        <head>
+          <w ref="NT.1Tim.w220"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg132">
+        <head>
+          <w ref="NT.1Tim.w222">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w221"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg133">
+        <head>
+          <w ref="NT.1Tim.w223"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w220" ref="NT.1Tim.1.16">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+      <sem>
+        <domain majorNum="89" subNum="125 96"/>
+        <domain majorNum="91" subNum="2 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w221" ref="NT.1Tim.1.16">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="dia/" lex="διά"></wf>
+      <sem>
+        <domain majorNum="90" subNum="4 8 38 44"/>
+        <domain majorNum="89" subNum="76 26"/>
+        <domain majorNum="84" subNum="29 32"/>
+        <domain majorNum="67" subNum="136 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w222" ref="NT.1Tim.1.16">
+      <pos>
+        <PRO num="sing" cas="acc" type="dem" gen="neu"/>
+      </pos>
+      <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+      <sem>
+        <domain majorNum="92" subNum="29"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w223" ref="NT.1Tim.1.16">
+      <pos>
+        <VBF num="sing" per="1st" voc="mop" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="e)lea/w" lex="ἐλεάω"></wf>
+      <sem>
+        <domain majorNum="88" subNum="76"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c41" level="secondary" connect="NT.1Tim.1_c40" structure="conj-A-P-S-C-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w224"/>
+      </conj>
+      <A>
+        <w ref="NT.1Tim.w225"/>
+        <w ref="NT.1Tim.w226"/>
+        <w ref="NT.1Tim.w227"/>
+      </A>
+      <P>
+        <w ref="NT.1Tim.w228"/>
+      </P>
+      <S>
+        <w ref="NT.1Tim.w229"/>
+        <w ref="NT.1Tim.w230"/>
+      </S>
+      <C>
+        <w ref="NT.1Tim.w231"/>
+        <w ref="NT.1Tim.w232"/>
+        <w ref="NT.1Tim.w233"/>
+      </C>
+      <A>
+        <w ref="NT.1Tim.w234"/>
+        <w ref="NT.1Tim.w235"/>
+        <clause xml:id="NT.1Tim.1_c42" level="embedded" structure="P-C">
+          <P>
+            <w ref="NT.1Tim.w236"/>
+            <w ref="NT.1Tim.w237"/>
+          </P>
+          <C>
+            <clause xml:id="NT.1Tim.1_c43" level="embedded" structure="P-A-A">
+              <P>
+                <w ref="NT.1Tim.w238"/>
+              </P>
+              <A>
+                <w ref="NT.1Tim.w239"/>
+                <w ref="NT.1Tim.w240"/>
+              </A>
+              <A>
+                <w ref="NT.1Tim.w241"/>
+                <w ref="NT.1Tim.w242"/>
+                <w ref="NT.1Tim.w243"/>
+              </A>
+            </clause>
+          </C>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg134">
+        <head>
+          <w ref="NT.1Tim.w224"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg135">
+        <head>
+          <w ref="NT.1Tim.w226">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w225"/>
+              </specifier>
+              <definer>
+                <w ref="NT.1Tim.w227"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg136">
+        <head>
+          <w ref="NT.1Tim.w228"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg137">
+        <head>
+          <w ref="NT.1Tim.w229">
+            <modifiers>
+              <definer>
+                <w ref="NT.1Tim.w230"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg138">
+        <head>
+          <w ref="NT.1Tim.w233">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w231"/>
+              </specifier>
+              <definer>
+                <w ref="NT.1Tim.w232"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg139">
+        <head>
+          <w ref="NT.1Tim.w235">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w234"/>
+              </specifier>
+              <qualifier>
+                <clause xlink:href="NT.1Tim.1_c42">
+                  <wgroup xml:id="NT.1Tim.1_wg140">
+                    <head>
+                      <w ref="NT.1Tim.w237">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.1Tim.w236"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.1Tim.1_wg141">
+                    <head>
+                      <w ref="NT.1Tim.w238"/>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.1Tim.1_wg142">
+                    <head>
+                      <w ref="NT.1Tim.w240">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.1Tim.w239"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.1Tim.1_wg143">
+                    <head>
+                      <w ref="NT.1Tim.w242">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.1Tim.w241"/>
+                          </specifier>
+                          <definer>
+                            <w ref="NT.1Tim.w243"/>
+                          </definer>
+                        </modifiers>
+                      </w>
+                    </head>
+                  </wgroup>
+                </clause>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w224" ref="NT.1Tim.1.16">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="i(/na" lex="ἵνα"></wf>
+      <sem>
+        <domain majorNum="89" subNum="59 49"/>
+        <domain majorNum="90" subNum="22"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w225" ref="NT.1Tim.1.16">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w226" ref="NT.1Tim.1.16">
+      <pos>
+        <PRO num="sing" cas="dat" type="per" per="1st"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w227" ref="NT.1Tim.1.16">
+      <pos>
+        <ADJ num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="prw=tos" lex="πρῶτος"></wf>
+      <sem>
+        <domain majorNum="60" subNum="46"/>
+        <domain majorNum="67" subNum="18"/>
+        <domain majorNum="87" subNum="45"/>
+        <domain majorNum="65" subNum="24 52"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w228" ref="NT.1Tim.1.16">
+      <pos>
+        <VBF num="sing" per="3rd" voc="mop" tf="aor" mod="sub"/>
+      </pos>
+      <wf betaLex="e)ndei/knumai" lex="ἐνδείκνυμαι"></wf>
+      <sem>
+        <domain majorNum="28" subNum="51"/>
+        <domain majorNum="13" subNum="131"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w229" ref="NT.1Tim.1.16">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w230" ref="NT.1Tim.1.16">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+      <sem>
+        <domain majorNum="93" subNum="169"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w231" ref="NT.1Tim.1.16">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w232" ref="NT.1Tim.1.16">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="a(/pas" lex="ἅπας"></wf>
+      <sem>
+        <domain majorNum="59" subNum="23"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w233" ref="NT.1Tim.1.16">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="makroqumi/a" lex="μακροθυμία"></wf>
+      <sem>
+        <domain majorNum="25" subNum="167"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w234" ref="NT.1Tim.1.16">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="pro/s" lex="πρός"></wf>
+      <sem>
+        <domain majorNum="84" subNum="18 23"/>
+        <domain majorNum="83" subNum="24 9"/>
+        <domain majorNum="90" subNum="58 25"/>
+        <domain majorNum="89" subNum="112 60 44 9 7"/>
+        <domain majorNum="67" subNum="162 16"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="90" subNum="20 33"/>
+        <domain majorNum="64" subNum="17"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w235" ref="NT.1Tim.1.16">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="u(potu/pwsis" lex="ὑποτύπωσις"></wf>
+      <sem>
+        <domain majorNum="58" subNum="59"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w236" ref="NT.1Tim.1.16">
+      <pos>
+        <ART num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w237" ref="NT.1Tim.1.16">
+      <pos>
+        <VBP num="plur" cas="gen" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="me/llw" lex="μέλλω"></wf>
+      <sem>
+        <domain majorNum="67" subNum="62 121"/>
+        <domain majorNum="71" subNum="36"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w238" ref="NT.1Tim.1.16">
+      <pos>
+        <VBN voc="act" tf="pre"/>
+      </pos>
+      <wf betaLex="pisteu/w" lex="πιστεύω"></wf>
+      <sem>
+        <domain majorNum="31" subNum="35 85 102"/>
+        <domain majorNum="35" subNum="50"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w239" ref="NT.1Tim.1.16">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)pi/" lex="ἐπί"></wf>
+      <sem>
+        <domain majorNum="83" subNum="46 23 9 35"/>
+        <domain majorNum="84" subNum="17 20"/>
+        <domain majorNum="90" subNum="17 57 9 34 23 5"/>
+        <domain majorNum="89" subNum="101 27 60 13"/>
+        <domain majorNum="37" subNum="9"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w240" ref="NT.1Tim.1.16">
+      <pos>
+        <PRO num="sing" cas="dat" type="int" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w241" ref="NT.1Tim.1.16">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w242" ref="NT.1Tim.1.16">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="zwh/" lex="ζωή"></wf>
+      <sem>
+        <domain majorNum="23" subNum="88"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w243" ref="NT.1Tim.1.16">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="ai)w/nios" lex="αἰώνιος"></wf>
+      <sem>
+        <domain majorNum="67" subNum="96"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c44" level="primary" connect="NT.1Tim.1_c40" structure="C-(conj)-S-A">
+    <clause_level>
+      <C>
+        <w ref="NT.1Tim.w244"/>
+        <conj type="embed" parent="NT.1Tim.1_c44">
+          <w ref="NT.1Tim.w245"/>
+        </conj>
+        <w ref="NT.1Tim.w246"/>
+        <w ref="NT.1Tim.w247"/>
+        <w ref="NT.1Tim.w248"/>
+        <w ref="NT.1Tim.w249"/>
+        <w ref="NT.1Tim.w250"/>
+        <w ref="NT.1Tim.w251"/>
+        <w ref="NT.1Tim.w252"/>
+      </C>
+      <S>
+        <w ref="NT.1Tim.w253"/>
+        <w ref="NT.1Tim.w254"/>
+        <w ref="NT.1Tim.w255"/>
+      </S>
+      <A>
+        <w ref="NT.1Tim.w256"/>
+        <w ref="NT.1Tim.w257"/>
+        <w ref="NT.1Tim.w258"/>
+        <w ref="NT.1Tim.w259"/>
+        <w ref="NT.1Tim.w260"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg144">
+        <head>
+          <w ref="NT.1Tim.w245"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg145">
+        <head>
+          <w ref="NT.1Tim.w246">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w244"/>
+              </specifier>
+              <definer>
+                <w ref="NT.1Tim.w252">
+                  <modifiers>
+                    <definer>
+                      <w ref="NT.1Tim.w249"/>
+                      <w ref="NT.1Tim.w250"/>
+                      <w ref="NT.1Tim.w251"/>
+                    </definer>
+                  </modifiers>
+                </w>
+              </definer>
+              <qualifier>
+                <w ref="NT.1Tim.w248">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.1Tim.w247"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg146">
+        <head>
+          <w ref="NT.1Tim.w253"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg147">
+        <connector>
+          <w ref="NT.1Tim.w254"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w255"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg148">
+        <head>
+          <w ref="NT.1Tim.w258">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w256"/>
+                <w ref="NT.1Tim.w257"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.1Tim.w260">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.1Tim.w259"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w244" ref="NT.1Tim.1.17">
+      <pos>
+        <ART num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w245" ref="NT.1Tim.1.17">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w246" ref="NT.1Tim.1.17">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="basileu/s" lex="βασιλεύς"></wf>
+      <sem>
+        <domain majorNum="37" subNum="67"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w247" ref="NT.1Tim.1.17">
+      <pos>
+        <ART num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w248" ref="NT.1Tim.1.17">
+      <pos>
+        <NON num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="ai)w/n" lex="αἰών"></wf>
+      <sem>
+        <domain majorNum="67" subNum="143"/>
+        <domain majorNum="1" subNum="2"/>
+        <domain majorNum="41" subNum="38"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w249" ref="NT.1Tim.1.17">
+      <pos>
+        <ADJ num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="a)/fqartos" lex="ἄφθαρτος"></wf>
+      <sem>
+        <domain majorNum="23" subNum="128"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w250" ref="NT.1Tim.1.17">
+      <pos>
+        <ADJ num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="a)o/ratos" lex="ἀόρατος"></wf>
+      <sem>
+        <domain majorNum="24" subNum="4"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w251" ref="NT.1Tim.1.17">
+      <pos>
+        <ADJ num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="mo/nos" lex="μόνος"></wf>
+      <sem>
+        <domain majorNum="58" subNum="50 51"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w252" ref="NT.1Tim.1.17">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w253" ref="NT.1Tim.1.17">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="timh/" lex="τιμή"></wf>
+      <sem>
+        <domain majorNum="87" subNum="4"/>
+        <domain majorNum="65" subNum="1"/>
+        <domain majorNum="57" subNum="161 167"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w254" ref="NT.1Tim.1.17">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w255" ref="NT.1Tim.1.17">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="do/ca" lex="δόξα"></wf>
+      <sem>
+        <domain majorNum="79" subNum="18"/>
+        <domain majorNum="14" subNum="49"/>
+        <domain majorNum="76" subNum="13"/>
+        <domain majorNum="33" subNum="357"/>
+        <domain majorNum="87" subNum="4"/>
+        <domain majorNum="87" subNum="23"/>
+        <domain majorNum="12" subNum="49"/>
+        <domain majorNum="1" subNum="15"/>
+        <domain majorNum="25" subNum="205"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w256" ref="NT.1Tim.1.17">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w257" ref="NT.1Tim.1.17">
+      <pos>
+        <ART num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w258" ref="NT.1Tim.1.17">
+      <pos>
+        <NON num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="ai)w/n" lex="αἰών"></wf>
+      <sem>
+        <domain majorNum="67" subNum="143"/>
+        <domain majorNum="1" subNum="2"/>
+        <domain majorNum="41" subNum="38"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w259" ref="NT.1Tim.1.17">
+      <pos>
+        <ART num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w260" ref="NT.1Tim.1.17">
+      <pos>
+        <NON num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="ai)w/n" lex="αἰών"></wf>
+      <sem>
+        <domain majorNum="67" subNum="143"/>
+        <domain majorNum="1" subNum="2"/>
+        <domain majorNum="41" subNum="38"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c45" level="primary" connect="NT.1Tim.1_c44" structure="S">
+    <clause_level>
+      <S>
+        <w ref="NT.1Tim.w261"/>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg149">
+        <head>
+          <w ref="NT.1Tim.w261"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w261" ref="NT.1Tim.1.17">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)mh/n" lex="ἀμήν"></wf>
+      <sem>
+        <domain majorNum="72" subNum="6"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c46" level="primary" connect="NT.1Tim.1_c45" structure="C-P-C-add-A">
+    <clause_level>
+      <C>
+        <w ref="NT.1Tim.w262"/>
+        <w ref="NT.1Tim.w263"/>
+        <w ref="NT.1Tim.w264"/>
+      </C>
+      <P>
+        <w ref="NT.1Tim.w265"/>
+      </P>
+      <C>
+        <w ref="NT.1Tim.w266"/>
+      </C>
+      <add>
+        <w ref="NT.1Tim.w267"/>
+        <w ref="NT.1Tim.w268"/>
+      </add>
+      <A>
+        <w ref="NT.1Tim.w269"/>
+        <w ref="NT.1Tim.w270"/>
+        <clause xml:id="NT.1Tim.1_c47" level="embedded" structure="P-A">
+          <P>
+            <w ref="NT.1Tim.w271"/>
+          </P>
+          <A>
+            <w ref="NT.1Tim.w272"/>
+            <w ref="NT.1Tim.w273"/>
+          </A>
+        </clause>
+        <w ref="NT.1Tim.w274"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg150">
+        <head>
+          <w ref="NT.1Tim.w264">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w263"/>
+              </specifier>
+              <definer>
+                <w ref="NT.1Tim.w262"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg151">
+        <head>
+          <w ref="NT.1Tim.w265"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg152">
+        <head>
+          <w ref="NT.1Tim.w266"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg153">
+        <head>
+          <w ref="NT.1Tim.w267">
+            <modifiers>
+              <definer>
+                <w ref="NT.1Tim.w268"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg154">
+        <head>
+          <w ref="NT.1Tim.w274">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w269"/>
+                <w ref="NT.1Tim.w270"/>
+              </specifier>
+              <definer>
+                <clause xlink:href="NT.1Tim.1_c47">
+                  <wgroup xml:id="NT.1Tim.1_wg155">
+                    <head>
+                      <w ref="NT.1Tim.w271"/>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.1Tim.1_wg156">
+                    <head>
+                      <w ref="NT.1Tim.w273">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.1Tim.w272"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </head>
+                  </wgroup>
+                </clause>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w262" ref="NT.1Tim.1.18">
+      <pos>
+        <PRO num="sing" cas="acc" type="dem" gen="fem"/>
+      </pos>
+      <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+      <sem>
+        <domain majorNum="92" subNum="29"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w263" ref="NT.1Tim.1.18">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w264" ref="NT.1Tim.1.18">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="paraggeli/a" lex="παραγγελία"></wf>
+      <sem>
+        <domain majorNum="33" subNum="328"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w265" ref="NT.1Tim.1.18">
+      <pos>
+        <VBF num="sing" per="1st" voc="mop" tf="pre" mod="ind"/>
+      </pos>
+      <wf betaLex="parati/qhmi" lex="παρατίθημι"></wf>
+      <sem>
+        <domain majorNum="57" subNum="116"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w266" ref="NT.1Tim.1.18">
+      <pos>
+        <PRO num="sing" cas="dat" type="per" per="2nd"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w267" ref="NT.1Tim.1.18">
+      <pos>
+        <NON num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="te/knon" lex="τέκνον"></wf>
+      <sem>
+        <domain majorNum="10" subNum="36 28"/>
+        <domain majorNum="11" subNum="63"/>
+        <domain majorNum="9" subNum="46"/>
+        <domain majorNum="36" subNum="40"/>
+        <domain majorNum="58" subNum="26"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w268" ref="NT.1Tim.1.18">
+      <pos>
+        <NON num="sing" cas="voc" gen="mas"/>
+      </pos>
+      <wf betaLex="*timo/qeos" lex="Τιμόθεος"></wf>
+      <sem>
+        <domain majorNum="93" subNum="361"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w269" ref="NT.1Tim.1.18">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="kata/" lex="κατά"></wf>
+      <sem>
+        <domain majorNum="84" subNum="21 30 31"/>
+        <domain majorNum="83" subNum="45 12 44"/>
+        <domain majorNum="67" subNum="33 35"/>
+        <domain majorNum="90" subNum="29 31"/>
+        <domain majorNum="89" subNum="8 90 4 113"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w270" ref="NT.1Tim.1.18">
+      <pos>
+        <ART num="plur" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w271" ref="NT.1Tim.1.18">
+      <pos>
+        <VBP num="plur" cas="acc" voc="act" gen="fem" tf="pre"/>
+      </pos>
+      <wf betaLex="proa/gw" lex="προάγω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="142 143 171"/>
+        <domain majorNum="13" subNum="114"/>
+        <domain majorNum="36" subNum="25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w272" ref="NT.1Tim.1.18">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)pi/" lex="ἐπί"></wf>
+      <sem>
+        <domain majorNum="83" subNum="46 23 9 35"/>
+        <domain majorNum="84" subNum="17 20"/>
+        <domain majorNum="90" subNum="17 57 9 34 23 5"/>
+        <domain majorNum="89" subNum="101 27 60 13"/>
+        <domain majorNum="37" subNum="9"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w273" ref="NT.1Tim.1.18">
+      <pos>
+        <PRO num="sing" cas="acc" type="per" per="2nd"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w274" ref="NT.1Tim.1.18">
+      <pos>
+        <NON num="plur" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="profhtei/a" lex="προφητεία"></wf>
+      <sem>
+        <domain majorNum="33" subNum="460 461"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c48" level="secondary" connect="NT.1Tim.1_c46" structure="conj-P-A-C-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w275"/>
+      </conj>
+      <P>
+        <w ref="NT.1Tim.w276"/>
+      </P>
+      <A>
+        <w ref="NT.1Tim.w277"/>
+        <w ref="NT.1Tim.w278"/>
+      </A>
+      <C>
+        <w ref="NT.1Tim.w279"/>
+        <w ref="NT.1Tim.w280"/>
+        <w ref="NT.1Tim.w281"/>
+      </C>
+      <A>
+        <clause xml:id="NT.1Tim.1_c49" level="embedded" structure="P-C">
+          <P>
+            <w ref="NT.1Tim.w282"/>
+          </P>
+          <C>
+            <w ref="NT.1Tim.w283"/>
+            <w ref="NT.1Tim.w284"/>
+            <w ref="NT.1Tim.w285"/>
+            <w ref="NT.1Tim.w286"/>
+          </C>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg157">
+        <head>
+          <w ref="NT.1Tim.w275"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg158">
+        <head>
+          <w ref="NT.1Tim.w276"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg159">
+        <head>
+          <w ref="NT.1Tim.w278">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w277"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg160">
+        <head>
+          <w ref="NT.1Tim.w281">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w279"/>
+              </specifier>
+              <definer>
+                <w ref="NT.1Tim.w280"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg161">
+        <head>
+          <w ref="NT.1Tim.w282"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg162">
+        <head>
+          <w ref="NT.1Tim.w283"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg163">
+        <connector>
+          <w ref="NT.1Tim.w284"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w286">
+            <modifiers>
+              <definer>
+                <w ref="NT.1Tim.w285"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w275" ref="NT.1Tim.1.18">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="i(/na" lex="ἵνα"></wf>
+      <sem>
+        <domain majorNum="89" subNum="59 49"/>
+        <domain majorNum="90" subNum="22"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w276" ref="NT.1Tim.1.18">
+      <pos>
+        <VBF num="sing" per="2nd" voc="mop" tf="pre" mod="sub"/>
+      </pos>
+      <wf betaLex="strateu/w" lex="στρατεύω"></wf>
+      <sem>
+        <domain majorNum="55" subNum="4 18"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w277" ref="NT.1Tim.1.18">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w278" ref="NT.1Tim.1.18">
+      <pos>
+        <PRO num="plur" cas="dat" type="int" gen="fem"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w279" ref="NT.1Tim.1.18">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w280" ref="NT.1Tim.1.18">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="kalo/s" lex="καλός"></wf>
+      <sem>
+        <domain majorNum="88" subNum="4"/>
+        <domain majorNum="65" subNum="22 43"/>
+        <domain majorNum="66" subNum="2"/>
+        <domain majorNum="79" subNum="9"/>
+        <domain majorNum="87" subNum="25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w281" ref="NT.1Tim.1.18">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="stratei/a" lex="στρατεία"></wf>
+      <sem>
+        <domain majorNum="55" subNum="4"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w282" ref="NT.1Tim.1.19">
+      <pos>
+        <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="e)/xw" lex="ἔχω"></wf>
+      <sem>
+        <domain majorNum="57" subNum="1"/>
+        <domain majorNum="18" subNum="6"/>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="49" subNum="13"/>
+        <domain majorNum="74" subNum="12"/>
+        <domain majorNum="90" subNum="65"/>
+        <domain majorNum="13" subNum="2"/>
+        <domain majorNum="90" subNum="51 27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w283" ref="NT.1Tim.1.19">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="pi/stis" lex="πίστις"></wf>
+      <sem>
+        <domain majorNum="31" subNum="43 85 88 102 104"/>
+        <domain majorNum="33" subNum="289"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w284" ref="NT.1Tim.1.19">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w285" ref="NT.1Tim.1.19">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="a)gaqo/s" lex="ἀγαθός"></wf>
+      <sem>
+        <domain majorNum="88" subNum="1"/>
+        <domain majorNum="65" subNum="20"/>
+        <domain majorNum="57" subNum="110"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w286" ref="NT.1Tim.1.19">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="sunei/dhsis" lex="συνείδησις"></wf>
+      <sem>
+        <domain majorNum="28" subNum="4"/>
+        <domain majorNum="26" subNum="13"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c50" level="secondary2" connect="NT.1Tim.1_c48" structure="C-S-A-P">
+    <clause_level>
+      <C>
+        <w ref="NT.1Tim.w287"/>
+      </C>
+      <S>
+        <w ref="NT.1Tim.w288"/>
+      </S>
+      <A>
+        <clause xml:id="NT.1Tim.1_c51" level="embedded" structure="P-A">
+          <P>
+            <w ref="NT.1Tim.w289"/>
+          </P>
+          <A>
+            <w ref="NT.1Tim.w290"/>
+            <w ref="NT.1Tim.w291"/>
+            <w ref="NT.1Tim.w292"/>
+          </A>
+        </clause>
+      </A>
+      <P>
+        <w ref="NT.1Tim.w293"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg164">
+        <head>
+          <w ref="NT.1Tim.w287"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg165">
+        <head>
+          <w ref="NT.1Tim.w288"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg166">
+        <head>
+          <w ref="NT.1Tim.w289"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg167">
+        <head>
+          <w ref="NT.1Tim.w292">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w290"/>
+                <w ref="NT.1Tim.w291"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg168">
+        <head>
+          <w ref="NT.1Tim.w293"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w287" ref="NT.1Tim.1.19">
+      <pos>
+        <PRO num="sing" cas="acc" type="rel" gen="fem"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w288" ref="NT.1Tim.1.19">
+      <pos>
+        <PRO num="plur" cas="nom" type="ind" gen="mas"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w289" ref="NT.1Tim.1.19">
+      <pos>
+        <VBP num="plur" cas="nom" voc="mop" gen="mas" tf="aor"/>
+      </pos>
+      <wf betaLex="a)pwqe/omai" lex="ἀπωθέομαι"></wf>
+      <sem>
+        <domain majorNum="15" subNum="46"/>
+        <domain majorNum="31" subNum="63"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w290" ref="NT.1Tim.1.19">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="peri/" lex="περί"></wf>
+      <sem>
+        <domain majorNum="83" subNum="18"/>
+        <domain majorNum="90" subNum="24 39"/>
+        <domain majorNum="67" subNum="35"/>
+        <domain majorNum="89" subNum="36 110 6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w291" ref="NT.1Tim.1.19">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w292" ref="NT.1Tim.1.19">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="pi/stis" lex="πίστις"></wf>
+      <sem>
+        <domain majorNum="31" subNum="43 85 88 102 104"/>
+        <domain majorNum="33" subNum="289"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w293" ref="NT.1Tim.1.19">
+      <pos>
+        <VBF num="plur" voc="act" per="3rd" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="nauage/w" lex="ναυαγέω"></wf>
+      <sem>
+        <domain majorNum="54" subNum="26"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c52" level="secondary2" connect="NT.1Tim.1_c50" structure="A-P-S">
+    <clause_level>
+      <A>
+        <w ref="NT.1Tim.w294"/>
+      </A>
+      <P>
+        <w ref="NT.1Tim.w295"/>
+      </P>
+      <S>
+        <w ref="NT.1Tim.w296"/>
+        <w ref="NT.1Tim.w297"/>
+        <w ref="NT.1Tim.w298"/>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg169">
+        <head>
+          <w ref="NT.1Tim.w294"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg170">
+        <head>
+          <w ref="NT.1Tim.w295"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg171">
+        <head>
+          <w ref="NT.1Tim.w296"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg172">
+        <connector>
+          <w ref="NT.1Tim.w297"/>
+        </connector>
+        <head>
+          <w ref="NT.1Tim.w298"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w294" ref="NT.1Tim.1.20">
+      <pos>
+        <PRO num="plur" cas="gen" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w295" ref="NT.1Tim.1.20">
+      <pos>
+        <VBF num="sing" augment="-" per="3rd" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w296" ref="NT.1Tim.1.20">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*u(me/naios" lex="Ὑμέναιος"></wf>
+      <sem>
+        <domain majorNum="93" subNum="370"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w297" ref="NT.1Tim.1.20">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w298" ref="NT.1Tim.1.20">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*a)le/candros" lex="Ἀλέξανδρος"></wf>
+      <sem>
+        <domain majorNum="93" subNum="17"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c53" level="secondary2" connect="NT.1Tim.1_c52" structure="C-P-C">
+    <clause_level>
+      <C>
+        <w ref="NT.1Tim.w299"/>
+      </C>
+      <P>
+        <w ref="NT.1Tim.w300"/>
+      </P>
+      <C>
+        <w ref="NT.1Tim.w301"/>
+        <w ref="NT.1Tim.w302"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg173">
+        <head>
+          <w ref="NT.1Tim.w299"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg174">
+        <head>
+          <w ref="NT.1Tim.w300"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg175">
+        <head>
+          <w ref="NT.1Tim.w302">
+            <modifiers>
+              <specifier>
+                <w ref="NT.1Tim.w301"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w299" ref="NT.1Tim.1.20">
+      <pos>
+        <PRO num="plur" cas="acc" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="ou)=s" lex="οὖς"></wf>
+      <sem>
+        <domain majorNum="8" subNum="24"/>
+        <domain majorNum="24" subNum="54"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w300" ref="NT.1Tim.1.20">
+      <pos>
+        <VBF num="sing" voc="act" per="1st" tf="aor" mod="ind"/>
+      </pos>
+      <wf betaLex="paradi/dwmi" lex="παραδίδωμι"></wf>
+      <sem>
+        <domain majorNum="57" subNum="77"/>
+        <domain majorNum="37" subNum="111"/>
+        <domain majorNum="33" subNum="237"/>
+        <domain majorNum="13" subNum="142"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w301" ref="NT.1Tim.1.20">
+      <pos>
+        <ART num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w302" ref="NT.1Tim.1.20">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="*satana=s" lex="Σατανᾶς"></wf>
+      <sem>
+        <domain majorNum="12" subNum="34"/>
+        <domain majorNum="93" subNum="330"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.1Tim.1_c54" level="secondary2" connect="NT.1Tim.1_c53" structure="conj-P-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.1Tim.w303"/>
+      </conj>
+      <P>
+        <w ref="NT.1Tim.w304"/>
+      </P>
+      <A>
+        <clause xml:id="NT.1Tim.1_c55" level="embedded" structure="A-P">
+          <A>
+            <w ref="NT.1Tim.w305"/>
+          </A>
+          <P>
+            <w ref="NT.1Tim.w306"/>
+          </P>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.1Tim.1_wg176">
+        <head>
+          <w ref="NT.1Tim.w303"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg177">
+        <head>
+          <w ref="NT.1Tim.w304"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg178">
+        <head>
+          <w ref="NT.1Tim.w305"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.1Tim.1_wg179">
+        <head>
+          <w ref="NT.1Tim.w306"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.1Tim.w303" ref="NT.1Tim.1.20">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="i(/na" lex="ἵνα"></wf>
+      <sem>
+        <domain majorNum="89" subNum="59 49"/>
+        <domain majorNum="90" subNum="22"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w304" ref="NT.1Tim.1.20">
+      <pos>
+        <VBF num="plur" per="3rd" voc="mop" tf="aor" mod="sub"/>
+      </pos>
+      <wf betaLex="paideu/w" lex="παιδεύω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="226"/>
+        <domain majorNum="36" subNum="10"/>
+        <domain majorNum="38" subNum="4"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w305" ref="NT.1Tim.1.20">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="mh/" lex="μή"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 15"/>
+        <domain majorNum="89" subNum="62"/>
+      </sem>
+    </w>
+    <w xml:id="NT.1Tim.w306" ref="NT.1Tim.1.20">
+      <pos>
+        <VBN voc="act" tf="pre"/>
+      </pos>
+      <wf betaLex="blasfhme/w" lex="βλασφημέω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="400"/>
+      </sem>
+    </w>
+  </clause>
+</chapter>

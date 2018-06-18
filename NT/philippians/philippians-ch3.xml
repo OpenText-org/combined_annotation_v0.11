@@ -1,0 +1,6172 @@
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Phil" num="3">
+  <clause xml:id="NT.Phil.3_c1" level="primary" structure="A-add-P-A">
+    <clause_level>
+      <A>
+        <w ref="NT.Phil.w933"/>
+        <w ref="NT.Phil.w934"/>
+      </A>
+      <add>
+        <w ref="NT.Phil.w935"/>
+        <w ref="NT.Phil.w936"/>
+      </add>
+      <P>
+        <w ref="NT.Phil.w937"/>
+      </P>
+      <A>
+        <w ref="NT.Phil.w938"/>
+        <w ref="NT.Phil.w939"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg1">
+        <head>
+          <w ref="NT.Phil.w934">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w933"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg2">
+        <head>
+          <w ref="NT.Phil.w935">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Phil.w936"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg3">
+        <head>
+          <w ref="NT.Phil.w937"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg4">
+        <head>
+          <w ref="NT.Phil.w939">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w938"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w933" ref="NT.Phil.3.1">
+      <pos>
+        <ART num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w934" ref="NT.Phil.3.1">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="loipo/s" lex="λοιπός"></wf>
+      <sem>
+        <domain majorNum="63" subNum="21"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w935" ref="NT.Phil.3.1">
+      <pos>
+        <NON num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="a)delfo/s" lex="ἀδελφός"></wf>
+      <sem>
+        <domain majorNum="10" subNum="49"/>
+        <domain majorNum="11" subNum="23 25 57 89"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w936" ref="NT.Phil.3.1">
+      <pos>
+        <PRO num="sing" cas="gen" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w937" ref="NT.Phil.3.1">
+      <pos>
+        <VBF num="plur" per="2nd" voc="act" mod="ioi" tf="pre"/>
+      </pos>
+      <wf betaLex="xai/rw" lex="χαίρω"></wf>
+      <sem>
+        <domain majorNum="25" subNum="125"/>
+        <domain majorNum="33" subNum="22"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w938" ref="NT.Phil.3.1">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w939" ref="NT.Phil.3.1">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="ku/rios" lex="κύριος"></wf>
+      <sem>
+        <domain majorNum="12" subNum="9"/>
+        <domain majorNum="57" subNum="12"/>
+        <domain majorNum="37" subNum="51"/>
+        <domain majorNum="87" subNum="53"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c2" level="primary" connect="NT.Phil.3_c1" structure="S-C-conj-A-C">
+    <clause_level>
+      <S>
+        <clause xml:id="NT.Phil.3_c3" level="embedded" structure="C-P-C">
+          <C>
+            <w ref="NT.Phil.w940"/>
+            <w ref="NT.Phil.w941"/>
+          </C>
+          <P>
+            <w ref="NT.Phil.w942"/>
+          </P>
+          <C>
+            <w ref="NT.Phil.w943"/>
+          </C>
+        </clause>
+      </S>
+      <C>
+        <w ref="NT.Phil.w944"/>
+      </C>
+      <conj>
+        <w ref="NT.Phil.w945"/>
+      </conj>
+      <A>
+        <w ref="NT.Phil.w946"/>
+      </A>
+      <C>
+        <w ref="NT.Phil.w947"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg5">
+        <head>
+          <w ref="NT.Phil.w941">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w940"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg6">
+        <head>
+          <w ref="NT.Phil.w942"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg7">
+        <head>
+          <w ref="NT.Phil.w943"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg8">
+        <head>
+          <w ref="NT.Phil.w944"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg9">
+        <head>
+          <w ref="NT.Phil.w945"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg10">
+        <head>
+          <w ref="NT.Phil.w946"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg11">
+        <head>
+          <w ref="NT.Phil.w947"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w940" ref="NT.Phil.3.1">
+      <pos>
+        <ART num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w941" ref="NT.Phil.3.1">
+      <pos>
+        <PRO num="plur" cas="acc" type="int" gen="neu"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w942" ref="NT.Phil.3.1">
+      <pos>
+        <VBN voc="act" tf="pre"/>
+      </pos>
+      <wf betaLex="gra/fw" lex="γράφω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="61"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w943" ref="NT.Phil.3.1">
+      <pos>
+        <PRO num="plur" cas="dat" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w944" ref="NT.Phil.3.1">
+      <pos>
+        <PRO num="sing" cas="dat" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w945" ref="NT.Phil.3.1">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="me/n" lex="μέν"></wf>
+      <sem>
+        <domain majorNum="91" subNum="3 6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w946" ref="NT.Phil.3.1">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w947" ref="NT.Phil.3.1">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="o)knhro/s" lex="ὀκνηρός"></wf>
+      <sem>
+        <domain majorNum="88" subNum="250"/>
+        <domain majorNum="22" subNum="8"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c4" level="primary" connect="NT.Phil.3_c2" structure="C-conj-C">
+    <clause_level>
+      <C>
+        <w ref="NT.Phil.w948"/>
+      </C>
+      <conj>
+        <w ref="NT.Phil.w949"/>
+      </conj>
+      <C>
+        <w ref="NT.Phil.w950"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg12">
+        <head>
+          <w ref="NT.Phil.w948"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg13">
+        <head>
+          <w ref="NT.Phil.w949"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg14">
+        <head>
+          <w ref="NT.Phil.w950"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w948" ref="NT.Phil.3.1">
+      <pos>
+        <PRO num="plur" cas="dat" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w949" ref="NT.Phil.3.1">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w950" ref="NT.Phil.3.1">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="a)sfalh/s" lex="ἀσφαλής"></wf>
+      <sem>
+        <domain majorNum="21" subNum="10"/>
+        <domain majorNum="31" subNum="42"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c5" level="primary" connect="NT.Phil.3_c4" structure="P-C">
+    <clause_level>
+      <P>
+        <w ref="NT.Phil.w951"/>
+      </P>
+      <C>
+        <w ref="NT.Phil.w952"/>
+        <w ref="NT.Phil.w953"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg15">
+        <head>
+          <w ref="NT.Phil.w951"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg16">
+        <head>
+          <w ref="NT.Phil.w953">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w952"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w951" ref="NT.Phil.3.2">
+      <pos>
+        <VBF num="plur" per="2nd" voc="act" mod="ioi" tf="pre"/>
+      </pos>
+      <wf betaLex="ble/pw" lex="βλέπω"></wf>
+      <sem>
+        <domain majorNum="24" subNum="7 41"/>
+        <domain majorNum="27" subNum="58"/>
+        <domain majorNum="30" subNum="1"/>
+        <domain majorNum="32" subNum="11"/>
+        <domain majorNum="13" subNum="134"/>
+        <domain majorNum="82" subNum="10"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w952" ref="NT.Phil.3.2">
+      <pos>
+        <ART num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w953" ref="NT.Phil.3.2">
+      <pos>
+        <NON num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="ku/wn" lex="κύων"></wf>
+      <sem>
+        <domain majorNum="4" subNum="34"/>
+        <domain majorNum="88" subNum="122 282"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c6" level="primary" connect="NT.Phil.3_c5" structure="P-C">
+    <clause_level>
+      <P>
+        <w ref="NT.Phil.w954"/>
+      </P>
+      <C>
+        <w ref="NT.Phil.w955"/>
+        <w ref="NT.Phil.w956"/>
+        <w ref="NT.Phil.w957"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg17">
+        <head>
+          <w ref="NT.Phil.w954"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg18">
+        <head>
+          <w ref="NT.Phil.w957">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w955"/>
+              </specifier>
+              <definer>
+                <w ref="NT.Phil.w956"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w954" ref="NT.Phil.3.2">
+      <pos>
+        <VBF num="plur" per="2nd" voc="act" mod="ioi" tf="pre"/>
+      </pos>
+      <wf betaLex="ble/pw" lex="βλέπω"></wf>
+      <sem>
+        <domain majorNum="24" subNum="7 41"/>
+        <domain majorNum="27" subNum="58"/>
+        <domain majorNum="30" subNum="1"/>
+        <domain majorNum="32" subNum="11"/>
+        <domain majorNum="13" subNum="134"/>
+        <domain majorNum="82" subNum="10"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w955" ref="NT.Phil.3.2">
+      <pos>
+        <ART num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w956" ref="NT.Phil.3.2">
+      <pos>
+        <ADJ num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="kako/s" lex="κακός"></wf>
+      <sem>
+        <domain majorNum="88" subNum="106"/>
+        <domain majorNum="65" subNum="26"/>
+        <domain majorNum="20" subNum="18"/>
+        <domain majorNum="72" subNum="22"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w957" ref="NT.Phil.3.2">
+      <pos>
+        <NON num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="e)rga/ths" lex="ἐργάτης"></wf>
+      <sem>
+        <domain majorNum="42" subNum="43"/>
+        <domain majorNum="41" subNum="21"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c7" level="primary" connect="NT.Phil.3_c6" structure="P-C">
+    <clause_level>
+      <P>
+        <w ref="NT.Phil.w958"/>
+      </P>
+      <C>
+        <w ref="NT.Phil.w959"/>
+        <w ref="NT.Phil.w960"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg19">
+        <head>
+          <w ref="NT.Phil.w958"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg20">
+        <head>
+          <w ref="NT.Phil.w960">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w959"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w958" ref="NT.Phil.3.2">
+      <pos>
+        <VBF num="plur" per="2nd" voc="act" mod="ioi" tf="pre"/>
+      </pos>
+      <wf betaLex="ble/pw" lex="βλέπω"></wf>
+      <sem>
+        <domain majorNum="24" subNum="7 41"/>
+        <domain majorNum="27" subNum="58"/>
+        <domain majorNum="30" subNum="1"/>
+        <domain majorNum="32" subNum="11"/>
+        <domain majorNum="13" subNum="134"/>
+        <domain majorNum="82" subNum="10"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w959" ref="NT.Phil.3.2">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w960" ref="NT.Phil.3.2">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="katatomh/" lex="κατατομή"></wf>
+      <sem>
+        <domain majorNum="19" subNum="22"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c8" level="primary" connect="NT.Phil.3_c7" structure="S-(conj)-(P)-(C)">
+    <clause_level>
+      <S>
+        <w ref="NT.Phil.w961"/>
+        <conj type="embed" parent="NT.Phil.3_c8">
+          <w ref="NT.Phil.w962"/>
+        </conj>
+        <P type="embed" parent="NT.Phil.3_c8">
+          <w ref="NT.Phil.w963"/>
+        </P>
+        <C type="embed" parent="NT.Phil.3_c8">
+          <w ref="NT.Phil.w964"/>
+          <w ref="NT.Phil.w965"/>
+        </C>
+        <clause xml:id="NT.Phil.3_c9" level="embedded" structure="P-(A)">
+          <P>
+            <w ref="NT.Phil.w966"/>
+            <A type="embed" parent="NT.Phil.3_c9">
+              <w ref="NT.Phil.w967"/>
+              <w ref="NT.Phil.w968"/>
+            </A>
+            <w ref="NT.Phil.w969"/>
+          </P>
+        </clause>
+        <clause xml:id="NT.Phil.3_c10" level="embedded" structure="conj-P-A">
+          <conj>
+            <w ref="NT.Phil.w970"/>
+          </conj>
+          <P>
+            <w ref="NT.Phil.w971"/>
+          </P>
+          <A>
+            <w ref="NT.Phil.w972"/>
+            <w ref="NT.Phil.w973"/>
+            <w ref="NT.Phil.w974"/>
+          </A>
+        </clause>
+        <clause xml:id="NT.Phil.3_c11" level="embedded" structure="conj-A-A-P">
+          <conj>
+            <w ref="NT.Phil.w975"/>
+          </conj>
+          <A>
+            <w ref="NT.Phil.w976"/>
+          </A>
+          <A>
+            <w ref="NT.Phil.w977"/>
+            <w ref="NT.Phil.w978"/>
+          </A>
+          <P>
+            <w ref="NT.Phil.w979"/>
+          </P>
+        </clause>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg21">
+        <head>
+          <w ref="NT.Phil.w961">
+            <modifiers>
+              <definer>
+                <clause xlink:href="NT.Phil.3_c9">
+                  <wgroup xml:id="NT.Phil.3_wg22">
+                    <head>
+                      <w ref="NT.Phil.w969">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Phil.w966"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Phil.3_wg23">
+                    <head>
+                      <w ref="NT.Phil.w967">
+                        <modifiers>
+                          <qualifier>
+                            <w ref="NT.Phil.w968"/>
+                          </qualifier>
+                        </modifiers>
+                      </w>
+                    </head>
+                  </wgroup>
+                </clause>
+                <clause xlink:href="NT.Phil.3_c10">
+                  <wgroup xml:id="NT.Phil.3_wg24">
+                    <head>
+                      <w ref="NT.Phil.w970"/>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Phil.3_wg25">
+                    <head>
+                      <w ref="NT.Phil.w971"/>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Phil.3_wg26">
+                    <head>
+                      <w ref="NT.Phil.w973">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Phil.w972"/>
+                          </specifier>
+                          <qualifier>
+                            <w ref="NT.Phil.w974"/>
+                          </qualifier>
+                        </modifiers>
+                      </w>
+                    </head>
+                  </wgroup>
+                </clause>
+                <clause xlink:href="NT.Phil.3_c11">
+                  <wgroup xml:id="NT.Phil.3_wg27">
+                    <head>
+                      <w ref="NT.Phil.w975"/>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Phil.3_wg28">
+                    <head>
+                      <w ref="NT.Phil.w976"/>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Phil.3_wg29">
+                    <head>
+                      <w ref="NT.Phil.w978">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Phil.w977"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Phil.3_wg30">
+                    <head>
+                      <w ref="NT.Phil.w979"/>
+                    </head>
+                  </wgroup>
+                </clause>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg31">
+        <head>
+          <w ref="NT.Phil.w962"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg32">
+        <head>
+          <w ref="NT.Phil.w963"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg33">
+        <head>
+          <w ref="NT.Phil.w965">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w964"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w961" ref="NT.Phil.3.3">
+      <pos>
+        <PRO num="plur" cas="nom" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w962" ref="NT.Phil.3.3">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w963" ref="NT.Phil.3.3">
+      <pos>
+        <VBF augment="-" num="plur" per="1st" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w964" ref="NT.Phil.3.3">
+      <pos>
+        <ART num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w965" ref="NT.Phil.3.3">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="peritomh/" lex="περιτομή"></wf>
+      <sem>
+        <domain majorNum="53" subNum="51"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w966" ref="NT.Phil.3.3">
+      <pos>
+        <ART num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w967" ref="NT.Phil.3.3">
+      <pos>
+        <NON num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="pneu=ma" lex="πνεῦμα"></wf>
+      <sem>
+        <domain majorNum="12" subNum="18 33 37 42"/>
+        <domain majorNum="26" subNum="9"/>
+        <domain majorNum="30" subNum="6"/>
+        <domain majorNum="14" subNum="4"/>
+        <domain majorNum="23" subNum="186"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w968" ref="NT.Phil.3.3">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w969" ref="NT.Phil.3.3">
+      <pos>
+        <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="latreu/w" lex="λατρεύω"></wf>
+      <sem>
+        <domain majorNum="53" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w970" ref="NT.Phil.3.3">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w971" ref="NT.Phil.3.3">
+      <pos>
+        <VBP num="plur" cas="nom" voc="mop" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="kauxa/omai" lex="καυχάομαι"></wf>
+      <sem>
+        <domain majorNum="33" subNum="368"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w972" ref="NT.Phil.3.3">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w973" ref="NT.Phil.3.3">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w974" ref="NT.Phil.3.3">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+      <sem>
+        <domain majorNum="93" subNum="169"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w975" ref="NT.Phil.3.3">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w976" ref="NT.Phil.3.3">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w977" ref="NT.Phil.3.3">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w978" ref="NT.Phil.3.3">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="sa/rc" lex="σάρξ"></wf>
+      <sem>
+        <domain majorNum="8" subNum="63 4"/>
+        <domain majorNum="9" subNum="11 12"/>
+        <domain majorNum="10" subNum="1"/>
+        <domain majorNum="26" subNum="7"/>
+        <domain majorNum="58" subNum="10"/>
+        <domain majorNum="23" subNum="90"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w979" ref="NT.Phil.3.3">
+      <pos>
+        <VBP num="plur" cas="nom" voc="act" gen="mas" tf="per"/>
+      </pos>
+      <wf betaLex="pei/qw" lex="πείθω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="11"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c12" level="secondary" connect="NT.Phil.3_c8" structure="conj-S-P-C-conj-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w980"/>
+      </conj>
+      <S>
+        <w ref="NT.Phil.w981"/>
+      </S>
+      <P>
+        <w ref="NT.Phil.w982"/>
+      </P>
+      <C>
+        <w ref="NT.Phil.w983"/>
+      </C>
+      <conj>
+        <w ref="NT.Phil.w984"/>
+      </conj>
+      <A>
+        <w ref="NT.Phil.w985"/>
+        <w ref="NT.Phil.w986"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg34">
+        <head>
+          <w ref="NT.Phil.w980"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg35">
+        <head>
+          <w ref="NT.Phil.w981"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg36">
+        <head>
+          <w ref="NT.Phil.w982"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg37">
+        <head>
+          <w ref="NT.Phil.w983"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg38">
+        <head>
+          <w ref="NT.Phil.w984"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg39">
+        <head>
+          <w ref="NT.Phil.w986">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w985"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w980" ref="NT.Phil.3.4">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/per" lex="καίπερ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="71"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w981" ref="NT.Phil.3.4">
+      <pos>
+        <PRO num="sing" cas="nom" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w982" ref="NT.Phil.3.4">
+      <pos>
+        <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="e)/xw" lex="ἔχω"></wf>
+      <sem>
+        <domain majorNum="57" subNum="1"/>
+        <domain majorNum="18" subNum="6"/>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="49" subNum="13"/>
+        <domain majorNum="74" subNum="12"/>
+        <domain majorNum="90" subNum="65"/>
+        <domain majorNum="13" subNum="2"/>
+        <domain majorNum="90" subNum="51 27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w983" ref="NT.Phil.3.4">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="pepoi/qhsis" lex="πεποίθησις"></wf>
+      <sem>
+        <domain majorNum="31" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w984" ref="NT.Phil.3.4">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w985" ref="NT.Phil.3.4">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w986" ref="NT.Phil.3.4">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="sa/rc" lex="σάρξ"></wf>
+      <sem>
+        <domain majorNum="8" subNum="63 4"/>
+        <domain majorNum="9" subNum="11 12"/>
+        <domain majorNum="10" subNum="1"/>
+        <domain majorNum="26" subNum="7"/>
+        <domain majorNum="58" subNum="10"/>
+        <domain majorNum="23" subNum="90"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c13" level="secondary" connect="NT.Phil.3_c15" structure="conj-S-(P)-C">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w987"/>
+      </conj>
+      <S>
+        <w ref="NT.Phil.w988"/>
+        <P type="embed" parent="NT.Phil.3_c13">
+          <w ref="NT.Phil.w989"/>
+        </P>
+        <w ref="NT.Phil.w990"/>
+      </S>
+      <C>
+        <clause xml:id="NT.Phil.3_c14" level="embedded" structure="P-A">
+          <P>
+            <w ref="NT.Phil.w991"/>
+          </P>
+          <A>
+            <w ref="NT.Phil.w992"/>
+            <w ref="NT.Phil.w993"/>
+          </A>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg40">
+        <head>
+          <w ref="NT.Phil.w987"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg41">
+        <head>
+          <w ref="NT.Phil.w989"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg42">
+        <head>
+          <w ref="NT.Phil.w990">
+            <modifiers>
+              <definer>
+                <w ref="NT.Phil.w988"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg43">
+        <head>
+          <w ref="NT.Phil.w991"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg44">
+        <head>
+          <w ref="NT.Phil.w993">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w992"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w987" ref="NT.Phil.3.4">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ei)" lex="εἰ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="65 30"/>
+        <domain majorNum="90" subNum="26"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w988" ref="NT.Phil.3.4">
+      <pos>
+        <PRO num="sing" cas="nom" type="ind" gen="mas"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w989" ref="NT.Phil.3.4">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="doke/w" lex="δοκέω"></wf>
+      <sem>
+        <domain majorNum="31" subNum="29"/>
+        <domain majorNum="25" subNum="7"/>
+        <domain majorNum="30" subNum="96"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w990" ref="NT.Phil.3.4">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="a)/llos" lex="ἄλλος"></wf>
+      <sem>
+        <domain majorNum="58" subNum="36 37"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w991" ref="NT.Phil.3.4">
+      <pos>
+        <VBN voc="act" tf="per"/>
+      </pos>
+      <wf betaLex="pei/qw" lex="πείθω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w992" ref="NT.Phil.3.4">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w993" ref="NT.Phil.3.4">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="sa/rc" lex="σάρξ"></wf>
+      <sem>
+        <domain majorNum="8" subNum="63 4"/>
+        <domain majorNum="9" subNum="11 12"/>
+        <domain majorNum="10" subNum="1"/>
+        <domain majorNum="26" subNum="7"/>
+        <domain majorNum="58" subNum="10"/>
+        <domain majorNum="23" subNum="90"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c15" level="primary" connect="NT.Phil.3_c8" structure="S-A">
+    <clause_level>
+      <S>
+        <w ref="NT.Phil.w994"/>
+      </S>
+      <A>
+        <w ref="NT.Phil.w995"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg45">
+        <head>
+          <w ref="NT.Phil.w994"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg46">
+        <head>
+          <w ref="NT.Phil.w995"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w994" ref="NT.Phil.3.4">
+      <pos>
+        <PRO num="sing" cas="nom" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w995" ref="NT.Phil.3.4">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="ma=llon" lex="μᾶλλον"></wf>
+      <sem>
+        <domain majorNum="78" subNum="28"/>
+        <domain majorNum="89" subNum="126"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c16" level="primary" connect="NT.Phil.3_c15" structure="A-A-A-C-C-C-C">
+    <clause_level>
+      <A>
+        <w ref="NT.Phil.w996"/>
+        <w ref="NT.Phil.w997"/>
+      </A>
+      <A>
+        <w ref="NT.Phil.w998"/>
+        <w ref="NT.Phil.w999"/>
+        <w ref="NT.Phil.w1000"/>
+      </A>
+      <A>
+        <w ref="NT.Phil.w1001"/>
+        <w ref="NT.Phil.w1002"/>
+      </A>
+      <C>
+        <w ref="NT.Phil.w1003"/>
+        <w ref="NT.Phil.w1004"/>
+        <w ref="NT.Phil.w1005"/>
+      </C>
+      <C>
+        <w ref="NT.Phil.w1006"/>
+        <w ref="NT.Phil.w1007"/>
+        <w ref="NT.Phil.w1008"/>
+      </C>
+      <C>
+        <clause xml:id="NT.Phil.3_c17" level="embedded" structure="A-P-C">
+          <A>
+            <w ref="NT.Phil.w1009"/>
+            <w ref="NT.Phil.w1010"/>
+          </A>
+          <P>
+            <w ref="NT.Phil.w1011"/>
+          </P>
+          <C>
+            <w ref="NT.Phil.w1012"/>
+            <w ref="NT.Phil.w1013"/>
+          </C>
+        </clause>
+      </C>
+      <C>
+        <clause xml:id="NT.Phil.3_c18" level="embedded" structure="A-C">
+          <A>
+            <w ref="NT.Phil.w1014"/>
+            <w ref="NT.Phil.w1015"/>
+            <clause xml:id="NT.Phil.3_c19" level="embedded" structure="P-(A)">
+              <P>
+                <w ref="NT.Phil.w1016"/>
+                <A type="embed" parent="NT.Phil.3_c19">
+                  <w ref="NT.Phil.w1017"/>
+                  <w ref="NT.Phil.w1018"/>
+                </A>
+                <w ref="NT.Phil.w1019"/>
+              </P>
+            </clause>
+          </A>
+          <C>
+            <w ref="NT.Phil.w1020"/>
+          </C>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level/>
+    <w xml:id="NT.Phil.w996" ref="NT.Phil.3.5">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="peritomh/" lex="περιτομή"></wf>
+      <sem>
+        <domain majorNum="53" subNum="51"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w997" ref="NT.Phil.3.5">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o)ktah/meros" lex="ὀκταήμερος"></wf>
+      <sem>
+        <domain majorNum="67" subNum="182"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w998" ref="NT.Phil.3.5">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)k" lex="ἐκ"></wf>
+      <sem>
+        <domain majorNum="84" subNum="4"/>
+        <domain majorNum="89" subNum="25 77 85 121 142"/>
+        <domain majorNum="90" subNum="12 16"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="68" subNum="54"/>
+        <domain majorNum="67" subNum="33 131"/>
+        <domain majorNum="57" subNum="162"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w999" ref="NT.Phil.3.5">
+      <pos>
+        <NON num="sing" cas="gen" gen="neu"/>
+      </pos>
+      <wf betaLex="ge/nos" lex="γένος"></wf>
+      <sem>
+        <domain majorNum="10" subNum="32 1"/>
+        <domain majorNum="58" subNum="23"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1000" ref="NT.Phil.3.5">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)srah/l" lex="Ἰσραήλ"></wf>
+      <sem>
+        <domain majorNum="93" subNum="182"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1001" ref="NT.Phil.3.5">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="fulh/" lex="φυλή"></wf>
+      <sem>
+        <domain majorNum="10" subNum="2"/>
+        <domain majorNum="11" subNum="56"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1002" ref="NT.Phil.3.5">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*beniamei/n" lex="Βενιαμείν"></wf>
+      <sem>
+        <domain majorNum="93" subNum="70"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1003" ref="NT.Phil.3.5">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*e(brai=os" lex="Ἑβραῖος"></wf>
+      <sem>
+        <domain majorNum="93" subNum="105"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1004" ref="NT.Phil.3.5">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e(/c" lex="ἕξ"></wf>
+      <sem>
+        <domain majorNum="84" subNum="4"/>
+        <domain majorNum="89" subNum="25 77 85 121 142"/>
+        <domain majorNum="90" subNum="12 16"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="68" subNum="54"/>
+        <domain majorNum="67" subNum="33 131"/>
+        <domain majorNum="57" subNum="162"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1005" ref="NT.Phil.3.5">
+      <pos>
+        <NON num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*e(brai=os" lex="Ἑβραῖος"></wf>
+      <sem>
+        <domain majorNum="93" subNum="105"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1006" ref="NT.Phil.3.5">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="kata/" lex="κατά"></wf>
+      <sem>
+        <domain majorNum="84" subNum="21 30 31"/>
+        <domain majorNum="83" subNum="45 12 44"/>
+        <domain majorNum="67" subNum="33 35"/>
+        <domain majorNum="90" subNum="29 31"/>
+        <domain majorNum="89" subNum="8 90 4 113"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1007" ref="NT.Phil.3.5">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="no/mos" lex="νόμος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="333 55 56"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1008" ref="NT.Phil.3.5">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="*farisai=os" lex="Φαρισαῖος"></wf>
+      <sem>
+        <domain majorNum="11" subNum="49"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1009" ref="NT.Phil.3.6">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="kata/" lex="κατά"></wf>
+      <sem>
+        <domain majorNum="84" subNum="21 30 31"/>
+        <domain majorNum="83" subNum="45 12 44"/>
+        <domain majorNum="67" subNum="33 35"/>
+        <domain majorNum="90" subNum="29 31"/>
+        <domain majorNum="89" subNum="8 90 4 113"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1010" ref="NT.Phil.3.6">
+      <pos>
+        <NON num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="zh=los" lex="ζῆλος"></wf>
+      <sem>
+        <domain majorNum="25" subNum="46"/>
+        <domain majorNum="88" subNum="162"/>
+        <domain majorNum="78" subNum="25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1011" ref="NT.Phil.3.6">
+      <pos>
+        <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="diw/kw" lex="διώκω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="158 223"/>
+        <domain majorNum="39" subNum="45"/>
+        <domain majorNum="68" subNum="66"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1012" ref="NT.Phil.3.6">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1013" ref="NT.Phil.3.6">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="e)kklhsi/a" lex="ἐκκλησία"></wf>
+      <sem>
+        <domain majorNum="11" subNum="32 33 78"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1014" ref="NT.Phil.3.6">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="kata/" lex="κατά"></wf>
+      <sem>
+        <domain majorNum="84" subNum="21 30 31"/>
+        <domain majorNum="83" subNum="45 12 44"/>
+        <domain majorNum="67" subNum="33 35"/>
+        <domain majorNum="90" subNum="29 31"/>
+        <domain majorNum="89" subNum="8 90 4 113"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1015" ref="NT.Phil.3.6">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="dikaiosu/nh" lex="δικαιοσύνη"></wf>
+      <sem>
+        <domain majorNum="88" subNum="13"/>
+        <domain majorNum="34" subNum="46"/>
+        <domain majorNum="53" subNum="4"/>
+        <domain majorNum="57" subNum="111"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1016" ref="NT.Phil.3.6">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1017" ref="NT.Phil.3.6">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1018" ref="NT.Phil.3.6">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="no/mos" lex="νόμος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="333 55 56"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1019" ref="NT.Phil.3.6">
+      <pos>
+        <VBP num="sing" cas="nom" voc="mid" gen="mas" tf="aor"/>
+      </pos>
+      <wf betaLex="gi/nomai" lex="γίνομαι"></wf>
+      <sem>
+        <domain majorNum="13" subNum="80 3 48 107"/>
+        <domain majorNum="15" subNum="1"/>
+        <domain majorNum="57" subNum="2"/>
+        <domain majorNum="41" subNum="1"/>
+        <domain majorNum="85" subNum="6 7"/>
+        <domain majorNum="91" subNum="5"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1020" ref="NT.Phil.3.6">
+      <pos>
+        <ADJ num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="a)/memptos" lex="ἄμεμπτος"></wf>
+      <sem>
+        <domain majorNum="88" subNum="317"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c20" level="primary" connect="NT.Phil.3_c16" structure="conj-S-P-C-C">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w1021"/>
+      </conj>
+      <S>
+        <w ref="NT.Phil.w1022"/>
+      </S>
+      <P>
+        <w ref="NT.Phil.w1023"/>
+      </P>
+      <C>
+        <w ref="NT.Phil.w1024"/>
+      </C>
+      <C>
+        <w ref="NT.Phil.w1025"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg59">
+        <head>
+          <w ref="NT.Phil.w1021"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg60">
+        <head>
+          <w ref="NT.Phil.w1022"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg61">
+        <head>
+          <w ref="NT.Phil.w1023"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg62">
+        <head>
+          <w ref="NT.Phil.w1024"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg63">
+        <head>
+          <w ref="NT.Phil.w1025"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1021" ref="NT.Phil.3.7">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+      <sem>
+        <domain majorNum="89" subNum="125 96"/>
+        <domain majorNum="91" subNum="2 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1022" ref="NT.Phil.3.7">
+      <pos>
+        <PRO num="plur" cas="nom" type="rel" gen="neu"/>
+      </pos>
+      <wf betaLex="o(/stis" lex="ὅστις"></wf>
+      <sem>
+        <domain majorNum="92" subNum="18"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1023" ref="NT.Phil.3.7">
+      <pos>
+        <VBF augment="-" num="sing" per="3rd" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1024" ref="NT.Phil.3.7">
+      <pos>
+        <PRO num="sing" cas="dat" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1025" ref="NT.Phil.3.7">
+      <pos>
+        <NON num="plur" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="ke/rdos" lex="κέρδος"></wf>
+      <sem>
+        <domain majorNum="57" subNum="192"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c21" level="primary" connect="NT.Phil.3_c20" structure="C-(P)-(A)">
+    <clause_level>
+      <C>
+        <w ref="NT.Phil.w1026"/>
+        <P type="embed" parent="NT.Phil.3_c21">
+          <w ref="NT.Phil.w1027"/>
+        </P>
+        <A type="embed" parent="NT.Phil.3_c21">
+          <w ref="NT.Phil.w1028"/>
+          <w ref="NT.Phil.w1029"/>
+          <w ref="NT.Phil.w1030"/>
+        </A>
+        <w ref="NT.Phil.w1031"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg64">
+        <head>
+          <w ref="NT.Phil.w1026">
+            <modifiers>
+              <definer>
+                <w ref="NT.Phil.w1031"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg65">
+        <head>
+          <w ref="NT.Phil.w1027"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg66">
+        <head>
+          <w ref="NT.Phil.w1030">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1028"/>
+                <w ref="NT.Phil.w1029"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1026" ref="NT.Phil.3.7">
+      <pos>
+        <PRO num="plur" cas="acc" type="dem" gen="neu"/>
+      </pos>
+      <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+      <sem>
+        <domain majorNum="92" subNum="29"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1027" ref="NT.Phil.3.7">
+      <pos>
+        <VBF vocOLD="mid" num="sing" voc="mop" per="1st" mod="ind" tf="per"/>
+      </pos>
+      <wf betaLex="h(ge/omai" lex="ἡγέομαι"></wf>
+      <sem>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="36" subNum="1"/>
+        <domain majorNum="37" subNum="58"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1028" ref="NT.Phil.3.7">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="dia/" lex="διά"></wf>
+      <sem>
+        <domain majorNum="90" subNum="4 8 38 44"/>
+        <domain majorNum="89" subNum="76 26"/>
+        <domain majorNum="84" subNum="29 32"/>
+        <domain majorNum="67" subNum="136 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1029" ref="NT.Phil.3.7">
+      <pos>
+        <ART num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1030" ref="NT.Phil.3.7">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1031" ref="NT.Phil.3.7">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="zhmi/a" lex="ζημία"></wf>
+      <sem>
+        <domain majorNum="57" subNum="69"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c22" level="primary" connect="NT.Phil.3_c21" structure="conj-A-conj-P-C-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w1032"/>
+      </conj>
+      <A>
+        <w ref="NT.Phil.w1033"/>
+      </A>
+      <conj>
+        <w ref="NT.Phil.w1034"/>
+      </conj>
+      <P>
+        <w ref="NT.Phil.w1035"/>
+      </P>
+      <C>
+        <clause xml:id="NT.Phil.3_c23" level="embedded" structure="S-C-P">
+          <S>
+            <w ref="NT.Phil.w1036"/>
+          </S>
+          <C>
+            <w ref="NT.Phil.w1037"/>
+          </C>
+          <P>
+            <w ref="NT.Phil.w1038"/>
+          </P>
+        </clause>
+      </C>
+      <A>
+        <clause xml:id="NT.Phil.3_c24" level="embedded" structure="P">
+          <P>
+            <w ref="NT.Phil.w1039"/>
+            <w ref="NT.Phil.w1040"/>
+            <w ref="NT.Phil.w1041"/>
+            <w ref="NT.Phil.w1042"/>
+            <w ref="NT.Phil.w1043"/>
+            <w ref="NT.Phil.w1044"/>
+            <w ref="NT.Phil.w1045"/>
+            <w ref="NT.Phil.w1046"/>
+            <w ref="NT.Phil.w1047"/>
+            <w ref="NT.Phil.w1048"/>
+          </P>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg67">
+        <head>
+          <w ref="NT.Phil.w1032"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg68">
+        <head>
+          <w ref="NT.Phil.w1033"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg69">
+        <head>
+          <w ref="NT.Phil.w1034"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg70">
+        <head>
+          <w ref="NT.Phil.w1035"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg71">
+        <head>
+          <w ref="NT.Phil.w1036"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg72">
+        <head>
+          <w ref="NT.Phil.w1037"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg73">
+        <head>
+          <w ref="NT.Phil.w1038"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg74">
+        <head>
+          <w ref="NT.Phil.w1041">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1039"/>
+                <w ref="NT.Phil.w1040"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Phil.w1043">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Phil.w1042"/>
+                    </specifier>
+                    <qualifier>
+                      <w ref="NT.Phil.w1044">
+                        <modifiers>
+                          <definer>
+                            <w ref="NT.Phil.w1045">
+                              <modifiers>
+                                <definer>
+                                  <w ref="NT.Phil.w1047">
+                                    <modifiers>
+                                      <specifier>
+                                        <w ref="NT.Phil.w1046"/>
+                                      </specifier>
+                                      <qualifier>
+                                        <w ref="NT.Phil.w1048"/>
+                                      </qualifier>
+                                    </modifiers>
+                                  </w>
+                                </definer>
+                              </modifiers>
+                            </w>
+                          </definer>
+                        </modifiers>
+                      </w>
+                    </qualifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1032" ref="NT.Phil.3.8">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+      <sem>
+        <domain majorNum="89" subNum="125 96"/>
+        <domain majorNum="91" subNum="2 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1033" ref="NT.Phil.3.8">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="menou=n" lex="μενοῦν"></wf>
+      <sem>
+        <domain majorNum="89" subNum="128"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1034" ref="NT.Phil.3.8">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1035" ref="NT.Phil.3.8">
+      <pos>
+        <VBF num="sing" voc="mop" per="1st" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="h(ge/omai" lex="ἡγέομαι"></wf>
+      <sem>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="36" subNum="1"/>
+        <domain majorNum="37" subNum="58"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1036" ref="NT.Phil.3.8">
+      <pos>
+        <ADJ num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" subNum="23 24"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1037" ref="NT.Phil.3.8">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="zhmi/a" lex="ζημία"></wf>
+      <sem>
+        <domain majorNum="57" subNum="69"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1038" ref="NT.Phil.3.8">
+      <pos>
+        <VBN augment="-"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1039" ref="NT.Phil.3.8">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="dia/" lex="διά"></wf>
+      <sem>
+        <domain majorNum="90" subNum="4 8 38 44"/>
+        <domain majorNum="89" subNum="76 26"/>
+        <domain majorNum="84" subNum="29 32"/>
+        <domain majorNum="67" subNum="136 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1040" ref="NT.Phil.3.8">
+      <pos>
+        <ART num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1041" ref="NT.Phil.3.8">
+      <pos>
+        <VBP num="sing" cas="acc" voc="act" gen="neu" tf="pre"/>
+      </pos>
+      <wf betaLex="u(pere/xw" lex="ὑπερέχω"></wf>
+      <sem>
+        <domain majorNum="65" subNum="4"/>
+        <domain majorNum="37" subNum="17"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1042" ref="NT.Phil.3.8">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1043" ref="NT.Phil.3.8">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="gnw=sis" lex="γνῶσις"></wf>
+      <sem>
+        <domain majorNum="28" subNum="1 17 19"/>
+        <domain majorNum="32" subNum="16"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1044" ref="NT.Phil.3.8">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1045" ref="NT.Phil.3.8">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+      <sem>
+        <domain majorNum="93" subNum="169"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1046" ref="NT.Phil.3.8">
+      <pos>
+        <ART num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1047" ref="NT.Phil.3.8">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="ku/rios" lex="κύριος"></wf>
+      <sem>
+        <domain majorNum="12" subNum="9"/>
+        <domain majorNum="57" subNum="12"/>
+        <domain majorNum="37" subNum="51"/>
+        <domain majorNum="87" subNum="53"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1048" ref="NT.Phil.3.8">
+      <pos>
+        <PRO num="sing" cas="gen" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c25" level="secondary" connect="NT.Phil.3_c22" structure="A-C-P">
+    <clause_level>
+      <A>
+        <w ref="NT.Phil.w1049"/>
+        <w ref="NT.Phil.w1050"/>
+      </A>
+      <C>
+        <w ref="NT.Phil.w1051"/>
+        <w ref="NT.Phil.w1052"/>
+      </C>
+      <P>
+        <w ref="NT.Phil.w1053"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg75">
+        <head>
+          <w ref="NT.Phil.w1050">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1049"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg76">
+        <head>
+          <w ref="NT.Phil.w1052">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1051"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg77">
+        <head>
+          <w ref="NT.Phil.w1053"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1049" ref="NT.Phil.3.8">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="dia/" lex="διά"></wf>
+      <sem>
+        <domain majorNum="90" subNum="4 8 38 44"/>
+        <domain majorNum="89" subNum="76 26"/>
+        <domain majorNum="84" subNum="29 32"/>
+        <domain majorNum="67" subNum="136 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1050" ref="NT.Phil.3.8">
+      <pos>
+        <PRO num="sing" cas="acc" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1051" ref="NT.Phil.3.8">
+      <pos>
+        <ART num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1052" ref="NT.Phil.3.8">
+      <pos>
+        <ADJ num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" subNum="23 24"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1053" ref="NT.Phil.3.8">
+      <pos>
+        <VBF num="sing" per="1st" voc="pas" mod="ind" tf="aor"/>
+      </pos>
+      <wf betaLex="zhmio/w" lex="ζημιόω"></wf>
+      <sem>
+        <domain majorNum="57" subNum="69"/>
+        <domain majorNum="38" subNum="7"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c26" level="primary" connect="NT.Phil.3_c22" structure="conj-P-C">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w1054"/>
+      </conj>
+      <P>
+        <w ref="NT.Phil.w1055"/>
+      </P>
+      <C>
+        <w ref="NT.Phil.w1056"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg78">
+        <head>
+          <w ref="NT.Phil.w1054"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg79">
+        <head>
+          <w ref="NT.Phil.w1055"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg80">
+        <head>
+          <w ref="NT.Phil.w1056"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1054" ref="NT.Phil.3.8">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1055" ref="NT.Phil.3.8">
+      <pos>
+        <VBF num="sing" voc="mop" per="1st" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="h(ge/omai" lex="ἡγέομαι"></wf>
+      <sem>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="36" subNum="1"/>
+        <domain majorNum="37" subNum="58"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1056" ref="NT.Phil.3.8">
+      <pos>
+        <NON num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="sku/balon" lex="σκύβαλον"></wf>
+      <sem>
+        <domain majorNum="6" subNum="225"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c27" level="secondary" connect="NT.Phil.3_c26" structure="conj-C-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w1057"/>
+      </conj>
+      <C>
+        <w ref="NT.Phil.w1058"/>
+      </C>
+      <P>
+        <w ref="NT.Phil.w1059"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg81">
+        <head>
+          <w ref="NT.Phil.w1057"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg82">
+        <head>
+          <w ref="NT.Phil.w1058"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg83">
+        <head>
+          <w ref="NT.Phil.w1059"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1057" ref="NT.Phil.3.8">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="i(/na" lex="ἵνα"></wf>
+      <sem>
+        <domain majorNum="89" subNum="59 49"/>
+        <domain majorNum="90" subNum="22"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1058" ref="NT.Phil.3.8">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1059" ref="NT.Phil.3.8">
+      <pos>
+        <VBF num="sing" per="1st" voc="act" mod="sub" tf="aor"/>
+      </pos>
+      <wf betaLex="kerdai/nw" lex="κερδαίνω"></wf>
+      <sem>
+        <domain majorNum="57" subNum="189"/>
+        <domain majorNum="13" subNum="137"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c28" level="secondary" connect="NT.Phil.3_c27" structure="conj-P-A-A-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w1060"/>
+      </conj>
+      <P>
+        <w ref="NT.Phil.w1061"/>
+      </P>
+      <A>
+        <w ref="NT.Phil.w1062"/>
+        <w ref="NT.Phil.w1063"/>
+      </A>
+      <A>
+        <clause xml:id="NT.Phil.3_c29" level="embedded" structure="A-P-C">
+          <A>
+            <w ref="NT.Phil.w1064"/>
+          </A>
+          <P>
+            <w ref="NT.Phil.w1065"/>
+          </P>
+          <C>
+            <w ref="NT.Phil.w1066"/>
+            <w ref="NT.Phil.w1067"/>
+            <w ref="NT.Phil.w1068"/>
+            <w ref="NT.Phil.w1069"/>
+            <w ref="NT.Phil.w1070"/>
+          </C>
+        </clause>
+        <clause xml:id="NT.Phil.3_c30" level="embedded" structure="conj-C">
+          <conj>
+            <w ref="NT.Phil.w1071"/>
+          </conj>
+          <C>
+            <w ref="NT.Phil.w1072"/>
+            <w ref="NT.Phil.w1073"/>
+            <w ref="NT.Phil.w1074"/>
+            <w ref="NT.Phil.w1075"/>
+            <w ref="NT.Phil.w1076"/>
+            <w ref="NT.Phil.w1077"/>
+            <w ref="NT.Phil.w1078"/>
+            <w ref="NT.Phil.w1079"/>
+            <w ref="NT.Phil.w1080"/>
+            <w ref="NT.Phil.w1081"/>
+            <w ref="NT.Phil.w1082"/>
+          </C>
+        </clause>
+      </A>
+      <A>
+        <clause xml:id="NT.Phil.3_c31" level="embedded" structure="P-C-A">
+          <P>
+            <w ref="NT.Phil.w1083"/>
+            <w ref="NT.Phil.w1084"/>
+          </P>
+          <C>
+            <w ref="NT.Phil.w1085"/>
+            <w ref="NT.Phil.w1086"/>
+            <w ref="NT.Phil.w1087"/>
+            <w ref="NT.Phil.w1088"/>
+            <w ref="NT.Phil.w1089"/>
+            <w ref="NT.Phil.w1090"/>
+            <w ref="NT.Phil.w1091"/>
+            <w ref="NT.Phil.w1092"/>
+            <w ref="NT.Phil.w1093"/>
+            <w ref="NT.Phil.w1094"/>
+            <w ref="NT.Phil.w1095"/>
+            <w ref="NT.Phil.w1096"/>
+            <w ref="NT.Phil.w1097"/>
+          </C>
+          <A>
+            <clause xml:id="NT.Phil.3_c32" level="embedded" structure="P-C">
+              <P>
+                <w ref="NT.Phil.w1098"/>
+              </P>
+              <C>
+                <w ref="NT.Phil.w1099"/>
+                <w ref="NT.Phil.w1100"/>
+                <w ref="NT.Phil.w1101"/>
+              </C>
+            </clause>
+          </A>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg84">
+        <head>
+          <w ref="NT.Phil.w1060"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg85">
+        <head>
+          <w ref="NT.Phil.w1061"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg86">
+        <head>
+          <w ref="NT.Phil.w1063">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1062"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg87">
+        <head>
+          <w ref="NT.Phil.w1064"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg88">
+        <head>
+          <w ref="NT.Phil.w1065"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg89">
+        <head>
+          <w ref="NT.Phil.w1067">
+            <modifiers>
+              <definer>
+                <w ref="NT.Phil.w1066"/>
+                <w ref="NT.Phil.w1068">
+                  <modifiers>
+                    <relator>
+                      <w ref="NT.Phil.w1070">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Phil.w1069"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </relator>
+                  </modifiers>
+                </w>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg90">
+        <head>
+          <w ref="NT.Phil.w1071"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg91">
+        <head>
+          <w ref="NT.Phil.w1072">
+            <modifiers>
+              <definer>
+                <w ref="NT.Phil.w1079">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Phil.w1076"/>
+                    </specifier>
+                    <relator>
+                      <w ref="NT.Phil.w1078">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Phil.w1077"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                      <w ref="NT.Phil.w1082">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Phil.w1080"/>
+                            <w ref="NT.Phil.w1081"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </relator>
+                  </modifiers>
+                </w>
+              </definer>
+              <relator>
+                <w ref="NT.Phil.w1074">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Phil.w1073"/>
+                    </specifier>
+                    <qualifier>
+                      <w ref="NT.Phil.w1075"/>
+                    </qualifier>
+                  </modifiers>
+                </w>
+              </relator>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg93">
+        <head>
+          <w ref="NT.Phil.w1084">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1083"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg94">
+        <head>
+          <w ref="NT.Phil.w1085"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg95">
+        <connector>
+          <w ref="NT.Phil.w1086"/>
+        </connector>
+        <head>
+          <w ref="NT.Phil.w1088">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1087"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Phil.w1090">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Phil.w1089"/>
+                    </specifier>
+                    <qualifier>
+                      <w ref="NT.Phil.w1091"/>
+                    </qualifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg96">
+        <connector>
+          <w ref="NT.Phil.w1092"/>
+        </connector>
+        <head>
+          <w ref="NT.Phil.w1094">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1093"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Phil.w1096">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Phil.w1095"/>
+                    </specifier>
+                    <qualifier>
+                      <w ref="NT.Phil.w1097"/>
+                    </qualifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg97">
+        <head>
+          <w ref="NT.Phil.w1098"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg98">
+        <head>
+          <w ref="NT.Phil.w1100">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1099"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Phil.w1101"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1060" ref="NT.Phil.3.9">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1061" ref="NT.Phil.3.9">
+      <pos>
+        <VBF num="sing" per="1st" voc="pas" mod="sub" tf="aor"/>
+      </pos>
+      <wf betaLex="eu(ri/skw" lex="εὑρίσκω"></wf>
+      <sem>
+        <domain majorNum="27" subNum="27 1"/>
+        <domain majorNum="13" subNum="17"/>
+        <domain majorNum="90" subNum="70"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1062" ref="NT.Phil.3.9">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1063" ref="NT.Phil.3.9">
+      <pos>
+        <PRO type="int" num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1064" ref="NT.Phil.3.9">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="mh/" lex="μή"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 15"/>
+        <domain majorNum="89" subNum="62"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1065" ref="NT.Phil.3.9">
+      <pos>
+        <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="e)/xw" lex="ἔχω"></wf>
+      <sem>
+        <domain majorNum="57" subNum="1"/>
+        <domain majorNum="18" subNum="6"/>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="49" subNum="13"/>
+        <domain majorNum="74" subNum="12"/>
+        <domain majorNum="90" subNum="65"/>
+        <domain majorNum="13" subNum="2"/>
+        <domain majorNum="90" subNum="51 27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1066" ref="NT.Phil.3.9">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="e)mo/s" lex="ἐμός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="2"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1067" ref="NT.Phil.3.9">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="dikaiosu/nh" lex="δικαιοσύνη"></wf>
+      <sem>
+        <domain majorNum="88" subNum="13"/>
+        <domain majorNum="34" subNum="46"/>
+        <domain majorNum="53" subNum="4"/>
+        <domain majorNum="57" subNum="111"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1068" ref="NT.Phil.3.9">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1069" ref="NT.Phil.3.9">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)k" lex="ἐκ"></wf>
+      <sem>
+        <domain majorNum="84" subNum="4"/>
+        <domain majorNum="89" subNum="25 77 85 121 142"/>
+        <domain majorNum="90" subNum="12 16"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="68" subNum="54"/>
+        <domain majorNum="67" subNum="33 131"/>
+        <domain majorNum="57" subNum="162"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1070" ref="NT.Phil.3.9">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="no/mos" lex="νόμος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="333 55 56"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1071" ref="NT.Phil.3.9">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)lla/" lex="ἀλλά"></wf>
+      <sem>
+        <domain majorNum="89" subNum="125 96"/>
+        <domain majorNum="91" subNum="2 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1072" ref="NT.Phil.3.9">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1073" ref="NT.Phil.3.9">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="dia/" lex="διά"></wf>
+      <sem>
+        <domain majorNum="90" subNum="4 8 38 44"/>
+        <domain majorNum="89" subNum="76 26"/>
+        <domain majorNum="84" subNum="29 32"/>
+        <domain majorNum="67" subNum="136 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1074" ref="NT.Phil.3.9">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="pi/stis" lex="πίστις"></wf>
+      <sem>
+        <domain majorNum="31" subNum="43 85 88 102 104"/>
+        <domain majorNum="33" subNum="289"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1075" ref="NT.Phil.3.9">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1076" ref="NT.Phil.3.9">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1077" ref="NT.Phil.3.9">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)k" lex="ἐκ"></wf>
+      <sem>
+        <domain majorNum="84" subNum="4"/>
+        <domain majorNum="89" subNum="25 77 85 121 142"/>
+        <domain majorNum="90" subNum="12 16"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="68" subNum="54"/>
+        <domain majorNum="67" subNum="33 131"/>
+        <domain majorNum="57" subNum="162"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1078" ref="NT.Phil.3.9">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1079" ref="NT.Phil.3.9">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="dikaiosu/nh" lex="δικαιοσύνη"></wf>
+      <sem>
+        <domain majorNum="88" subNum="13"/>
+        <domain majorNum="34" subNum="46"/>
+        <domain majorNum="53" subNum="4"/>
+        <domain majorNum="57" subNum="111"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1080" ref="NT.Phil.3.9">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)pi/" lex="ἐπί"></wf>
+      <sem>
+        <domain majorNum="83" subNum="46 23 9 35"/>
+        <domain majorNum="84" subNum="17 20"/>
+        <domain majorNum="90" subNum="17 57 9 34 23 5"/>
+        <domain majorNum="89" subNum="101 27 60 13"/>
+        <domain majorNum="37" subNum="9"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1081" ref="NT.Phil.3.9">
+      <pos>
+        <ART num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1082" ref="NT.Phil.3.9">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="pi/stis" lex="πίστις"></wf>
+      <sem>
+        <domain majorNum="31" subNum="43 85 88 102 104"/>
+        <domain majorNum="33" subNum="289"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1083" ref="NT.Phil.3.10">
+      <pos>
+        <ART num="sing" cas="gen" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1084" ref="NT.Phil.3.10">
+      <pos>
+        <VBN voc="act" tf="aor"/>
+      </pos>
+      <wf betaLex="ginw/skw" lex="γινώσκω"></wf>
+      <sem>
+        <domain majorNum="28" subNum="1"/>
+        <domain majorNum="27" subNum="2 18"/>
+        <domain majorNum="32" subNum="16"/>
+        <domain majorNum="31" subNum="27"/>
+        <domain majorNum="23" subNum="61"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1085" ref="NT.Phil.3.10">
+      <pos>
+        <PRO type="int" num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1086" ref="NT.Phil.3.10">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1087" ref="NT.Phil.3.10">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1088" ref="NT.Phil.3.10">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="du/namis" lex="δύναμις"></wf>
+      <sem>
+        <domain majorNum="74" subNum="1"/>
+        <domain majorNum="76" subNum="1 7"/>
+        <domain majorNum="37" subNum="61"/>
+        <domain majorNum="12" subNum="44"/>
+        <domain majorNum="33" subNum="134"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1089" ref="NT.Phil.3.10">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1090" ref="NT.Phil.3.10">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="a)na/stasis" lex="ἀνάστασις"></wf>
+      <sem>
+        <domain majorNum="23" subNum="93"/>
+        <domain majorNum="87" subNum="39"/>
+        <domain majorNum="13" subNum="60"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1091" ref="NT.Phil.3.10">
+      <pos>
+        <PRO type="int" num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1092" ref="NT.Phil.3.10">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1093" ref="NT.Phil.3.10">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1094" ref="NT.Phil.3.10">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="koinwni/a" lex="κοινωνία"></wf>
+      <sem>
+        <domain majorNum="34" subNum="5"/>
+        <domain majorNum="57" subNum="98 101"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1095" ref="NT.Phil.3.10">
+      <pos>
+        <ART num="plur" cas="gen" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1096" ref="NT.Phil.3.10">
+      <pos>
+        <NON num="plur" cas="gen" gen="neu"/>
+      </pos>
+      <wf betaLex="pa/qhma" lex="πάθημα"></wf>
+      <sem>
+        <domain majorNum="24" subNum="78"/>
+        <domain majorNum="25" subNum="30"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1097" ref="NT.Phil.3.10">
+      <pos>
+        <PRO type="int" num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1098" ref="NT.Phil.3.10">
+      <pos>
+        <VBP num="sing" cas="nom" voc="mop" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="summorfi/zomai" lex="συμμορφίζομαι"></wf>
+      <sem>
+        <domain majorNum="58" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1099" ref="NT.Phil.3.10">
+      <pos>
+        <ART num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1100" ref="NT.Phil.3.10">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="qa/natos" lex="θάνατος"></wf>
+      <sem>
+        <domain majorNum="23" subNum="99 158"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1101" ref="NT.Phil.3.10">
+      <pos>
+        <PRO type="int" num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c33" level="secondary2" connect="NT.Phil.3_c28" structure="conj-A-P-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w1102"/>
+      </conj>
+      <A>
+        <w ref="NT.Phil.w1103"/>
+      </A>
+      <P>
+        <w ref="NT.Phil.w1104"/>
+      </P>
+      <A>
+        <w ref="NT.Phil.w1105"/>
+        <w ref="NT.Phil.w1106"/>
+        <w ref="NT.Phil.w1107"/>
+        <w ref="NT.Phil.w1108"/>
+        <w ref="NT.Phil.w1109"/>
+        <w ref="NT.Phil.w1110"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg99">
+        <head>
+          <w ref="NT.Phil.w1102"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg100">
+        <head>
+          <w ref="NT.Phil.w1103"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg101">
+        <head>
+          <w ref="NT.Phil.w1104"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg102">
+        <head>
+          <w ref="NT.Phil.w1107">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1105"/>
+                <w ref="NT.Phil.w1106"/>
+              </specifier>
+              <definer>
+                <w ref="NT.Phil.w1108">
+                  <modifiers>
+                    <relator>
+                      <w ref="NT.Phil.w1110">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Phil.w1109"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </relator>
+                  </modifiers>
+                </w>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1102" ref="NT.Phil.3.11">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ei)" lex="εἰ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="65 30"/>
+        <domain majorNum="90" subNum="26"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1103" ref="NT.Phil.3.11">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="pw/s" lex="πώς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="16"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1104" ref="NT.Phil.3.11">
+      <pos>
+        <VBF num="sing" per="1st" voc="act" mod="sub" tf="aor"/>
+      </pos>
+      <wf betaLex="katanta/w" lex="καταντάω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="84"/>
+        <domain majorNum="13" subNum="16 121"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1105" ref="NT.Phil.3.11">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1106" ref="NT.Phil.3.11">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1107" ref="NT.Phil.3.11">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="e)cana/stasis" lex="ἐξανάστασις"></wf>
+      <sem>
+        <domain majorNum="23" subNum="93"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1108" ref="NT.Phil.3.11">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1109" ref="NT.Phil.3.11">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)k" lex="ἐκ"></wf>
+      <sem>
+        <domain majorNum="84" subNum="4"/>
+        <domain majorNum="89" subNum="25 77 85 121 142"/>
+        <domain majorNum="90" subNum="12 16"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="68" subNum="54"/>
+        <domain majorNum="67" subNum="33 131"/>
+        <domain majorNum="57" subNum="162"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1110" ref="NT.Phil.3.11">
+      <pos>
+        <ADJ num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="nekro/s" lex="νεκρός"></wf>
+      <sem>
+        <domain majorNum="23" subNum="121"/>
+        <domain majorNum="65" subNum="39"/>
+        <domain majorNum="74" subNum="28"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c34" level="primary" connect="NT.Phil.3_c26" structure="A-conj-A-P">
+    <clause_level>
+      <A>
+        <w ref="NT.Phil.w1111"/>
+      </A>
+      <conj>
+        <w ref="NT.Phil.w1112"/>
+      </conj>
+      <A>
+        <w ref="NT.Phil.w1113"/>
+      </A>
+      <P>
+        <w ref="NT.Phil.w1114"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg103">
+        <head>
+          <w ref="NT.Phil.w1111"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg104">
+        <head>
+          <w ref="NT.Phil.w1112"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg105">
+        <head>
+          <w ref="NT.Phil.w1113"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg106">
+        <head>
+          <w ref="NT.Phil.w1114"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1111" ref="NT.Phil.3.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1112" ref="NT.Phil.3.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="o(/ti" lex="ὅτι"></wf>
+      <sem>
+        <domain majorNum="90" subNum="21"/>
+        <domain majorNum="89" subNum="33"/>
+        <domain majorNum="91" subNum="15"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1113" ref="NT.Phil.3.12">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="h)/dh" lex="ἤδη"></wf>
+      <sem>
+        <domain majorNum="67" subNum="20"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1114" ref="NT.Phil.3.12">
+      <pos>
+        <VBF num="sing" per="1st" voc="act" mod="ind" tf="aor"/>
+      </pos>
+      <wf betaLex="lamba/nw" lex="λαμβάνω"></wf>
+      <sem>
+        <domain majorNum="18" subNum="1"/>
+        <domain majorNum="57" subNum="55 125 65"/>
+        <domain majorNum="30" subNum="86"/>
+        <domain majorNum="31" subNum="50"/>
+        <domain majorNum="88" subNum="146"/>
+        <domain majorNum="90" subNum="63 85 48"/>
+        <domain majorNum="49" subNum="10"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c35" level="primary" connect="NT.Phil.3_c34" structure="conj-A-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w1115"/>
+      </conj>
+      <A>
+        <w ref="NT.Phil.w1116"/>
+      </A>
+      <P>
+        <w ref="NT.Phil.w1117"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg107">
+        <head>
+          <w ref="NT.Phil.w1115"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg108">
+        <head>
+          <w ref="NT.Phil.w1116"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg109">
+        <head>
+          <w ref="NT.Phil.w1117"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1115" ref="NT.Phil.3.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="h)/" lex="ἤ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="139 140"/>
+        <domain majorNum="64" subNum="18"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1116" ref="NT.Phil.3.12">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="h)/dh" lex="ἤδη"></wf>
+      <sem>
+        <domain majorNum="67" subNum="20"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1117" ref="NT.Phil.3.12">
+      <pos>
+        <VBF vocOLD="pas" num="sing" voc="mop" per="1st" mod="ind" tf="per"/>
+      </pos>
+      <wf betaLex="teleio/w" lex="τελειόω"></wf>
+      <sem>
+        <domain majorNum="88" subNum="38"/>
+        <domain majorNum="73" subNum="7"/>
+        <domain majorNum="68" subNum="22 31"/>
+        <domain majorNum="53" subNum="50"/>
+        <domain majorNum="13" subNum="126 18"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c36" level="primary" connect="NT.Phil.3_c35" structure="P-conj">
+    <clause_level>
+      <P>
+        <w ref="NT.Phil.w1118"/>
+      </P>
+      <conj>
+        <w ref="NT.Phil.w1119"/>
+      </conj>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg110">
+        <head>
+          <w ref="NT.Phil.w1118"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg111">
+        <head>
+          <w ref="NT.Phil.w1119"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1118" ref="NT.Phil.3.12">
+      <pos>
+        <VBF num="sing" per="1st" voc="act" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="diw/kw" lex="διώκω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="158 223"/>
+        <domain majorNum="39" subNum="45"/>
+        <domain majorNum="68" subNum="66"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1119" ref="NT.Phil.3.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c37" level="secondary" connect="NT.Phil.3_c36" structure="conj-conj-S-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w1120"/>
+      </conj>
+      <conj>
+        <w ref="NT.Phil.w1121"/>
+      </conj>
+      <S>
+        <w ref="NT.Phil.w1122"/>
+      </S>
+      <A>
+        <clause xml:id="NT.Phil.3_c38" level="embedded" structure="A-A-P-A">
+          <A>
+            <w ref="NT.Phil.w1123"/>
+            <w ref="NT.Phil.w1124"/>
+          </A>
+          <A>
+            <w ref="NT.Phil.w1125"/>
+          </A>
+          <P>
+            <w ref="NT.Phil.w1126"/>
+          </P>
+          <A>
+            <w ref="NT.Phil.w1127"/>
+            <w ref="NT.Phil.w1128"/>
+            <w ref="NT.Phil.w1129"/>
+          </A>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg112">
+        <head>
+          <w ref="NT.Phil.w1120"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg113">
+        <head>
+          <w ref="NT.Phil.w1121"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg114">
+        <head>
+          <w ref="NT.Phil.w1122"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg115">
+        <head>
+          <w ref="NT.Phil.w1124">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1123"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg116">
+        <head>
+          <w ref="NT.Phil.w1125"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg117">
+        <head>
+          <w ref="NT.Phil.w1126"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg118">
+        <head>
+          <w ref="NT.Phil.w1128">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1127"/>
+              </specifier>
+              <definer>
+                <w ref="NT.Phil.w1129"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1120" ref="NT.Phil.3.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ei)" lex="εἰ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="65 30"/>
+        <domain majorNum="90" subNum="26"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1121" ref="NT.Phil.3.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1122" ref="NT.Phil.3.12">
+      <pos>
+        <VBF num="sing" per="1st" voc="act" mod="sub" tf="aor"/>
+      </pos>
+      <wf betaLex="katalamba/nw" lex="καταλαμβάνω"></wf>
+      <sem>
+        <domain majorNum="57" subNum="56"/>
+        <domain majorNum="39" subNum="48"/>
+        <domain majorNum="37" subNum="108"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1123" ref="NT.Phil.3.12">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)pi/" lex="ἐπί"></wf>
+      <sem>
+        <domain majorNum="83" subNum="46 23 9 35"/>
+        <domain majorNum="84" subNum="17 20"/>
+        <domain majorNum="90" subNum="17 57 9 34 23 5"/>
+        <domain majorNum="89" subNum="101 27 60 13"/>
+        <domain majorNum="37" subNum="9"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1124" ref="NT.Phil.3.12">
+      <pos>
+        <PRO num="sing" cas="dat" type="rel" gen="neu"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1125" ref="NT.Phil.3.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1126" ref="NT.Phil.3.12">
+      <pos>
+        <VBF num="sing" per="1st" voc="pas" mod="ind" tf="aor"/>
+      </pos>
+      <wf betaLex="katalamba/nw" lex="καταλαμβάνω"></wf>
+      <sem>
+        <domain majorNum="57" subNum="56"/>
+        <domain majorNum="39" subNum="48"/>
+        <domain majorNum="37" subNum="108"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1127" ref="NT.Phil.3.12">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="u(po/" lex="ὑπό"></wf>
+      <sem>
+        <domain majorNum="83" subNum="51"/>
+        <domain majorNum="37" subNum="7"/>
+        <domain majorNum="90" subNum="1"/>
+        <domain majorNum="89" subNum="26"/>
+        <domain majorNum="67" subNum="161"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1128" ref="NT.Phil.3.12">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1129" ref="NT.Phil.3.12">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+      <sem>
+        <domain majorNum="93" subNum="169"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c39" level="primary" connect="NT.Phil.3_c36" structure="add-S-C-A-P">
+    <clause_level>
+      <add>
+        <w ref="NT.Phil.w1130"/>
+      </add>
+      <S>
+        <w ref="NT.Phil.w1131"/>
+      </S>
+      <C>
+        <clause xml:id="NT.Phil.3_c40" level="embedded" structure="S-P">
+          <S>
+            <w ref="NT.Phil.w1132"/>
+          </S>
+          <P>
+            <w ref="NT.Phil.w1135"/>
+          </P>
+        </clause>
+      </C>
+      <A>
+        <w ref="NT.Phil.w1133"/>
+      </A>
+      <P>
+        <w ref="NT.Phil.w1134"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg119">
+        <head>
+          <w ref="NT.Phil.w1130"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg120">
+        <head>
+          <w ref="NT.Phil.w1131"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg121">
+        <head>
+          <w ref="NT.Phil.w1132"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg122">
+        <head>
+          <w ref="NT.Phil.w1133"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg123">
+        <head>
+          <w ref="NT.Phil.w1134"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg124">
+        <head>
+          <w ref="NT.Phil.w1135"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1130" ref="NT.Phil.3.13">
+      <pos>
+        <NON num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="a)delfo/s" lex="ἀδελφός"></wf>
+      <sem>
+        <domain majorNum="10" subNum="49"/>
+        <domain majorNum="11" subNum="23 25 57 89"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1131" ref="NT.Phil.3.13">
+      <pos>
+        <PRO num="sing" cas="nom" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1132" ref="NT.Phil.3.13">
+      <pos>
+        <PRO num="sing" cas="acc" type="per" gen="mas"/>
+      </pos>
+      <wf betaLex="e)mautou=" lex="ἐμαυτοῦ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="3"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1135" ref="NT.Phil.3.13">
+      <pos>
+        <VBN voc="act" tf="per"/>
+      </pos>
+      <wf betaLex="katalamba/nw" lex="καταλαμβάνω"></wf>
+      <sem>
+        <domain majorNum="57" subNum="56"/>
+        <domain majorNum="39" subNum="48"/>
+        <domain majorNum="37" subNum="108"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1133" ref="NT.Phil.3.13">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1134" ref="NT.Phil.3.13">
+      <pos>
+        <VBF num="sing" voc="mop" per="1st" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="logi/zomai" lex="λογίζομαι"></wf>
+      <sem>
+        <domain majorNum="30" subNum="9"/>
+        <domain majorNum="29" subNum="4"/>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="57" subNum="227"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c41" level="primary" connect="NT.Phil.3_c39" structure="S-conj">
+    <clause_level>
+      <S>
+        <w ref="NT.Phil.w1136"/>
+      </S>
+      <conj>
+        <w ref="NT.Phil.w1137"/>
+      </conj>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg125">
+        <head>
+          <w ref="NT.Phil.w1136"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg126">
+        <head>
+          <w ref="NT.Phil.w1137"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1136" ref="NT.Phil.3.13">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="ei(=s" lex="εἷς"></wf>
+      <sem>
+        <domain majorNum="60" subNum="10"/>
+        <domain majorNum="92" subNum="22"/>
+        <domain majorNum="63" subNum="4"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1137" ref="NT.Phil.3.13">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c42" level="primary" connect="NT.Phil.3_c41" structure="A-A-P-A">
+    <clause_level>
+      <A>
+        <clause xml:id="NT.Phil.3_c43" level="embedded" structure="C-(conj)-P">
+          <C>
+            <w ref="NT.Phil.w1138"/>
+            <conj type="embed" parent="NT.Phil.3_c43">
+              <w ref="NT.Phil.w1139"/>
+            </conj>
+            <w ref="NT.Phil.w1140"/>
+          </C>
+          <P>
+            <w ref="NT.Phil.w1141"/>
+          </P>
+        </clause>
+        <clause xml:id="NT.Phil.3_c44" level="embedded" structure="C-(conj)-P">
+          <C>
+            <w ref="NT.Phil.w1142"/>
+            <conj type="embed" parent="NT.Phil.3_c44">
+              <w ref="NT.Phil.w1143"/>
+            </conj>
+            <w ref="NT.Phil.w1144"/>
+          </C>
+          <P>
+            <w ref="NT.Phil.w1145"/>
+          </P>
+        </clause>
+      </A>
+      <A>
+        <w ref="NT.Phil.w1146"/>
+        <w ref="NT.Phil.w1147"/>
+      </A>
+      <P>
+        <w ref="NT.Phil.w1148"/>
+      </P>
+      <A>
+        <w ref="NT.Phil.w1149"/>
+        <w ref="NT.Phil.w1150"/>
+        <w ref="NT.Phil.w1151"/>
+        <w ref="NT.Phil.w1152"/>
+        <w ref="NT.Phil.w1153"/>
+        <w ref="NT.Phil.w1154"/>
+        <w ref="NT.Phil.w1155"/>
+        <w ref="NT.Phil.w1156"/>
+        <w ref="NT.Phil.w1157"/>
+        <w ref="NT.Phil.w1158"/>
+        <w ref="NT.Phil.w1159"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg127">
+        <head>
+          <w ref="NT.Phil.w1139"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg128">
+        <head>
+          <w ref="NT.Phil.w1140">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1138"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg129">
+        <head>
+          <w ref="NT.Phil.w1141"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg130">
+        <head>
+          <w ref="NT.Phil.w1143"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg131">
+        <head>
+          <w ref="NT.Phil.w1144">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1142"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg132">
+        <head>
+          <w ref="NT.Phil.w1145"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg133">
+        <head>
+          <w ref="NT.Phil.w1147">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1146"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg134">
+        <head>
+          <w ref="NT.Phil.w1148"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg135">
+        <head>
+          <w ref="NT.Phil.w1151">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1149"/>
+                <w ref="NT.Phil.w1150"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Phil.w1154">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Phil.w1152"/>
+                    </specifier>
+                    <definer>
+                      <w ref="NT.Phil.w1153"/>
+                    </definer>
+                    <qualifier>
+                      <w ref="NT.Phil.w1156">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Phil.w1155"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </qualifier>
+                    <relator>
+                      <w ref="NT.Phil.w1158">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Phil.w1157"/>
+                          </specifier>
+                          <definer>
+                            <w ref="NT.Phil.w1159"/>
+                          </definer>
+                        </modifiers>
+                      </w>
+                    </relator>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1138" ref="NT.Phil.3.13">
+      <pos>
+        <ART num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1139" ref="NT.Phil.3.13">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="me/n" lex="μέν"></wf>
+      <sem>
+        <domain majorNum="91" subNum="3 6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1140" ref="NT.Phil.3.13">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="o)pi/sw" lex="ὀπίσω"></wf>
+      <sem>
+        <domain majorNum="83" subNum="40"/>
+        <domain majorNum="36" subNum="35"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1141" ref="NT.Phil.3.13">
+      <pos>
+        <VBP num="sing" cas="nom" voc="mop" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="e)pilanqa/nomai" lex="ἐπιλανθάνομαι"></wf>
+      <sem>
+        <domain majorNum="29" subNum="14 17"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1142" ref="NT.Phil.3.13">
+      <pos>
+        <ART num="plur" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1143" ref="NT.Phil.3.13">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1144" ref="NT.Phil.3.13">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="e)/mprosqen" lex="ἔμπροσθεν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="33 36"/>
+        <domain majorNum="90" subNum="20"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1145" ref="NT.Phil.3.13">
+      <pos>
+        <VBP num="sing" cas="nom" voc="mop" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="e)pektei/nomai" lex="ἐπεκτείνομαι"></wf>
+      <sem>
+        <domain majorNum="16" subNum="20."/>
+        <domain majorNum="13" subNum="20."/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1146" ref="NT.Phil.3.14">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="kata/" lex="κατά"></wf>
+      <sem>
+        <domain majorNum="84" subNum="21 30 31"/>
+        <domain majorNum="83" subNum="45 12 44"/>
+        <domain majorNum="67" subNum="33 35"/>
+        <domain majorNum="90" subNum="29 31"/>
+        <domain majorNum="89" subNum="8 90 4 113"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1147" ref="NT.Phil.3.14">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="skopo/s" lex="σκοπός"></wf>
+      <sem>
+        <domain majorNum="84" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1148" ref="NT.Phil.3.14">
+      <pos>
+        <VBF num="sing" per="1st" voc="act" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="diw/kw" lex="διώκω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="158 223"/>
+        <domain majorNum="39" subNum="45"/>
+        <domain majorNum="68" subNum="66"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1149" ref="NT.Phil.3.14">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1150" ref="NT.Phil.3.14">
+      <pos>
+        <ART num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1151" ref="NT.Phil.3.14">
+      <pos>
+        <NON num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="brabei=on" lex="βραβεῖον"></wf>
+      <sem>
+        <domain majorNum="57" subNum="120."/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1152" ref="NT.Phil.3.14">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1153" ref="NT.Phil.3.14">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="a)/nw" lex="ἄνω"></wf>
+      <sem>
+        <domain majorNum="83" subNum="48"/>
+        <domain majorNum="84" subNum="25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1154" ref="NT.Phil.3.14">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="klh=sis" lex="κλῆσις"></wf>
+      <sem>
+        <domain majorNum="33" subNum="312 313"/>
+        <domain majorNum="87" subNum="2"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1155" ref="NT.Phil.3.14">
+      <pos>
+        <ART num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1156" ref="NT.Phil.3.14">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1157" ref="NT.Phil.3.14">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1158" ref="NT.Phil.3.14">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1159" ref="NT.Phil.3.14">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+      <sem>
+        <domain majorNum="93" subNum="169"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c45" level="primary" connect="NT.Phil.3_c42" structure="S-conj-C">
+    <clause_level>
+      <S>
+        <w ref="NT.Phil.w1160"/>
+      </S>
+      <conj>
+        <w ref="NT.Phil.w1161"/>
+      </conj>
+      <C>
+        <w ref="NT.Phil.w1162"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg136">
+        <head>
+          <w ref="NT.Phil.w1160"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg137">
+        <head>
+          <w ref="NT.Phil.w1161"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg138">
+        <head>
+          <w ref="NT.Phil.w1162"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1160" ref="NT.Phil.3.15">
+      <pos>
+        <PRO num="plur" cas="nom" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="o(/sos" lex="ὅσος"></wf>
+      <sem>
+        <domain majorNum="59" subNum="7 19"/>
+        <domain majorNum="78" subNum="52"/>
+        <domain majorNum="67" subNum="139"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1161" ref="NT.Phil.3.15">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)=n" lex="οὖν"></wf>
+      <sem>
+        <domain majorNum="89" subNum="50 127"/>
+        <domain majorNum="91" subNum="7"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1162" ref="NT.Phil.3.15">
+      <pos>
+        <ADJ num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="te/leios" lex="τέλειος"></wf>
+      <sem>
+        <domain majorNum="88" subNum="36"/>
+        <domain majorNum="73" subNum="6"/>
+        <domain majorNum="79" subNum="129"/>
+        <domain majorNum="68" subNum="23"/>
+        <domain majorNum="88" subNum="100"/>
+        <domain majorNum="9" subNum="10"/>
+        <domain majorNum="11" subNum="18"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c46" level="primary" connect="NT.Phil.3_c45" structure="C-P">
+    <clause_level>
+      <C>
+        <w ref="NT.Phil.w1163"/>
+      </C>
+      <P>
+        <w ref="NT.Phil.w1164"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg139">
+        <head>
+          <w ref="NT.Phil.w1163"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg140">
+        <head>
+          <w ref="NT.Phil.w1164"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1163" ref="NT.Phil.3.15">
+      <pos>
+        <PRO num="sing" cas="acc" type="dem" gen="neu"/>
+      </pos>
+      <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+      <sem>
+        <domain majorNum="92" subNum="29"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1164" ref="NT.Phil.3.15">
+      <pos>
+        <VBF num="plur" per="1st" voc="act" mod="sub" tf="pre"/>
+      </pos>
+      <wf betaLex="frone/w" lex="φρονέω"></wf>
+      <sem>
+        <domain majorNum="26" subNum="16"/>
+        <domain majorNum="30" subNum="20"/>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="87" subNum="12"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c47" level="secondary" connect="NT.Phil.3_c48" structure="conj-conj-C-A-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w1165"/>
+      </conj>
+      <conj>
+        <w ref="NT.Phil.w1166"/>
+      </conj>
+      <C>
+        <w ref="NT.Phil.w1167"/>
+      </C>
+      <A>
+        <w ref="NT.Phil.w1168"/>
+      </A>
+      <P>
+        <w ref="NT.Phil.w1169"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg141">
+        <head>
+          <w ref="NT.Phil.w1165"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg142">
+        <head>
+          <w ref="NT.Phil.w1166"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg143">
+        <head>
+          <w ref="NT.Phil.w1167"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg144">
+        <head>
+          <w ref="NT.Phil.w1168"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg145">
+        <head>
+          <w ref="NT.Phil.w1169"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1165" ref="NT.Phil.3.15">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1166" ref="NT.Phil.3.15">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ei)" lex="εἰ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="65 30"/>
+        <domain majorNum="90" subNum="26"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1167" ref="NT.Phil.3.15">
+      <pos>
+        <PRO num="sing" cas="acc" type="ind" gen="neu"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1168" ref="NT.Phil.3.15">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="e(te/rws" lex="ἑτέρως"></wf>
+      <sem>
+        <domain majorNum="58" subNum="36"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1169" ref="NT.Phil.3.15">
+      <pos>
+        <VBF num="plur" per="2nd" voc="act" mod="ioi" tf="pre"/>
+      </pos>
+      <wf betaLex="frone/w" lex="φρονέω"></wf>
+      <sem>
+        <domain majorNum="26" subNum="16"/>
+        <domain majorNum="30" subNum="20"/>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="87" subNum="12"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c48" level="primary" connect="NT.Phil.3_c46" structure="conj-C-S-C-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w1170"/>
+      </conj>
+      <C>
+        <w ref="NT.Phil.w1171"/>
+      </C>
+      <S>
+        <w ref="NT.Phil.w1172"/>
+        <w ref="NT.Phil.w1173"/>
+      </S>
+      <C>
+        <w ref="NT.Phil.w1174"/>
+      </C>
+      <P>
+        <w ref="NT.Phil.w1175"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg146">
+        <head>
+          <w ref="NT.Phil.w1170"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg147">
+        <head>
+          <w ref="NT.Phil.w1171"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg148">
+        <head>
+          <w ref="NT.Phil.w1173">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1172"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg149">
+        <head>
+          <w ref="NT.Phil.w1174"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg150">
+        <head>
+          <w ref="NT.Phil.w1175"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1170" ref="NT.Phil.3.15">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1171" ref="NT.Phil.3.15">
+      <pos>
+        <PRO num="sing" cas="acc" type="dem" gen="neu"/>
+      </pos>
+      <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+      <sem>
+        <domain majorNum="92" subNum="29"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1172" ref="NT.Phil.3.15">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1173" ref="NT.Phil.3.15">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1174" ref="NT.Phil.3.15">
+      <pos>
+        <PRO num="plur" cas="dat" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1175" ref="NT.Phil.3.15">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="fut"/>
+      </pos>
+      <wf betaLex="a)pokalu/ptw" lex="ἀποκαλύπτω"></wf>
+      <sem>
+        <domain majorNum="28" subNum="38"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c49" level="primary" connect="NT.Phil.3_c48" structure="conj-A-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w1176"/>
+      </conj>
+      <A>
+        <w ref="NT.Phil.w1177"/>
+        <w ref="NT.Phil.w1178"/>
+      </A>
+      <P>
+        <w ref="NT.Phil.w1179"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg151">
+        <head>
+          <w ref="NT.Phil.w1176"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg152">
+        <head>
+          <w ref="NT.Phil.w1178">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1177"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg153">
+        <head>
+          <w ref="NT.Phil.w1179"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1176" ref="NT.Phil.3.16">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="plh/n" lex="πλήν"></wf>
+      <sem>
+        <domain majorNum="89" subNum="130"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1177" ref="NT.Phil.3.16">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1178" ref="NT.Phil.3.16">
+      <pos>
+        <PRO num="sing" cas="acc" type="rel" gen="neu"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1179" ref="NT.Phil.3.16">
+      <pos>
+        <VBF num="plur" per="1st" voc="act" mod="ind" tf="aor"/>
+      </pos>
+      <wf betaLex="fqa/nw" lex="φθάνω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="84 141"/>
+        <domain majorNum="13" subNum="16 123"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c50" level="primary" connect="NT.Phil.3_c49" structure="C-P">
+    <clause_level>
+      <C>
+        <w ref="NT.Phil.w1180"/>
+        <w ref="NT.Phil.w1181"/>
+      </C>
+      <P>
+        <w ref="NT.Phil.w1182"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg154">
+        <head>
+          <w ref="NT.Phil.w1181">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1180"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg155">
+        <head>
+          <w ref="NT.Phil.w1182"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1180" ref="NT.Phil.3.16">
+      <pos>
+        <ART num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1181" ref="NT.Phil.3.16">
+      <pos>
+        <PRO num="sing" cas="dat" type="int" gen="neu"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1182" ref="NT.Phil.3.16">
+      <pos>
+        <VBN voc="act" tf="pre"/>
+      </pos>
+      <wf betaLex="stoixe/w" lex="στοιχέω"></wf>
+      <sem>
+        <domain majorNum="41" subNum="12"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c51" level="primary" connect="NT.Phil.3_c50" structure="C-P-add">
+    <clause_level>
+      <C>
+        <w ref="NT.Phil.w1183"/>
+        <w ref="NT.Phil.w1184"/>
+      </C>
+      <P>
+        <w ref="NT.Phil.w1185"/>
+      </P>
+      <add>
+        <w ref="NT.Phil.w1186"/>
+      </add>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg156">
+        <head>
+          <w ref="NT.Phil.w1183">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Phil.w1184"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg157">
+        <head>
+          <w ref="NT.Phil.w1185"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg158">
+        <head>
+          <w ref="NT.Phil.w1186"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1183" ref="NT.Phil.3.17">
+      <pos>
+        <NON num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="summimhth/s" lex="συμμιμητής"></wf>
+      <sem>
+        <domain majorNum="41" subNum="46"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1184" ref="NT.Phil.3.17">
+      <pos>
+        <PRO num="sing" cas="gen" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1185" ref="NT.Phil.3.17">
+      <pos>
+        <VBF num="plur" voc="mop" per="2nd" mod="ioi" tf="pre"/>
+      </pos>
+      <wf betaLex="gi/nomai" lex="γίνομαι"></wf>
+      <sem>
+        <domain majorNum="13" subNum="80 3 48 107"/>
+        <domain majorNum="15" subNum="1"/>
+        <domain majorNum="57" subNum="2"/>
+        <domain majorNum="41" subNum="1"/>
+        <domain majorNum="85" subNum="6 7"/>
+        <domain majorNum="91" subNum="5"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1186" ref="NT.Phil.3.17">
+      <pos>
+        <NON num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="a)delfo/s" lex="ἀδελφός"></wf>
+      <sem>
+        <domain majorNum="10" subNum="49"/>
+        <domain majorNum="11" subNum="23 25 57 89"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c52" level="primary" connect="NT.Phil.3_c51" structure="conj-P-C">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w1187"/>
+      </conj>
+      <P>
+        <w ref="NT.Phil.w1188"/>
+      </P>
+      <C>
+        <clause xml:id="NT.Phil.3_c53" level="embedded" structure="P-(A)-A">
+          <P>
+            <w ref="NT.Phil.w1189"/>
+            <A type="embed" parent="NT.Phil.3_c53">
+              <w ref="NT.Phil.w1190"/>
+            </A>
+            <w ref="NT.Phil.w1191"/>
+          </P>
+          <A>
+            <clause xml:id="NT.Phil.3_c54" level="embedded" structure="A-P-C">
+              <A>
+                <w ref="NT.Phil.w1192"/>
+              </A>
+              <P>
+                <w ref="NT.Phil.w1193"/>
+              </P>
+              <C>
+                <w ref="NT.Phil.w1194"/>
+                <w ref="NT.Phil.w1195"/>
+              </C>
+            </clause>
+          </A>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg159">
+        <head>
+          <w ref="NT.Phil.w1187"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg160">
+        <head>
+          <w ref="NT.Phil.w1188"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg161">
+        <head>
+          <w ref="NT.Phil.w1190"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg162">
+        <head>
+          <w ref="NT.Phil.w1191">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1189"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg163">
+        <head>
+          <w ref="NT.Phil.w1192"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg164">
+        <head>
+          <w ref="NT.Phil.w1193"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg165">
+        <head>
+          <w ref="NT.Phil.w1195">
+            <modifiers>
+              <definer>
+                <w ref="NT.Phil.w1194"/>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1187" ref="NT.Phil.3.17">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1188" ref="NT.Phil.3.17">
+      <pos>
+        <VBF num="plur" per="2nd" voc="act" mod="ioi" tf="pre"/>
+      </pos>
+      <wf betaLex="skope/w" lex="σκοπέω"></wf>
+      <sem>
+        <domain majorNum="24" subNum="32"/>
+        <domain majorNum="27" subNum="58 36"/>
+        <domain majorNum="30" subNum="20"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1189" ref="NT.Phil.3.17">
+      <pos>
+        <ART num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1190" ref="NT.Phil.3.17">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="ou(/tw" lex="οὕτω"></wf>
+      <sem>
+        <domain majorNum="61" subNum="9 10"/>
+        <domain majorNum="78" subNum="4"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1191" ref="NT.Phil.3.17">
+      <pos>
+        <VBP num="plur" cas="acc" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="peripate/w" lex="περιπατέω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="227"/>
+        <domain majorNum="41" subNum="11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1192" ref="NT.Phil.3.17">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kaqw/s" lex="καθώς"></wf>
+      <sem>
+        <domain majorNum="78" subNum="53"/>
+        <domain majorNum="89" subNum="34 86"/>
+        <domain majorNum="64" subNum="14"/>
+        <domain majorNum="67" subNum="33"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1193" ref="NT.Phil.3.17">
+      <pos>
+        <VBF num="plur" per="2nd" voc="act" mod="ioi" tf="pre"/>
+      </pos>
+      <wf betaLex="e)/xw" lex="ἔχω"></wf>
+      <sem>
+        <domain majorNum="57" subNum="1"/>
+        <domain majorNum="18" subNum="6"/>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="49" subNum="13"/>
+        <domain majorNum="74" subNum="12"/>
+        <domain majorNum="90" subNum="65"/>
+        <domain majorNum="13" subNum="2"/>
+        <domain majorNum="90" subNum="51 27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1194" ref="NT.Phil.3.17">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="tu/pos" lex="τύπος"></wf>
+      <sem>
+        <domain majorNum="8" subNum="56"/>
+        <domain majorNum="6" subNum="96"/>
+        <domain majorNum="68" subNum="58 59 63 25"/>
+        <domain majorNum="90" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1195" ref="NT.Phil.3.17">
+      <pos>
+        <PRO num="plur" cas="acc" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c55" level="primary" connect="NT.Phil.3_c52" structure="S-conj-P">
+    <clause_level>
+      <S>
+        <w ref="NT.Phil.w1196"/>
+      </S>
+      <conj>
+        <w ref="NT.Phil.w1197"/>
+      </conj>
+      <P>
+        <w ref="NT.Phil.w1198"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg166">
+        <head>
+          <w ref="NT.Phil.w1196"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg167">
+        <head>
+          <w ref="NT.Phil.w1197"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg168">
+        <head>
+          <w ref="NT.Phil.w1198"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1196" ref="NT.Phil.3.18">
+      <pos>
+        <ADJ num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="polu/s" lex="πολύς"></wf>
+      <sem>
+        <domain majorNum="59" subNum="1 11"/>
+        <domain majorNum="78" subNum="3"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1197" ref="NT.Phil.3.18">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1198" ref="NT.Phil.3.18">
+      <pos>
+        <VBF num="plur" per="3rd" voc="act" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="peripate/w" lex="περιπατέω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="227"/>
+        <domain majorNum="41" subNum="11"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c56" level="secondary" connect="NT.Phil.3_c55" structure="A-A-P-C">
+    <clause_level>
+      <A>
+        <w ref="NT.Phil.w1199"/>
+      </A>
+      <A>
+        <w ref="NT.Phil.w1200"/>
+      </A>
+      <P>
+        <w ref="NT.Phil.w1201"/>
+      </P>
+      <C>
+        <w ref="NT.Phil.w1202"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg169">
+        <head>
+          <w ref="NT.Phil.w1199"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg170">
+        <head>
+          <w ref="NT.Phil.w1200"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg171">
+        <head>
+          <w ref="NT.Phil.w1201"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg172">
+        <head>
+          <w ref="NT.Phil.w1202"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1199" ref="NT.Phil.3.18">
+      <pos>
+        <PRO num="plur" cas="acc" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="ou)=s" lex="οὖς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1200" ref="NT.Phil.3.18">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="polla/kis" lex="πολλάκις"></wf>
+      <sem>
+        <domain majorNum="67" subNum="11"/>
+        <domain majorNum="67" subNum="11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1201" ref="NT.Phil.3.18">
+      <pos>
+        <VBF num="sing" per="1st" voc="act" mod="ind" tf="imp"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1202" ref="NT.Phil.3.18">
+      <pos>
+        <PRO num="plur" cas="dat" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c57" level="secondary" connect="NT.Phil.3_c56" structure="A-conj-A-P">
+    <clause_level>
+      <A>
+        <w ref="NT.Phil.w1203"/>
+      </A>
+      <conj>
+        <w ref="NT.Phil.w1204"/>
+      </conj>
+      <A>
+        <clause xml:id="NT.Phil.3_c58" level="embedded" structure="A-P">
+          <A>
+            <w ref="NT.Phil.w1205"/>
+          </A>
+          <P>
+            <w ref="NT.Phil.w1206"/>
+          </P>
+        </clause>
+      </A>
+      <P>
+        <w ref="NT.Phil.w1207"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg173">
+        <head>
+          <w ref="NT.Phil.w1203"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg174">
+        <head>
+          <w ref="NT.Phil.w1204"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg175">
+        <head>
+          <w ref="NT.Phil.w1205"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg176">
+        <head>
+          <w ref="NT.Phil.w1206"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg177">
+        <head>
+          <w ref="NT.Phil.w1207"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1203" ref="NT.Phil.3.18">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="nu=n" lex="νῦν"></wf>
+      <sem>
+        <domain majorNum="67" subNum="38 39"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1204" ref="NT.Phil.3.18">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1205" ref="NT.Phil.3.18">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1206" ref="NT.Phil.3.18">
+      <pos>
+        <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="klai/w" lex="κλαίω"></wf>
+      <sem>
+        <domain majorNum="25" subNum="138"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1207" ref="NT.Phil.3.18">
+      <pos>
+        <VBF num="sing" per="1st" voc="act" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c59" level="secondary" projected="yes" connect="NT.Phil.3_c57" structure="A">
+    <clause_level>
+      <A>
+        <w ref="NT.Phil.w1208"/>
+        <w ref="NT.Phil.w1209"/>
+        <w ref="NT.Phil.w1210"/>
+        <w ref="NT.Phil.w1211"/>
+        <w ref="NT.Phil.w1212"/>
+        <w ref="NT.Phil.w1213"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg178">
+        <head>
+          <w ref="NT.Phil.w1209">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1208"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Phil.w1211">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Phil.w1210"/>
+                    </specifier>
+                    <qualifier>
+                      <w ref="NT.Phil.w1213">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Phil.w1212"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </qualifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1208" ref="NT.Phil.3.18">
+      <pos>
+        <ART num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1209" ref="NT.Phil.3.18">
+      <pos>
+        <ADJ num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="e)xqro/s" lex="ἐχθρός"></wf>
+      <sem>
+        <domain majorNum="39" subNum="11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1210" ref="NT.Phil.3.18">
+      <pos>
+        <ART num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1211" ref="NT.Phil.3.18">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="stauro/s" lex="σταυρός"></wf>
+      <sem>
+        <domain majorNum="6" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1212" ref="NT.Phil.3.18">
+      <pos>
+        <ART num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1213" ref="NT.Phil.3.18">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c60" level="secondary2" projected="yes" connect="NT.Phil.3_c59" structure="S-C">
+    <clause_level>
+      <S>
+        <w ref="NT.Phil.w1214"/>
+        <w ref="NT.Phil.w1215"/>
+        <w ref="NT.Phil.w1216"/>
+      </S>
+      <C>
+        <w ref="NT.Phil.w1217"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg179">
+        <head>
+          <w ref="NT.Phil.w1216">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1215"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Phil.w1214"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg180">
+        <head>
+          <w ref="NT.Phil.w1217"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1214" ref="NT.Phil.3.19">
+      <pos>
+        <PRO num="plur" cas="gen" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1215" ref="NT.Phil.3.19">
+      <pos>
+        <ART num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1216" ref="NT.Phil.3.19">
+      <pos>
+        <NON num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="te/los" lex="τέλος"></wf>
+      <sem>
+        <domain majorNum="67" subNum="66"/>
+        <domain majorNum="89" subNum="40 55"/>
+        <domain majorNum="78" subNum="47"/>
+        <domain majorNum="57" subNum="179"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1217" ref="NT.Phil.3.19">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="a)pw/leia" lex="ἀπώλεια"></wf>
+      <sem>
+        <domain majorNum="20" subNum="31"/>
+        <domain majorNum="65" subNum="14"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c61" level="secondary" projected="yes" connect="NT.Phil.3_c60" structure="S-C">
+    <clause_level>
+      <S>
+        <w ref="NT.Phil.w1218"/>
+        <w ref="NT.Phil.w1219"/>
+        <w ref="NT.Phil.w1220"/>
+      </S>
+      <C>
+        <w ref="NT.Phil.w1221"/>
+        <w ref="NT.Phil.w1222"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg181">
+        <head>
+          <w ref="NT.Phil.w1220">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1219"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Phil.w1218"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg182">
+        <head>
+          <w ref="NT.Phil.w1222">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1221"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1218" ref="NT.Phil.3.19">
+      <pos>
+        <PRO num="plur" cas="gen" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1219" ref="NT.Phil.3.19">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1220" ref="NT.Phil.3.19">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1221" ref="NT.Phil.3.19">
+      <pos>
+        <ART num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1222" ref="NT.Phil.3.19">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="koili/a" lex="κοιλία"></wf>
+      <sem>
+        <domain majorNum="8" subNum="67 69"/>
+        <domain majorNum="26" subNum="11"/>
+        <domain majorNum="25" subNum="28"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c62" level="secondary" projected="yes" connect="NT.Phil.3_c61" structure="conj-S-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Phil.w1223"/>
+      </conj>
+      <S>
+        <w ref="NT.Phil.w1224"/>
+        <w ref="NT.Phil.w1225"/>
+      </S>
+      <A>
+        <w ref="NT.Phil.w1226"/>
+        <w ref="NT.Phil.w1227"/>
+        <w ref="NT.Phil.w1228"/>
+        <w ref="NT.Phil.w1229"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg183">
+        <head>
+          <w ref="NT.Phil.w1223"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg184">
+        <head>
+          <w ref="NT.Phil.w1225">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1224"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg185">
+        <head>
+          <w ref="NT.Phil.w1228">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1226"/>
+                <w ref="NT.Phil.w1227"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Phil.w1229"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1223" ref="NT.Phil.3.19">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1224" ref="NT.Phil.3.19">
+      <pos>
+        <ART num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1225" ref="NT.Phil.3.19">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="do/ca" lex="δόξα"></wf>
+      <sem>
+        <domain majorNum="79" subNum="18"/>
+        <domain majorNum="14" subNum="49"/>
+        <domain majorNum="76" subNum="13"/>
+        <domain majorNum="33" subNum="357"/>
+        <domain majorNum="87" subNum="4"/>
+        <domain majorNum="87" subNum="23"/>
+        <domain majorNum="12" subNum="49"/>
+        <domain majorNum="1" subNum="15"/>
+        <domain majorNum="25" subNum="205"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1226" ref="NT.Phil.3.19">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1227" ref="NT.Phil.3.19">
+      <pos>
+        <ART num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1228" ref="NT.Phil.3.19">
+      <pos>
+        <NON num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="ai)sxu/nh" lex="αἰσχύνη"></wf>
+      <sem>
+        <domain majorNum="25" subNum="189 191"/>
+        <domain majorNum="88" subNum="149"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1229" ref="NT.Phil.3.19">
+      <pos>
+        <PRO type="int" num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c63" level="secondary" projected="yes" connect="NT.Phil.3_c59" structure="C">
+    <clause_level>
+      <C>
+        <clause xml:id="NT.Phil.3_c64" level="embedded" structure="P-(C)">
+          <P>
+            <w ref="NT.Phil.w1230"/>
+            <C type="embed" parent="NT.Phil.3_c64">
+              <w ref="NT.Phil.w1231"/>
+              <w ref="NT.Phil.w1232"/>
+            </C>
+            <w ref="NT.Phil.w1233"/>
+          </P>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg186">
+        <head>
+          <w ref="NT.Phil.w1232">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1231"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg187">
+        <head>
+          <w ref="NT.Phil.w1233">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1230"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1230" ref="NT.Phil.3.19">
+      <pos>
+        <ART num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1231" ref="NT.Phil.3.19">
+      <pos>
+        <ART num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1232" ref="NT.Phil.3.19">
+      <pos>
+        <ADJ num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="e)pi/geios" lex="ἐπίγειος"></wf>
+      <sem>
+        <domain majorNum="1" subNum="41"/>
+        <domain majorNum="9" subNum="7"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1233" ref="NT.Phil.3.19">
+      <pos>
+        <VBP num="plur" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="frone/w" lex="φρονέω"></wf>
+      <sem>
+        <domain majorNum="26" subNum="16"/>
+        <domain majorNum="30" subNum="20"/>
+        <domain majorNum="31" subNum="1"/>
+        <domain majorNum="87" subNum="12"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c65" level="primary" connect="NT.Phil.3_c55" structure="S-(conj)-A-P">
+    <clause_level>
+      <S>
+        <w ref="NT.Phil.w1234"/>
+        <conj type="embed" parent="NT.Phil.3_c65">
+          <w ref="NT.Phil.w1235"/>
+        </conj>
+        <w ref="NT.Phil.w1236"/>
+        <w ref="NT.Phil.w1237"/>
+      </S>
+      <A>
+        <w ref="NT.Phil.w1238"/>
+        <w ref="NT.Phil.w1239"/>
+      </A>
+      <P>
+        <w ref="NT.Phil.w1240"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg188">
+        <head>
+          <w ref="NT.Phil.w1235"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg189">
+        <head>
+          <w ref="NT.Phil.w1237">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1236"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Phil.w1234"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg190">
+        <head>
+          <w ref="NT.Phil.w1239">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1238"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg191">
+        <head>
+          <w ref="NT.Phil.w1240"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1234" ref="NT.Phil.3.20">
+      <pos>
+        <PRO num="plur" cas="gen" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1235" ref="NT.Phil.3.20">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1236" ref="NT.Phil.3.20">
+      <pos>
+        <ART num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1237" ref="NT.Phil.3.20">
+      <pos>
+        <NON num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="poli/teuma" lex="πολίτευμα"></wf>
+      <sem>
+        <domain majorNum="11" subNum="71"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1238" ref="NT.Phil.3.20">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1239" ref="NT.Phil.3.20">
+      <pos>
+        <NON num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="ou)rano/s" lex="οὐρανός"></wf>
+      <sem>
+        <domain majorNum="1" subNum="5 11"/>
+        <domain majorNum="12" subNum="16"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1240" ref="NT.Phil.3.20">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="u(pa/rxw" lex="ὑπάρχω"></wf>
+      <sem>
+        <domain majorNum="13" subNum="5 4 77"/>
+        <domain majorNum="57" subNum="2"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c66" level="secondary" connect="NT.Phil.3_c65" structure="A-conj-C-(P)">
+    <clause_level>
+      <A>
+        <w ref="NT.Phil.w1241"/>
+        <w ref="NT.Phil.w1242"/>
+      </A>
+      <conj>
+        <w ref="NT.Phil.w1243"/>
+      </conj>
+      <C>
+        <w ref="NT.Phil.w1244"/>
+        <P type="embed" parent="NT.Phil.3_c66">
+          <w ref="NT.Phil.w1245"/>
+        </P>
+        <w ref="NT.Phil.w1246"/>
+        <w ref="NT.Phil.w1247"/>
+        <w ref="NT.Phil.w1248"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg192">
+        <head>
+          <w ref="NT.Phil.w1242">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1241"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg193">
+        <head>
+          <w ref="NT.Phil.w1243"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg194">
+        <head>
+          <w ref="NT.Phil.w1244">
+            <modifiers>
+              <definer>
+                <w ref="NT.Phil.w1246">
+                  <modifiers>
+                    <definer>
+                      <w ref="NT.Phil.w1247">
+                        <modifiers>
+                          <definer>
+                            <w ref="NT.Phil.w1248"/>
+                          </definer>
+                        </modifiers>
+                      </w>
+                    </definer>
+                  </modifiers>
+                </w>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg195">
+        <head>
+          <w ref="NT.Phil.w1245"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1241" ref="NT.Phil.3.20">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e(/c" lex="ἕξ"></wf>
+      <sem>
+        <domain majorNum="84" subNum="4"/>
+        <domain majorNum="89" subNum="25 77 85 121 142"/>
+        <domain majorNum="90" subNum="12 16"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="68" subNum="54"/>
+        <domain majorNum="67" subNum="33 131"/>
+        <domain majorNum="57" subNum="162"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1242" ref="NT.Phil.3.20">
+      <pos>
+        <PRO num="sing" cas="gen" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="ou(=" lex="οὗ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1243" ref="NT.Phil.3.20">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1244" ref="NT.Phil.3.20">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="swth/r" lex="σωτήρ"></wf>
+      <sem>
+        <domain majorNum="21" subNum="22 31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1245" ref="NT.Phil.3.20">
+      <pos>
+        <VBF num="plur" voc="mop" per="1st" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="a)pode/xomai" lex="ἀποδέχομαι"></wf>
+      <sem>
+        <domain majorNum="25" subNum="63"/>
+        <domain majorNum="13" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1246" ref="NT.Phil.3.20">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="ku/rios" lex="κύριος"></wf>
+      <sem>
+        <domain majorNum="12" subNum="9"/>
+        <domain majorNum="57" subNum="12"/>
+        <domain majorNum="37" subNum="51"/>
+        <domain majorNum="87" subNum="53"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1247" ref="NT.Phil.3.20">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="*i)hsou=s" lex="Ἰησοῦς"></wf>
+      <sem>
+        <domain majorNum="93" subNum="169"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1248" ref="NT.Phil.3.20">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="*xristo/s" lex="Χριστός"></wf>
+      <sem>
+        <domain majorNum="93" subNum="387"/>
+        <domain majorNum="53" subNum="82"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Phil.3_c67" level="secondary2" connect="NT.Phil.3_c66" structure="S-P-C-A">
+    <clause_level>
+      <S>
+        <w ref="NT.Phil.w1249"/>
+      </S>
+      <P>
+        <w ref="NT.Phil.w1250"/>
+      </P>
+      <C>
+        <w ref="NT.Phil.w1251"/>
+        <w ref="NT.Phil.w1252"/>
+        <w ref="NT.Phil.w1253"/>
+        <w ref="NT.Phil.w1254"/>
+        <w ref="NT.Phil.w1255"/>
+        <w ref="NT.Phil.w1256"/>
+        <w ref="NT.Phil.w1257"/>
+        <w ref="NT.Phil.w1258"/>
+        <w ref="NT.Phil.w1259"/>
+        <w ref="NT.Phil.w1260"/>
+        <w ref="NT.Phil.w1261"/>
+      </C>
+      <A>
+        <w ref="NT.Phil.w1262"/>
+        <w ref="NT.Phil.w1263"/>
+        <w ref="NT.Phil.w1264"/>
+        <clause xml:id="NT.Phil.3_c68" level="embedded" structure="P-S-C">
+          <P>
+            <w ref="NT.Phil.w1265"/>
+            <w ref="NT.Phil.w1266"/>
+          </P>
+          <S>
+            <w ref="NT.Phil.w1267"/>
+          </S>
+          <C>
+            <clause xml:id="NT.Phil.3_c69" level="embedded" structure="conj-P-C-C">
+              <conj>
+                <w ref="NT.Phil.w1268"/>
+              </conj>
+              <P>
+                <w ref="NT.Phil.w1269"/>
+              </P>
+              <C>
+                <w ref="NT.Phil.w1270"/>
+              </C>
+              <C>
+                <w ref="NT.Phil.w1271"/>
+                <w ref="NT.Phil.w1272"/>
+              </C>
+            </clause>
+          </C>
+        </clause>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Phil.3_wg196">
+        <head>
+          <w ref="NT.Phil.w1249"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg197">
+        <head>
+          <w ref="NT.Phil.w1250"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg198">
+        <head>
+          <w ref="NT.Phil.w1252">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1251"/>
+              </specifier>
+              <definer>
+                <w ref="NT.Phil.w1256">
+                  <modifiers>
+                    <qualifier>
+                      <w ref="NT.Phil.w1258">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Phil.w1257"/>
+                          </specifier>
+                          <qualifier>
+                            <w ref="NT.Phil.w1260">
+                              <modifiers>
+                                <specifier>
+                                  <w ref="NT.Phil.w1259"/>
+                                </specifier>
+                              </modifiers>
+                            </w>
+                            <w ref="NT.Phil.w1261"/>
+                          </qualifier>
+                        </modifiers>
+                      </w>
+                    </qualifier>
+                  </modifiers>
+                </w>
+              </definer>
+              <qualifier>
+                <w ref="NT.Phil.w1254">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Phil.w1253"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+                <w ref="NT.Phil.w1255"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg199">
+        <head>
+          <w ref="NT.Phil.w1264">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1262"/>
+                <w ref="NT.Phil.w1263"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg200">
+        <head>
+          <w ref="NT.Phil.w1266">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1265"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg201">
+        <head>
+          <w ref="NT.Phil.w1267"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg202">
+        <head>
+          <w ref="NT.Phil.w1268"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg203">
+        <head>
+          <w ref="NT.Phil.w1269"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg204">
+        <head>
+          <w ref="NT.Phil.w1270"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Phil.3_wg205">
+        <head>
+          <w ref="NT.Phil.w1272">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Phil.w1271"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Phil.w1249" ref="NT.Phil.3.21">
+      <pos>
+        <PRO num="sing" cas="nom" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1250" ref="NT.Phil.3.21">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="fut"/>
+      </pos>
+      <wf betaLex="metasxhmati/zw" lex="μετασχηματίζω"></wf>
+      <sem>
+        <domain majorNum="58" subNum="18"/>
+        <domain majorNum="89" subNum="11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1251" ref="NT.Phil.3.21">
+      <pos>
+        <ART num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1252" ref="NT.Phil.3.21">
+      <pos>
+        <NON num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="sw=ma" lex="σῶμα"></wf>
+      <sem>
+        <domain majorNum="8" subNum="1"/>
+        <domain majorNum="9" subNum="8"/>
+        <domain majorNum="11" subNum="34"/>
+        <domain majorNum="87" subNum="78"/>
+        <domain majorNum="58" subNum="66"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1253" ref="NT.Phil.3.21">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1254" ref="NT.Phil.3.21">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="tapei/nwsis" lex="ταπείνωσις"></wf>
+      <sem>
+        <domain majorNum="88" subNum="51"/>
+        <domain majorNum="87" subNum="60"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1255" ref="NT.Phil.3.21">
+      <pos>
+        <PRO num="plur" cas="gen" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1256" ref="NT.Phil.3.21">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="su/mmorfos" lex="σύμμορφος"></wf>
+      <sem>
+        <domain majorNum="58" subNum="5"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1257" ref="NT.Phil.3.21">
+      <pos>
+        <ART num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1258" ref="NT.Phil.3.21">
+      <pos>
+        <NON num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="sw=ma" lex="σῶμα"></wf>
+      <sem>
+        <domain majorNum="8" subNum="1"/>
+        <domain majorNum="9" subNum="8"/>
+        <domain majorNum="11" subNum="34"/>
+        <domain majorNum="87" subNum="78"/>
+        <domain majorNum="58" subNum="66"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1259" ref="NT.Phil.3.21">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1260" ref="NT.Phil.3.21">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="do/ca" lex="δόξα"></wf>
+      <sem>
+        <domain majorNum="79" subNum="18"/>
+        <domain majorNum="14" subNum="49"/>
+        <domain majorNum="76" subNum="13"/>
+        <domain majorNum="33" subNum="357"/>
+        <domain majorNum="87" subNum="4"/>
+        <domain majorNum="87" subNum="23"/>
+        <domain majorNum="12" subNum="49"/>
+        <domain majorNum="1" subNum="15"/>
+        <domain majorNum="25" subNum="205"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1261" ref="NT.Phil.3.21">
+      <pos>
+        <PRO type="int" num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1262" ref="NT.Phil.3.21">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="kata/" lex="κατά"></wf>
+      <sem>
+        <domain majorNum="84" subNum="21 30 31"/>
+        <domain majorNum="83" subNum="45 12 44"/>
+        <domain majorNum="67" subNum="33 35"/>
+        <domain majorNum="90" subNum="29 31"/>
+        <domain majorNum="89" subNum="8 90 4 113"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1263" ref="NT.Phil.3.21">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1264" ref="NT.Phil.3.21">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="e)ne/rgeia" lex="ἐνέργεια"></wf>
+      <sem>
+        <domain majorNum="42" subNum="3"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1265" ref="NT.Phil.3.21">
+      <pos>
+        <ART num="sing" cas="gen" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1266" ref="NT.Phil.3.21">
+      <pos>
+        <VBN voc="mop" tf="pre"/>
+      </pos>
+      <wf betaLex="du/namai" lex="δύναμαι"></wf>
+      <sem>
+        <domain majorNum="74" subNum="5"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1267" ref="NT.Phil.3.21">
+      <pos>
+        <PRO type="int" num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1268" ref="NT.Phil.3.21">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1269" ref="NT.Phil.3.21">
+      <pos>
+        <VBN voc="act" tf="aor"/>
+      </pos>
+      <wf betaLex="u(pota/ssw" lex="ὑποτάσσω"></wf>
+      <sem>
+        <domain majorNum="37" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1270" ref="NT.Phil.3.21">
+      <pos>
+        <PRO type="int" num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1271" ref="NT.Phil.3.21">
+      <pos>
+        <ART num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Phil.w1272" ref="NT.Phil.3.21">
+      <pos>
+        <ADJ num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" subNum="23 24"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+  </clause>
+</chapter>

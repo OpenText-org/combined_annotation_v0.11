@@ -1,0 +1,4685 @@
+<chapter xmlns:xlink="http://www.w3.org/1999/xlink" book="Heb" num="1">
+  <clause xml:id="NT.Heb.1_c1" level="primary" structure="A-(S)-A-P-C-A">
+    <clause_level>
+      <A>
+        <clause xml:id="NT.Heb.1_c2" level="embedded" structure="A-A-P-C-A">
+          <A>
+            <w ref="NT.Heb.w1"/>
+            <w ref="NT.Heb.w2"/>
+            <w ref="NT.Heb.w3"/>
+          </A>
+          <A>
+            <w ref="NT.Heb.w4"/>
+          </A>
+          <P>
+            <w ref="NT.Heb.w7"/>
+          </P>
+          <C>
+            <w ref="NT.Heb.w8"/>
+            <w ref="NT.Heb.w9"/>
+          </C>
+          <A>
+            <w ref="NT.Heb.w10"/>
+            <w ref="NT.Heb.w11"/>
+            <w ref="NT.Heb.w12"/>
+          </A>
+        </clause>
+        <S type="embed" parent="NT.Heb.1_c1">
+          <w ref="NT.Heb.w5"/>
+          <w ref="NT.Heb.w6"/>
+        </S>
+      </A>
+      <A>
+        <w ref="NT.Heb.w13"/>
+        <w ref="NT.Heb.w14"/>
+        <w ref="NT.Heb.w15"/>
+        <w ref="NT.Heb.w16"/>
+        <w ref="NT.Heb.w17"/>
+      </A>
+      <P>
+        <w ref="NT.Heb.w18"/>
+      </P>
+      <C>
+        <w ref="NT.Heb.w19"/>
+      </C>
+      <A>
+        <w ref="NT.Heb.w20"/>
+        <w ref="NT.Heb.w21"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg1">
+        <head>
+          <w ref="NT.Heb.w1"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg2">
+        <connector>
+          <w ref="NT.Heb.w2"/>
+        </connector>
+        <head>
+          <w ref="NT.Heb.w3"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg3">
+        <head>
+          <w ref="NT.Heb.w4"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg4">
+        <head>
+          <w ref="NT.Heb.w7"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg5">
+        <head>
+          <w ref="NT.Heb.w9">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w8"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg7">
+        <head>
+          <w ref="NT.Heb.w6">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w5"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w1" ref="NT.Heb.1.1">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="polumerw=s" lex="πολυμερῶς"></wf>
+      <sem>
+        <domain majorNum="63" subNum="19"/>
+        <domain majorNum="67" subNum="11"/>
+        <domain majorNum="89" subNum="81"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w2" ref="NT.Heb.1.1">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w3" ref="NT.Heb.1.1">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="polutro/pws" lex="πολυτρόπως"></wf>
+      <sem>
+        <domain majorNum="58" subNum="29"/>
+        <domain majorNum="89" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w4" ref="NT.Heb.1.1">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="pa/lai" lex="πάλαι"></wf>
+      <sem>
+        <domain majorNum="67" subNum="24 141 22"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w7" ref="NT.Heb.1.1">
+      <pos>
+        <VBP num="sing" cas="nom" voc="act" gen="mas" tf="aor"/>
+      </pos>
+      <wf betaLex="lale/w" lex="λαλέω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="70"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w8" ref="NT.Heb.1.1">
+      <pos>
+        <ART num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w9" ref="NT.Heb.1.1">
+      <pos>
+        <NON num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="path/r" lex="πατήρ"></wf>
+      <sem>
+        <domain majorNum="10" subNum="14 18 20"/>
+        <domain majorNum="12" subNum="12"/>
+        <domain majorNum="87" subNum="48"/>
+        <domain majorNum="11" subNum="26"/>
+        <domain majorNum="58" subNum="64"/>
+        <domain majorNum="36" subNum="8"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w10" ref="NT.Heb.1.1">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w11" ref="NT.Heb.1.1">
+      <pos>
+        <ART num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w12" ref="NT.Heb.1.1">
+      <pos>
+        <NON num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="profh/ths" lex="προφήτης"></wf>
+      <sem>
+        <domain majorNum="53" subNum="79"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w5" ref="NT.Heb.1.1">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w6" ref="NT.Heb.1.1">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w13" ref="NT.Heb.1.2">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)pi/" lex="ἐπί"></wf>
+      <sem>
+        <domain majorNum="83" subNum="46 23 9 35"/>
+        <domain majorNum="84" subNum="17 20"/>
+        <domain majorNum="90" subNum="17 57 9 34 23 5"/>
+        <domain majorNum="89" subNum="101 27 60 13"/>
+        <domain majorNum="37" subNum="9"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w14" ref="NT.Heb.1.2">
+      <pos>
+        <ADJ num="sing" cas="gen" gen="neu"/>
+      </pos>
+      <wf betaLex="e)/sxatos" lex="ἔσχατος"></wf>
+      <sem>
+        <domain majorNum="61" subNum="13"/>
+        <domain majorNum="87" subNum="66"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w15" ref="NT.Heb.1.2">
+      <pos>
+        <ART num="plur" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w16" ref="NT.Heb.1.2">
+      <pos>
+        <NON num="plur" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="h(me/ra" lex="ἡμέρα"></wf>
+      <sem>
+        <domain majorNum="67" subNum="178 186 142"/>
+        <domain majorNum="14" subNum="40"/>
+        <domain majorNum="56" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w17" ref="NT.Heb.1.2">
+      <pos>
+        <PRO num="plur" cas="gen" type="dem" gen="fem"/>
+      </pos>
+      <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+      <sem>
+        <domain majorNum="92" subNum="29"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w18" ref="NT.Heb.1.2">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="aor"/>
+      </pos>
+      <wf betaLex="lale/w" lex="λαλέω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="70"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w19" ref="NT.Heb.1.2">
+      <pos>
+        <PRO num="plur" cas="dat" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w20" ref="NT.Heb.1.2">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w21" ref="NT.Heb.1.2">
+      <pos>
+        <NON num="sing" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="ui(o/s" lex="υἱός"></wf>
+      <sem>
+        <domain majorNum="10" subNum="42"/>
+        <domain majorNum="9" subNum="46"/>
+        <domain majorNum="10" subNum="30"/>
+        <domain majorNum="4" subNum="9"/>
+        <domain majorNum="9" subNum="4"/>
+        <domain majorNum="36" subNum="39"/>
+        <domain majorNum="11" subNum="69"/>
+        <domain majorNum="58" subNum="26"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c3" level="secondary" connect="NT.Heb.1_c1" structure="C-P-C">
+    <clause_level>
+      <C>
+        <w ref="NT.Heb.w22"/>
+      </C>
+      <P>
+        <w ref="NT.Heb.w23"/>
+      </P>
+      <C>
+        <w ref="NT.Heb.w24"/>
+        <w ref="NT.Heb.w25"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg12">
+        <head>
+          <w ref="NT.Heb.w22"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg13">
+        <head>
+          <w ref="NT.Heb.w23"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg14">
+        <head>
+          <w ref="NT.Heb.w24">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Heb.w25"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w22" ref="NT.Heb.1.2">
+      <pos>
+        <PRO num="sing" cas="acc" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w23" ref="NT.Heb.1.2">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="aor"/>
+      </pos>
+      <wf betaLex="ti/qhmi" lex="τίθημι"></wf>
+      <sem>
+        <domain majorNum="85" subNum="32"/>
+        <domain majorNum="37" subNum="96"/>
+        <domain majorNum="49" subNum="21"/>
+        <domain majorNum="33" subNum="151"/>
+        <domain majorNum="57" subNum="217"/>
+        <domain majorNum="13" subNum="9"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w24" ref="NT.Heb.1.2">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="klhrono/mos" lex="κληρονόμος"></wf>
+      <sem>
+        <domain majorNum="57" subNum="132 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w25" ref="NT.Heb.1.2">
+      <pos>
+        <ADJ num="plur" cas="gen" gen="neu"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" subNum="23 24"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c4" level="secondary" connect="NT.Heb.1_c3" structure="A-conj-P-C">
+    <clause_level>
+      <A>
+        <w ref="NT.Heb.w26"/>
+        <w ref="NT.Heb.w27"/>
+      </A>
+      <conj>
+        <w ref="NT.Heb.w28"/>
+      </conj>
+      <P>
+        <w ref="NT.Heb.w29"/>
+      </P>
+      <C>
+        <w ref="NT.Heb.w30"/>
+        <w ref="NT.Heb.w31"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg15">
+        <head>
+          <w ref="NT.Heb.w27">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w26"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg16">
+        <head>
+          <w ref="NT.Heb.w28"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg17">
+        <head>
+          <w ref="NT.Heb.w29"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg18">
+        <head>
+          <w ref="NT.Heb.w31">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w30"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w26" ref="NT.Heb.1.2">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="dia/" lex="διά"></wf>
+      <sem>
+        <domain majorNum="90" subNum="4 8 38 44"/>
+        <domain majorNum="89" subNum="76 26"/>
+        <domain majorNum="84" subNum="29 32"/>
+        <domain majorNum="67" subNum="136 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w27" ref="NT.Heb.1.2">
+      <pos>
+        <PRO num="sing" cas="gen" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="ou(=" lex="οὗ"></wf>
+      <sem>
+        <domain majorNum="83" subNum="5"/>
+        <domain majorNum="92" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w28" ref="NT.Heb.1.2">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w29" ref="NT.Heb.1.2">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="aor"/>
+      </pos>
+      <wf betaLex="poie/w" lex="ποιέω"></wf>
+      <sem>
+        <domain majorNum="90" subNum="45"/>
+        <domain majorNum="42" subNum="7"/>
+        <domain majorNum="13" subNum="9"/>
+        <domain majorNum="42" subNum="41 29"/>
+        <domain majorNum="41" subNum="7"/>
+        <domain majorNum="37" subNum="106"/>
+        <domain majorNum="57" subNum="189"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w30" ref="NT.Heb.1.2">
+      <pos>
+        <ART num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w31" ref="NT.Heb.1.2">
+      <pos>
+        <NON num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="ai)w/n" lex="αἰών"></wf>
+      <sem>
+        <domain majorNum="67" subNum="143"/>
+        <domain majorNum="1" subNum="2"/>
+        <domain majorNum="41" subNum="38"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c5" level="secondary" connect="NT.Heb.1_c1" structure="S-A-A-P-A-A">
+    <clause_level>
+      <S>
+        <w ref="NT.Heb.w32"/>
+      </S>
+      <A>
+        <clause xml:id="NT.Heb.1_c6" level="embedded" structure="P-C">
+          <P>
+            <w ref="NT.Heb.w33"/>
+          </P>
+          <C>
+            <w ref="NT.Heb.w34"/>
+            <w ref="NT.Heb.w35"/>
+            <w ref="NT.Heb.w36"/>
+            <w ref="NT.Heb.w37"/>
+            <w ref="NT.Heb.w38"/>
+            <w ref="NT.Heb.w39"/>
+            <w ref="NT.Heb.w40"/>
+            <w ref="NT.Heb.w41"/>
+          </C>
+        </clause>
+        <clause xml:id="NT.Heb.1_c7" level="embedded" structure="P-conj-C-A">
+          <P>
+            <w ref="NT.Heb.w42"/>
+          </P>
+          <conj>
+            <w ref="NT.Heb.w43"/>
+          </conj>
+          <C>
+            <w ref="NT.Heb.w44"/>
+            <w ref="NT.Heb.w45"/>
+          </C>
+          <A>
+            <w ref="NT.Heb.w46"/>
+            <w ref="NT.Heb.w47"/>
+            <w ref="NT.Heb.w48"/>
+            <w ref="NT.Heb.w49"/>
+            <w ref="NT.Heb.w50"/>
+          </A>
+        </clause>
+      </A>
+      <A>
+        <clause xml:id="NT.Heb.1_c8" level="embedded" structure="C-P">
+          <C>
+            <w ref="NT.Heb.w51"/>
+            <w ref="NT.Heb.w52"/>
+            <w ref="NT.Heb.w53"/>
+          </C>
+          <P>
+            <w ref="NT.Heb.w54"/>
+          </P>
+        </clause>
+      </A>
+      <P>
+        <w ref="NT.Heb.w55"/>
+      </P>
+      <A>
+        <w ref="NT.Heb.w56"/>
+        <w ref="NT.Heb.w57"/>
+        <w ref="NT.Heb.w58"/>
+        <w ref="NT.Heb.w59"/>
+      </A>
+      <A>
+        <w ref="NT.Heb.w60"/>
+        <w ref="NT.Heb.w61"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg19">
+        <head>
+          <w ref="NT.Heb.w32"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg20">
+        <head>
+          <w ref="NT.Heb.w33"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg21">
+        <head>
+          <w ref="NT.Heb.w34">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Heb.w36">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Heb.w35"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg22">
+        <connector>
+          <w ref="NT.Heb.w37"/>
+        </connector>
+        <head>
+          <w ref="NT.Heb.w38">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Heb.w40">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Heb.w39"/>
+                    </specifier>
+                    <qualifier>
+                      <w ref="NT.Heb.w41"/>
+                    </qualifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg23">
+        <head>
+          <w ref="NT.Heb.w42"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg24">
+        <head>
+          <w ref="NT.Heb.w43"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg25">
+        <head>
+          <w ref="NT.Heb.w45">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w44"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg26">
+        <head>
+          <w ref="NT.Heb.w47">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w46"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Heb.w49">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Heb.w48"/>
+                    </specifier>
+                    <qualifier>
+                      <w ref="NT.Heb.w50"/>
+                    </qualifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg27">
+        <head>
+          <w ref="NT.Heb.w51">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Heb.w53">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Heb.w52"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg28">
+        <head>
+          <w ref="NT.Heb.w54"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg29">
+        <head>
+          <w ref="NT.Heb.w55"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg30">
+        <head>
+          <w ref="NT.Heb.w57">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w56"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Heb.w59">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Heb.w58"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg31">
+        <head>
+          <w ref="NT.Heb.w61">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w60"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w32" ref="NT.Heb.1.3">
+      <pos>
+        <PRO num="sing" cas="nom" type="rel" gen="mas"/>
+      </pos>
+      <wf betaLex="o(/s" lex="ὅς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="27"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w33" ref="NT.Heb.1.3">
+      <pos>
+        <VBP num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w34" ref="NT.Heb.1.3">
+      <pos>
+        <NON num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="a)pau/gasma" lex="ἀπαύγασμα"></wf>
+      <sem>
+        <domain majorNum="14" subNum="48"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w35" ref="NT.Heb.1.3">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w36" ref="NT.Heb.1.3">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="do/ca" lex="δόξα"></wf>
+      <sem>
+        <domain majorNum="79" subNum="18"/>
+        <domain majorNum="14" subNum="49"/>
+        <domain majorNum="76" subNum="13"/>
+        <domain majorNum="33" subNum="357"/>
+        <domain majorNum="87" subNum="4"/>
+        <domain majorNum="87" subNum="23"/>
+        <domain majorNum="12" subNum="49"/>
+        <domain majorNum="1" subNum="15"/>
+        <domain majorNum="25" subNum="205"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w37" ref="NT.Heb.1.3">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w38" ref="NT.Heb.1.3">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="xarakth/r" lex="χαρακτήρ"></wf>
+      <sem>
+        <domain majorNum="58" subNum="62"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w39" ref="NT.Heb.1.3">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w40" ref="NT.Heb.1.3">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="u(po/stasis" lex="ὑπόστασις"></wf>
+      <sem>
+        <domain majorNum="58" subNum="1"/>
+        <domain majorNum="31" subNum="84"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w41" ref="NT.Heb.1.3">
+      <pos>
+        <PRO num="sing" cas="gen" type="int" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w42" ref="NT.Heb.1.3">
+      <pos>
+        <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="fe/rw" lex="φέρω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="187 166 160"/>
+        <domain majorNum="36" subNum="1"/>
+        <domain majorNum="82" subNum="12"/>
+        <domain majorNum="13" subNum="133 35"/>
+        <domain majorNum="85" subNum="42"/>
+        <domain majorNum="90" subNum="64"/>
+        <domain majorNum="70" subNum="5"/>
+        <domain majorNum="31" subNum="55"/>
+        <domain majorNum="25" subNum="176"/>
+        <domain majorNum="23" subNum="199"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w43" ref="NT.Heb.1.3">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="te/" lex="τέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="95 88"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w44" ref="NT.Heb.1.3">
+      <pos>
+        <ART num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w45" ref="NT.Heb.1.3">
+      <pos>
+        <ADJ num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" subNum="23 24"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w46" ref="NT.Heb.1.3">
+      <pos>
+        <ART num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w47" ref="NT.Heb.1.3">
+      <pos>
+        <NON num="sing" cas="dat" gen="neu"/>
+      </pos>
+      <wf betaLex="r(h=ma" lex="ῥῆμα"></wf>
+      <sem>
+        <domain majorNum="33" subNum="9 98"/>
+        <domain majorNum="13" subNum="115"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w48" ref="NT.Heb.1.3">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w49" ref="NT.Heb.1.3">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="du/namis" lex="δύναμις"></wf>
+      <sem>
+        <domain majorNum="74" subNum="1"/>
+        <domain majorNum="76" subNum="1 7"/>
+        <domain majorNum="37" subNum="61"/>
+        <domain majorNum="12" subNum="44"/>
+        <domain majorNum="33" subNum="134"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w50" ref="NT.Heb.1.3">
+      <pos>
+        <PRO num="sing" cas="gen" type="int" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w51" ref="NT.Heb.1.3">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="kaqarismo/s" lex="καθαρισμός"></wf>
+      <sem>
+        <domain majorNum="53" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w52" ref="NT.Heb.1.3">
+      <pos>
+        <ART num="plur" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w53" ref="NT.Heb.1.3">
+      <pos>
+        <NON num="plur" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="a(marti/a" lex="ἁμαρτία"></wf>
+      <sem>
+        <domain majorNum="88" subNum="289 118 310"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w54" ref="NT.Heb.1.3">
+      <pos>
+        <VBP num="sing" cas="nom" voc="mid" gen="mas" tf="aor"/>
+      </pos>
+      <wf betaLex="poie/w" lex="ποιέω"></wf>
+      <sem>
+        <domain majorNum="90" subNum="45"/>
+        <domain majorNum="42" subNum="7"/>
+        <domain majorNum="13" subNum="9"/>
+        <domain majorNum="42" subNum="41 29"/>
+        <domain majorNum="41" subNum="7"/>
+        <domain majorNum="37" subNum="106"/>
+        <domain majorNum="57" subNum="189"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w55" ref="NT.Heb.1.3">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="aor"/>
+      </pos>
+      <wf betaLex="kaqi/zw" lex="καθίζω"></wf>
+      <sem>
+        <domain majorNum="17" subNum="12 17"/>
+        <domain majorNum="85" subNum="63"/>
+        <domain majorNum="37" subNum="104"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w56" ref="NT.Heb.1.3">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w57" ref="NT.Heb.1.3">
+      <pos>
+        <ADJ num="sing" cas="dat" gen="fem"/>
+      </pos>
+      <wf betaLex="decio/s" lex="δεξιός"></wf>
+      <sem>
+        <domain majorNum="82" subNum="8"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w58" ref="NT.Heb.1.3">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w59" ref="NT.Heb.1.3">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="megalwsu/nh" lex="μεγαλωσύνη"></wf>
+      <sem>
+        <domain majorNum="87" subNum="21"/>
+        <domain majorNum="12" subNum="5"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w60" ref="NT.Heb.1.3">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)n" lex="ἐν"></wf>
+      <sem>
+        <domain majorNum="83" subNum="13 9 47 23"/>
+        <domain majorNum="13" subNum="8"/>
+        <domain majorNum="84" subNum="22"/>
+        <domain majorNum="89" subNum="119 80 84 5 141 76 26 48"/>
+        <domain majorNum="90" subNum="10 56 56 6 30 23"/>
+        <domain majorNum="67" subNum="33 136"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w61" ref="NT.Heb.1.3">
+      <pos>
+        <ADJ num="plur" cas="dat" gen="mas"/>
+      </pos>
+      <wf betaLex="u(yhlo/s" lex="ὑψηλός"></wf>
+      <sem>
+        <domain majorNum="81" subNum="6"/>
+        <domain majorNum="1" subNum="13"/>
+        <domain majorNum="65" subNum="9"/>
+        <domain majorNum="88" subNum="208"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c9" level="primary" connect="NT.Heb.1_c1" structure="A-A-C-(P)">
+    <clause_level>
+      <A>
+        <clause xml:id="NT.Heb.1_c10" level="embedded" structure="A-C-(P)">
+          <A>
+            <w ref="NT.Heb.w62"/>
+          </A>
+          <C>
+            <w ref="NT.Heb.w63"/>
+            <P type="embed" parent="NT.Heb.1_c10">
+              <w ref="NT.Heb.w64"/>
+            </P>
+            <w ref="NT.Heb.w65"/>
+            <w ref="NT.Heb.w66"/>
+          </C>
+        </clause>
+      </A>
+      <A>
+        <w ref="NT.Heb.w67"/>
+      </A>
+      <C>
+        <w ref="NT.Heb.w68"/>
+        <w ref="NT.Heb.w69"/>
+        <w ref="NT.Heb.w70"/>
+        <P type="embed" parent="NT.Heb.1_c9">
+          <w ref="NT.Heb.w71"/>
+        </P>
+        <w ref="NT.Heb.w72"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg32">
+        <head>
+          <w ref="NT.Heb.w62"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg33">
+        <head>
+          <w ref="NT.Heb.w63">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Heb.w66">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Heb.w65"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg34">
+        <head>
+          <w ref="NT.Heb.w64"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg35">
+        <head>
+          <w ref="NT.Heb.w67"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg36">
+        <head>
+          <w ref="NT.Heb.w71"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg37">
+        <head>
+          <w ref="NT.Heb.w72">
+            <modifiers>
+              <definer>
+                <w ref="NT.Heb.w68">
+                  <modifiers>
+                    <relator>
+                      <w ref="NT.Heb.w70">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Heb.w69"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </relator>
+                  </modifiers>
+                </w>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w62" ref="NT.Heb.1.4">
+      <pos>
+        <PRO num="sing" cas="dat" type="dem" gen="neu"/>
+      </pos>
+      <wf betaLex="tosou=tos" lex="τοσοῦτος"></wf>
+      <sem>
+        <domain majorNum="59" subNum="6 18"/>
+        <domain majorNum="78" subNum="52"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w63" ref="NT.Heb.1.4">
+      <pos>
+        <ADJ num="sing" cas="nom" type="com" gen="mas"/>
+      </pos>
+      <wf betaLex="krei/ttwn" lex="κρείττων"></wf>
+      <sem>
+        <domain majorNum="65" subNum="21"/>
+        <domain majorNum="87" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w64" ref="NT.Heb.1.4">
+      <pos>
+        <VBP num="sing" cas="nom" voc="mid" gen="mas" tf="aor"/>
+      </pos>
+      <wf betaLex="gi/nomai" lex="γίνομαι"></wf>
+      <sem>
+        <domain majorNum="13" subNum="80 3 48 107"/>
+        <domain majorNum="15" subNum="1"/>
+        <domain majorNum="57" subNum="2"/>
+        <domain majorNum="41" subNum="1"/>
+        <domain majorNum="85" subNum="6 7"/>
+        <domain majorNum="91" subNum="5"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w65" ref="NT.Heb.1.4">
+      <pos>
+        <ART num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w66" ref="NT.Heb.1.4">
+      <pos>
+        <NON num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="a)/ggelos" lex="ἄγγελος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="195"/>
+        <domain majorNum="12" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w67" ref="NT.Heb.1.4">
+      <pos>
+        <PRO num="sing" cas="dat" type="rel" gen="neu"/>
+      </pos>
+      <wf betaLex="o(/sos" lex="ὅσος"></wf>
+      <sem>
+        <domain majorNum="59" subNum="7 19"/>
+        <domain majorNum="78" subNum="52"/>
+        <domain majorNum="67" subNum="139"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w68" ref="NT.Heb.1.4">
+      <pos>
+        <ADJ num="sing" cas="acc" type="com" gen="neu"/>
+      </pos>
+      <wf betaLex="dia/foros" lex="διάφορος"></wf>
+      <sem>
+        <domain majorNum="58" subNum="40"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w69" ref="NT.Heb.1.4">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="para/" lex="παρά"></wf>
+      <sem>
+        <domain majorNum="83" subNum="25 9"/>
+        <domain majorNum="84" subNum="5"/>
+        <domain majorNum="90" subNum="14 3 20"/>
+        <domain majorNum="89" subNum="137 132 111 25"/>
+        <domain majorNum="78" subNum="29"/>
+        <domain majorNum="59" subNum="76"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w70" ref="NT.Heb.1.4">
+      <pos>
+        <PRO num="plur" cas="acc" type="per" gen="mas"/>
+      </pos>
+      <wf betaLex="e(autou=" lex="ἑαυτοῦ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w71" ref="NT.Heb.1.4">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="per"/>
+      </pos>
+      <wf betaLex="klhronome/w" lex="κληρονομέω"></wf>
+      <sem>
+        <domain majorNum="57" subNum="131 138"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w72" ref="NT.Heb.1.4">
+      <pos>
+        <NON num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="o)/noma" lex="ὄνομα"></wf>
+      <sem>
+        <domain majorNum="33" subNum="126"/>
+        <domain majorNum="9" subNum="19"/>
+        <domain majorNum="33" subNum="265"/>
+        <domain majorNum="58" subNum="22"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c11" level="primary" connect="NT.Heb.1_c9" structure="C-(conj)-(P)-(A)">
+    <clause_level>
+      <C>
+        <w ref="NT.Heb.w73"/>
+        <conj type="embed" parent="NT.Heb.1_c11">
+          <w ref="NT.Heb.w74"/>
+        </conj>
+        <P type="embed" parent="NT.Heb.1_c11">
+          <w ref="NT.Heb.w75"/>
+        </P>
+        <A type="embed" parent="NT.Heb.1_c11">
+          <w ref="NT.Heb.w76"/>
+        </A>
+        <w ref="NT.Heb.w77"/>
+        <w ref="NT.Heb.w78"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg38">
+        <head>
+          <w ref="NT.Heb.w73">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Heb.w78">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Heb.w77"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg39">
+        <head>
+          <w ref="NT.Heb.w74"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg40">
+        <head>
+          <w ref="NT.Heb.w75"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg41">
+        <head>
+          <w ref="NT.Heb.w76"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w73" ref="NT.Heb.1.5">
+      <pos>
+        <PRO num="sing" cas="dat" type="rog" gen="mas"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w74" ref="NT.Heb.1.5">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ga/r" lex="γάρ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="23"/>
+        <domain majorNum="91" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w75" ref="NT.Heb.1.5">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="aor"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w76" ref="NT.Heb.1.5">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="pote/" lex="ποτέ"></wf>
+      <sem>
+        <domain majorNum="67" subNum="30"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w77" ref="NT.Heb.1.5">
+      <pos>
+        <ART num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w78" ref="NT.Heb.1.5">
+      <pos>
+        <NON num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="a)/ggelos" lex="ἄγγελος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="195"/>
+        <domain majorNum="12" subNum="28"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c12" level="primary" projected="yes" connect="NT.Heb.1_c11" structure="C-P-S">
+    <clause_level>
+      <C>
+        <w ref="NT.Heb.w79"/>
+        <w ref="NT.Heb.w80"/>
+      </C>
+      <P>
+        <w ref="NT.Heb.w81"/>
+      </P>
+      <S>
+        <w ref="NT.Heb.w82"/>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg42">
+        <head>
+          <w ref="NT.Heb.w79">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Heb.w80"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg43">
+        <head>
+          <w ref="NT.Heb.w81"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg44">
+        <head>
+          <w ref="NT.Heb.w82"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w79" ref="NT.Heb.1.5">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="ui(o/s" lex="υἱός"></wf>
+      <sem>
+        <domain majorNum="10" subNum="42"/>
+        <domain majorNum="9" subNum="46"/>
+        <domain majorNum="10" subNum="30"/>
+        <domain majorNum="4" subNum="9"/>
+        <domain majorNum="9" subNum="4"/>
+        <domain majorNum="36" subNum="39"/>
+        <domain majorNum="11" subNum="69"/>
+        <domain majorNum="58" subNum="26"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w80" ref="NT.Heb.1.5">
+      <pos>
+        <PRO num="sing" cas="gen" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w81" ref="NT.Heb.1.5">
+      <pos>
+        <VBF augment="-" num="sing" per="2nd" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w82" ref="NT.Heb.1.5">
+      <pos>
+        <PRO num="sing" cas="nom" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c13" level="primary" projected="yes" connect="NT.Heb.1_c12" structure="S-A-P-C">
+    <clause_level>
+      <S>
+        <w ref="NT.Heb.w83"/>
+      </S>
+      <A>
+        <w ref="NT.Heb.w84"/>
+      </A>
+      <P>
+        <w ref="NT.Heb.w85"/>
+      </P>
+      <C>
+        <w ref="NT.Heb.w86"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg45">
+        <head>
+          <w ref="NT.Heb.w83"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg46">
+        <head>
+          <w ref="NT.Heb.w84"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg47">
+        <head>
+          <w ref="NT.Heb.w85"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg48">
+        <head>
+          <w ref="NT.Heb.w86"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w83" ref="NT.Heb.1.5">
+      <pos>
+        <PRO num="sing" cas="nom" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w84" ref="NT.Heb.1.5">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="sh/meron" lex="σήμερον"></wf>
+      <sem>
+        <domain majorNum="67" subNum="205"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w85" ref="NT.Heb.1.5">
+      <pos>
+        <VBF num="sing" per="1st" voc="act" mod="ind" tf="per"/>
+      </pos>
+      <wf betaLex="genna/w" lex="γεννάω"></wf>
+      <sem>
+        <domain majorNum="23" subNum="58 52"/>
+        <domain majorNum="13" subNum="56 129"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w86" ref="NT.Heb.1.5">
+      <pos>
+        <PRO num="sing" cas="acc" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c14" level="primary" connect="NT.Heb.1_c11" structure="conj-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Heb.w87"/>
+      </conj>
+      <A>
+        <w ref="NT.Heb.w88"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg49">
+        <head>
+          <w ref="NT.Heb.w87"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg50">
+        <head>
+          <w ref="NT.Heb.w88"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w87" ref="NT.Heb.1.5">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w88" ref="NT.Heb.1.5">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="pa/lin" lex="πάλιν"></wf>
+      <sem>
+        <domain majorNum="67" subNum="55"/>
+        <domain majorNum="89" subNum="97 129"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c15" level="primary" projected="yes" connect="NT.Heb.1_c14" structure="S-P-A-A">
+    <clause_level>
+      <S>
+        <w ref="NT.Heb.w89"/>
+      </S>
+      <P>
+        <w ref="NT.Heb.w90"/>
+      </P>
+      <A>
+        <w ref="NT.Heb.w91"/>
+      </A>
+      <A>
+        <w ref="NT.Heb.w92"/>
+        <w ref="NT.Heb.w93"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg51">
+        <head>
+          <w ref="NT.Heb.w89"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg52">
+        <head>
+          <w ref="NT.Heb.w90"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg53">
+        <head>
+          <w ref="NT.Heb.w91"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg54">
+        <head>
+          <w ref="NT.Heb.w93">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w92"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w89" ref="NT.Heb.1.5">
+      <pos>
+        <PRO num="sing" cas="nom" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w90" ref="NT.Heb.1.5">
+      <pos>
+        <VBF augment="-" num="sing" suffix="+" per="1st" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w91" ref="NT.Heb.1.5">
+      <pos>
+        <PRO num="sing" cas="dat" type="int" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w92" ref="NT.Heb.1.5">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w93" ref="NT.Heb.1.5">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="path/r" lex="πατήρ"></wf>
+      <sem>
+        <domain majorNum="10" subNum="14 18 20"/>
+        <domain majorNum="12" subNum="12"/>
+        <domain majorNum="87" subNum="48"/>
+        <domain majorNum="11" subNum="26"/>
+        <domain majorNum="58" subNum="64"/>
+        <domain majorNum="36" subNum="8"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c16" level="primary" projected="yes" connect="NT.Heb.1_c15" structure="conj-S-P-A-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Heb.w94"/>
+      </conj>
+      <S>
+        <w ref="NT.Heb.w95"/>
+      </S>
+      <P>
+        <w ref="NT.Heb.w96"/>
+      </P>
+      <A>
+        <w ref="NT.Heb.w97"/>
+      </A>
+      <A>
+        <w ref="NT.Heb.w98"/>
+        <w ref="NT.Heb.w99"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg55">
+        <head>
+          <w ref="NT.Heb.w94"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg56">
+        <head>
+          <w ref="NT.Heb.w95"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg57">
+        <head>
+          <w ref="NT.Heb.w96"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg58">
+        <head>
+          <w ref="NT.Heb.w97"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg59">
+        <head>
+          <w ref="NT.Heb.w99">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w98"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w94" ref="NT.Heb.1.5">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w95" ref="NT.Heb.1.5">
+      <pos>
+        <PRO num="sing" cas="nom" type="int" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w96" ref="NT.Heb.1.5">
+      <pos>
+        <VBF augment="-" num="sing" suffix="+" per="3rd" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w97" ref="NT.Heb.1.5">
+      <pos>
+        <PRO num="sing" cas="dat" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w98" ref="NT.Heb.1.5">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w99" ref="NT.Heb.1.5">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="ui(o/s" lex="υἱός"></wf>
+      <sem>
+        <domain majorNum="10" subNum="42"/>
+        <domain majorNum="9" subNum="46"/>
+        <domain majorNum="10" subNum="30"/>
+        <domain majorNum="4" subNum="9"/>
+        <domain majorNum="9" subNum="4"/>
+        <domain majorNum="36" subNum="39"/>
+        <domain majorNum="11" subNum="69"/>
+        <domain majorNum="58" subNum="26"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c17" level="secondary" connect="NT.Heb.1_c18" structure="conj-conj-A-P-C-A">
+    <clause_level>
+      <conj>
+        <w ref="NT.Heb.w100"/>
+      </conj>
+      <conj>
+        <w ref="NT.Heb.w101"/>
+      </conj>
+      <A>
+        <w ref="NT.Heb.w102"/>
+      </A>
+      <P>
+        <w ref="NT.Heb.w103"/>
+      </P>
+      <C>
+        <w ref="NT.Heb.w104"/>
+        <w ref="NT.Heb.w105"/>
+      </C>
+      <A>
+        <w ref="NT.Heb.w106"/>
+        <w ref="NT.Heb.w107"/>
+        <w ref="NT.Heb.w108"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg60">
+        <head>
+          <w ref="NT.Heb.w100"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg61">
+        <head>
+          <w ref="NT.Heb.w101"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg62">
+        <head>
+          <w ref="NT.Heb.w102"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg63">
+        <head>
+          <w ref="NT.Heb.w103"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg64">
+        <head>
+          <w ref="NT.Heb.w105">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w104"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg65">
+        <head>
+          <w ref="NT.Heb.w108">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w106"/>
+                <w ref="NT.Heb.w107"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w100" ref="NT.Heb.1.6">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="o(/tan" lex="ὅταν"></wf>
+      <sem>
+        <domain majorNum="67" subNum="31 30 36 139"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w101" ref="NT.Heb.1.6">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w102" ref="NT.Heb.1.6">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="pa/lin" lex="πάλιν"></wf>
+      <sem>
+        <domain majorNum="67" subNum="55"/>
+        <domain majorNum="89" subNum="97 129"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w103" ref="NT.Heb.1.6">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="sub" tf="aor"/>
+      </pos>
+      <wf betaLex="ei)sa/gw" lex="εἰσάγω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="173 194"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w104" ref="NT.Heb.1.6">
+      <pos>
+        <ART num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w105" ref="NT.Heb.1.6">
+      <pos>
+        <ADJ num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="prwto/tokos" lex="πρωτότοκος"></wf>
+      <sem>
+        <domain majorNum="10" subNum="43"/>
+        <domain majorNum="13" subNum="79"/>
+        <domain majorNum="87" subNum="47"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w106" ref="NT.Heb.1.6">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w107" ref="NT.Heb.1.6">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w108" ref="NT.Heb.1.6">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="oi)ke/w" lex="οἰκέω"></wf>
+      <sem>
+        <domain majorNum="85" subNum="67 73"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c18" level="primary" connect="NT.Heb.1_c14" structure="P">
+    <clause_level>
+      <P>
+        <w ref="NT.Heb.w109"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg66">
+        <head>
+          <w ref="NT.Heb.w109"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w109" ref="NT.Heb.1.6">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c19" level="primary" projected="yes" connect="NT.Heb.1_c18" structure="conj-P-C-S">
+    <clause_level>
+      <conj>
+        <w ref="NT.Heb.w110"/>
+      </conj>
+      <P>
+        <w ref="NT.Heb.w111"/>
+      </P>
+      <C>
+        <w ref="NT.Heb.w112"/>
+      </C>
+      <S>
+        <w ref="NT.Heb.w113"/>
+        <w ref="NT.Heb.w114"/>
+        <w ref="NT.Heb.w115"/>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg67">
+        <head>
+          <w ref="NT.Heb.w110"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg68">
+        <head>
+          <w ref="NT.Heb.w111"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg69">
+        <head>
+          <w ref="NT.Heb.w112"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg70">
+        <head>
+          <w ref="NT.Heb.w114">
+            <modifiers>
+              <definer>
+                <w ref="NT.Heb.w113"/>
+              </definer>
+              <qualifier>
+                <w ref="NT.Heb.w115"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w110" ref="NT.Heb.1.6">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w111" ref="NT.Heb.1.6">
+      <pos>
+        <VBF num="plur" per="3rd" voc="act" mod="imp" tf="aor"/>
+      </pos>
+      <wf betaLex="proskune/w" lex="προσκυνέω"></wf>
+      <sem>
+        <domain majorNum="53" subNum="56"/>
+        <domain majorNum="17" subNum="21"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w112" ref="NT.Heb.1.6">
+      <pos>
+        <PRO num="sing" cas="dat" type="int" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w113" ref="NT.Heb.1.6">
+      <pos>
+        <ADJ num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" subNum="23 24"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w114" ref="NT.Heb.1.6">
+      <pos>
+        <NON num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="a)/ggelos" lex="ἄγγελος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="195"/>
+        <domain majorNum="12" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w115" ref="NT.Heb.1.6">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c20" level="primary" connect="NT.Heb.1_c18" structure="conj-A-(conj)-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Heb.w116"/>
+      </conj>
+      <A>
+        <w ref="NT.Heb.w117"/>
+        <conj type="embed" parent="NT.Heb.1_c20">
+          <w ref="NT.Heb.w118"/>
+        </conj>
+        <w ref="NT.Heb.w119"/>
+        <w ref="NT.Heb.w120"/>
+      </A>
+      <P>
+        <w ref="NT.Heb.w121"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg71">
+        <head>
+          <w ref="NT.Heb.w116"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg72">
+        <head>
+          <w ref="NT.Heb.w118"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg73">
+        <head>
+          <w ref="NT.Heb.w120">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w117"/>
+                <w ref="NT.Heb.w119"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg74">
+        <head>
+          <w ref="NT.Heb.w121"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w116" ref="NT.Heb.1.7">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w117" ref="NT.Heb.1.7">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="pro/s" lex="πρός"></wf>
+      <sem>
+        <domain majorNum="84" subNum="18 23"/>
+        <domain majorNum="83" subNum="24 9"/>
+        <domain majorNum="90" subNum="58 25"/>
+        <domain majorNum="89" subNum="112 60 44 9 7"/>
+        <domain majorNum="67" subNum="162 16"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="90" subNum="20 33"/>
+        <domain majorNum="64" subNum="17"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w118" ref="NT.Heb.1.7">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="me/n" lex="μέν"></wf>
+      <sem>
+        <domain majorNum="91" subNum="3 6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w119" ref="NT.Heb.1.7">
+      <pos>
+        <ART num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w120" ref="NT.Heb.1.7">
+      <pos>
+        <NON num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="a)/ggelos" lex="ἄγγελος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="195"/>
+        <domain majorNum="12" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w121" ref="NT.Heb.1.7">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c21" level="primary" projected="yes" connect="NT.Heb.1_c20" structure="S">
+    <clause_level>
+      <S>
+        <clause xml:id="NT.Heb.1_c22" level="embedded" structure="P-C-C">
+          <P>
+            <w ref="NT.Heb.w122"/>
+            <w ref="NT.Heb.w123"/>
+          </P>
+          <C>
+            <w ref="NT.Heb.w124"/>
+            <w ref="NT.Heb.w125"/>
+            <w ref="NT.Heb.w126"/>
+          </C>
+          <C>
+            <w ref="NT.Heb.w127"/>
+          </C>
+        </clause>
+        <clause xml:id="NT.Heb.1_c23" level="embedded" structure="conj-C-C">
+          <conj>
+            <w ref="NT.Heb.w128"/>
+          </conj>
+          <C>
+            <w ref="NT.Heb.w129"/>
+            <w ref="NT.Heb.w130"/>
+            <w ref="NT.Heb.w131"/>
+          </C>
+          <C>
+            <w ref="NT.Heb.w132"/>
+            <w ref="NT.Heb.w133"/>
+          </C>
+        </clause>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg75">
+        <head>
+          <w ref="NT.Heb.w123">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w122"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg76">
+        <head>
+          <w ref="NT.Heb.w125">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w124"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Heb.w126"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg77">
+        <head>
+          <w ref="NT.Heb.w127"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg78">
+        <head>
+          <w ref="NT.Heb.w128"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg79">
+        <head>
+          <w ref="NT.Heb.w130">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w129"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Heb.w131"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg80">
+        <head>
+          <w ref="NT.Heb.w133">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Heb.w132"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w122" ref="NT.Heb.1.7">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w123" ref="NT.Heb.1.7">
+      <pos>
+        <VBP num="sing" cas="nom" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="poi=os" lex="ποῖος"></wf>
+      <sem>
+        <domain majorNum="92" subNum="36"/>
+        <domain majorNum="58" subNum="30"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w124" ref="NT.Heb.1.7">
+      <pos>
+        <ART num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w125" ref="NT.Heb.1.7">
+      <pos>
+        <NON num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="a)/ggelos" lex="ἄγγελος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="195"/>
+        <domain majorNum="12" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w126" ref="NT.Heb.1.7">
+      <pos>
+        <PRO num="sing" cas="gen" type="int" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w127" ref="NT.Heb.1.7">
+      <pos>
+        <NON num="plur" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="pneu=ma" lex="πνεῦμα"></wf>
+      <sem>
+        <domain majorNum="12" subNum="18 33 37 42"/>
+        <domain majorNum="26" subNum="9"/>
+        <domain majorNum="30" subNum="6"/>
+        <domain majorNum="14" subNum="4"/>
+        <domain majorNum="23" subNum="186"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w128" ref="NT.Heb.1.7">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w129" ref="NT.Heb.1.7">
+      <pos>
+        <ART num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w130" ref="NT.Heb.1.7">
+      <pos>
+        <NON num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="leitourgo/s" lex="λειτουργός"></wf>
+      <sem>
+        <domain majorNum="35" subNum="22 25"/>
+        <domain majorNum="53" subNum="13"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w131" ref="NT.Heb.1.7">
+      <pos>
+        <PRO num="sing" cas="gen" type="int" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w132" ref="NT.Heb.1.7">
+      <pos>
+        <NON num="sing" cas="gen" gen="neu"/>
+      </pos>
+      <wf betaLex="pu=r" lex="πῦρ"></wf>
+      <sem>
+        <domain majorNum="2" subNum="3 5"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w133" ref="NT.Heb.1.7">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="flo/c" lex="φλόξ"></wf>
+      <sem>
+        <domain majorNum="2" subNum="4"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c24" level="primary" connect="NT.Heb.1_c20" structure="A-(conj)">
+    <clause_level>
+      <A>
+        <w ref="NT.Heb.w134"/>
+        <conj type="embed" parent="NT.Heb.1_c24">
+          <w ref="NT.Heb.w135"/>
+        </conj>
+        <w ref="NT.Heb.w136"/>
+        <w ref="NT.Heb.w137"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg81">
+        <head>
+          <w ref="NT.Heb.w135"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg82">
+        <head>
+          <w ref="NT.Heb.w137">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w134"/>
+                <w ref="NT.Heb.w136"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w134" ref="NT.Heb.1.8">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="pro/s" lex="πρός"></wf>
+      <sem>
+        <domain majorNum="84" subNum="18 23"/>
+        <domain majorNum="83" subNum="24 9"/>
+        <domain majorNum="90" subNum="58 25"/>
+        <domain majorNum="89" subNum="112 60 44 9 7"/>
+        <domain majorNum="67" subNum="162 16"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="90" subNum="20 33"/>
+        <domain majorNum="64" subNum="17"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w135" ref="NT.Heb.1.8">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w136" ref="NT.Heb.1.8">
+      <pos>
+        <ART num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w137" ref="NT.Heb.1.8">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="ui(o/s" lex="υἱός"></wf>
+      <sem>
+        <domain majorNum="10" subNum="42"/>
+        <domain majorNum="9" subNum="46"/>
+        <domain majorNum="10" subNum="30"/>
+        <domain majorNum="4" subNum="9"/>
+        <domain majorNum="9" subNum="4"/>
+        <domain majorNum="36" subNum="39"/>
+        <domain majorNum="11" subNum="69"/>
+        <domain majorNum="58" subNum="26"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c25" level="primary" projected="yes" connect="NT.Heb.1_c24" structure="S-add-A">
+    <clause_level>
+      <S>
+        <w ref="NT.Heb.w138"/>
+        <w ref="NT.Heb.w139"/>
+        <w ref="NT.Heb.w140"/>
+      </S>
+      <add>
+        <w ref="NT.Heb.w141"/>
+        <w ref="NT.Heb.w142"/>
+      </add>
+      <A>
+        <w ref="NT.Heb.w143"/>
+        <w ref="NT.Heb.w144"/>
+        <w ref="NT.Heb.w145"/>
+        <w ref="NT.Heb.w146"/>
+        <w ref="NT.Heb.w147"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg83">
+        <head>
+          <w ref="NT.Heb.w139">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w138"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Heb.w140"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg84">
+        <head>
+          <w ref="NT.Heb.w142">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w141"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg85">
+        <head>
+          <w ref="NT.Heb.w145">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w143"/>
+                <w ref="NT.Heb.w144"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Heb.w147">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Heb.w146"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w138" ref="NT.Heb.1.8">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w139" ref="NT.Heb.1.8">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="qro/nos" lex="θρόνος"></wf>
+      <sem>
+        <domain majorNum="6" subNum="112"/>
+        <domain majorNum="37" subNum="70"/>
+        <domain majorNum="12" subNum="44"/>
+        <domain majorNum="37" subNum="71 72"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w140" ref="NT.Heb.1.8">
+      <pos>
+        <PRO num="sing" cas="gen" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w141" ref="NT.Heb.1.8">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w142" ref="NT.Heb.1.8">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w143" ref="NT.Heb.1.8">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w144" ref="NT.Heb.1.8">
+      <pos>
+        <ART num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w145" ref="NT.Heb.1.8">
+      <pos>
+        <NON num="sing" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="ai)w/n" lex="αἰών"></wf>
+      <sem>
+        <domain majorNum="67" subNum="143"/>
+        <domain majorNum="1" subNum="2"/>
+        <domain majorNum="41" subNum="38"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w146" ref="NT.Heb.1.8">
+      <pos>
+        <ART num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w147" ref="NT.Heb.1.8">
+      <pos>
+        <NON num="sing" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="ai)w/n" lex="αἰών"></wf>
+      <sem>
+        <domain majorNum="67" subNum="143"/>
+        <domain majorNum="1" subNum="2"/>
+        <domain majorNum="41" subNum="38"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c26" level="primary" projected="yes" connect="NT.Heb.1_c25" structure="conj-S-C">
+    <clause_level>
+      <conj>
+        <w ref="NT.Heb.w148"/>
+      </conj>
+      <S>
+        <w ref="NT.Heb.w149"/>
+        <w ref="NT.Heb.w150"/>
+        <w ref="NT.Heb.w151"/>
+        <w ref="NT.Heb.w152"/>
+      </S>
+      <C>
+        <w ref="NT.Heb.w153"/>
+        <w ref="NT.Heb.w154"/>
+        <w ref="NT.Heb.w155"/>
+        <w ref="NT.Heb.w156"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg86">
+        <head>
+          <w ref="NT.Heb.w148"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg87">
+        <head>
+          <w ref="NT.Heb.w150">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w149"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Heb.w152">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Heb.w151"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg88">
+        <head>
+          <w ref="NT.Heb.w153">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Heb.w155">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Heb.w154"/>
+                    </specifier>
+                    <qualifier>
+                      <w ref="NT.Heb.w156"/>
+                    </qualifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w148" ref="NT.Heb.1.8">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w149" ref="NT.Heb.1.8">
+      <pos>
+        <ART num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w150" ref="NT.Heb.1.8">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="r(a/bdos" lex="ῥάβδος"></wf>
+      <sem>
+        <domain majorNum="6" subNum="218"/>
+        <domain majorNum="37" subNum="53"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w151" ref="NT.Heb.1.8">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w152" ref="NT.Heb.1.8">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="eu)qu/ths" lex="εὐθύτης"></wf>
+      <sem>
+        <domain majorNum="88" subNum="19"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w153" ref="NT.Heb.1.8">
+      <pos>
+        <NON num="sing" cas="nom" gen="fem"/>
+      </pos>
+      <wf betaLex="r(a/bdos" lex="ῥάβδος"></wf>
+      <sem>
+        <domain majorNum="6" subNum="218"/>
+        <domain majorNum="37" subNum="53"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w154" ref="NT.Heb.1.8">
+      <pos>
+        <ART num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w155" ref="NT.Heb.1.8">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="basilei/a" lex="βασιλεία"></wf>
+      <sem>
+        <domain majorNum="37" subNum="64"/>
+        <domain majorNum="1" subNum="82"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w156" ref="NT.Heb.1.8">
+      <pos>
+        <PRO num="sing" cas="gen" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c27" level="primary" projected="yes" connect="NT.Heb.1_c26" structure="P-C">
+    <clause_level>
+      <P>
+        <w ref="NT.Heb.w157"/>
+      </P>
+      <C>
+        <w ref="NT.Heb.w158"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg89">
+        <head>
+          <w ref="NT.Heb.w157"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg90">
+        <head>
+          <w ref="NT.Heb.w158"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w157" ref="NT.Heb.1.9">
+      <pos>
+        <VBF num="sing" per="2nd" voc="act" mod="ind" tf="aor"/>
+      </pos>
+      <wf betaLex="a)gapa/w" lex="ἀγαπάω"></wf>
+      <sem>
+        <domain majorNum="25" subNum="43 44 104"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w158" ref="NT.Heb.1.9">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="dikaiosu/nh" lex="δικαιοσύνη"></wf>
+      <sem>
+        <domain majorNum="88" subNum="13"/>
+        <domain majorNum="34" subNum="46"/>
+        <domain majorNum="53" subNum="4"/>
+        <domain majorNum="57" subNum="111"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c28" level="primary" projected="yes" connect="NT.Heb.1_c27" structure="conj-P-C">
+    <clause_level>
+      <conj>
+        <w ref="NT.Heb.w159"/>
+      </conj>
+      <P>
+        <w ref="NT.Heb.w160"/>
+      </P>
+      <C>
+        <w ref="NT.Heb.w161"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg91">
+        <head>
+          <w ref="NT.Heb.w159"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg92">
+        <head>
+          <w ref="NT.Heb.w160"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg93">
+        <head>
+          <w ref="NT.Heb.w161"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w159" ref="NT.Heb.1.9">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w160" ref="NT.Heb.1.9">
+      <pos>
+        <VBF num="sing" per="2nd" voc="act" mod="ind" tf="aor"/>
+      </pos>
+      <wf betaLex="mise/w" lex="μισέω"></wf>
+      <sem>
+        <domain majorNum="88" subNum="198"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w161" ref="NT.Heb.1.9">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="a)nomi/a" lex="ἀνομία"></wf>
+      <sem>
+        <domain majorNum="88" subNum="139"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c29" level="primary" projected="yes" connect="NT.Heb.1_c28" structure="A-P-C-S-A-A">
+    <clause_level>
+      <A>
+        <w ref="NT.Heb.w162"/>
+        <w ref="NT.Heb.w163"/>
+      </A>
+      <P>
+        <w ref="NT.Heb.w164"/>
+      </P>
+      <C>
+        <w ref="NT.Heb.w165"/>
+      </C>
+      <S>
+        <w ref="NT.Heb.w166"/>
+        <w ref="NT.Heb.w167"/>
+        <w ref="NT.Heb.w168"/>
+        <w ref="NT.Heb.w169"/>
+        <w ref="NT.Heb.w170"/>
+      </S>
+      <A>
+        <w ref="NT.Heb.w171"/>
+        <w ref="NT.Heb.w172"/>
+      </A>
+      <A>
+        <w ref="NT.Heb.w173"/>
+        <w ref="NT.Heb.w174"/>
+        <w ref="NT.Heb.w175"/>
+        <w ref="NT.Heb.w176"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg94">
+        <head>
+          <w ref="NT.Heb.w163">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w162"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg95">
+        <head>
+          <w ref="NT.Heb.w164"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg96">
+        <head>
+          <w ref="NT.Heb.w165"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg97">
+        <head>
+          <w ref="NT.Heb.w167">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w166"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg98">
+        <head>
+          <w ref="NT.Heb.w169">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w168"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Heb.w170"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg99">
+        <head>
+          <w ref="NT.Heb.w171">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Heb.w172"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg100">
+        <head>
+          <w ref="NT.Heb.w175">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w173"/>
+                <w ref="NT.Heb.w174"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Heb.w176"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w162" ref="NT.Heb.1.9">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="dia/" lex="διά"></wf>
+      <sem>
+        <domain majorNum="90" subNum="4 8 38 44"/>
+        <domain majorNum="89" subNum="76 26"/>
+        <domain majorNum="84" subNum="29 32"/>
+        <domain majorNum="67" subNum="136 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w163" ref="NT.Heb.1.9">
+      <pos>
+        <PRO num="sing" cas="acc" type="dem" gen="neu"/>
+      </pos>
+      <wf betaLex="ou(=tos" lex="οὗτος"></wf>
+      <sem>
+        <domain majorNum="92" subNum="29"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w164" ref="NT.Heb.1.9">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="aor"/>
+      </pos>
+      <wf betaLex="xri/w" lex="χρίω"></wf>
+      <sem>
+        <domain majorNum="37" subNum="107"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w165" ref="NT.Heb.1.9">
+      <pos>
+        <PRO num="sing" cas="acc" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w166" ref="NT.Heb.1.9">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w167" ref="NT.Heb.1.9">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w168" ref="NT.Heb.1.9">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w169" ref="NT.Heb.1.9">
+      <pos>
+        <NON num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="qeo/s" lex="θεός"></wf>
+      <sem>
+        <domain majorNum="12" subNum="1 22 25"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w170" ref="NT.Heb.1.9">
+      <pos>
+        <PRO num="sing" cas="gen" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w171" ref="NT.Heb.1.9">
+      <pos>
+        <NON num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="e)/laion" lex="ἔλαιον"></wf>
+      <sem>
+        <domain majorNum="6" subNum="202"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w172" ref="NT.Heb.1.9">
+      <pos>
+        <NON num="sing" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="a)galli/asis" lex="ἀγαλλίασις"></wf>
+      <sem>
+        <domain majorNum="25" subNum="132"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w173" ref="NT.Heb.1.9">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="para/" lex="παρά"></wf>
+      <sem>
+        <domain majorNum="83" subNum="25 9"/>
+        <domain majorNum="84" subNum="5"/>
+        <domain majorNum="90" subNum="14 3 20"/>
+        <domain majorNum="89" subNum="137 132 111 25"/>
+        <domain majorNum="78" subNum="29"/>
+        <domain majorNum="59" subNum="76"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w174" ref="NT.Heb.1.9">
+      <pos>
+        <ART num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w175" ref="NT.Heb.1.9">
+      <pos>
+        <ADJ num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="me/toxos" lex="μέτοχος"></wf>
+      <sem>
+        <domain majorNum="34" subNum="8"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w176" ref="NT.Heb.1.9">
+      <pos>
+        <PRO num="sing" cas="gen" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c30" level="primary" projected="yes" connect="NT.Heb.1_c29" structure="conj-S-A-add-C-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Heb.w177"/>
+      </conj>
+      <S>
+        <w ref="NT.Heb.w178"/>
+      </S>
+      <A>
+        <w ref="NT.Heb.w179"/>
+        <w ref="NT.Heb.w180"/>
+      </A>
+      <add>
+        <w ref="NT.Heb.w181"/>
+      </add>
+      <C>
+        <w ref="NT.Heb.w182"/>
+        <w ref="NT.Heb.w183"/>
+      </C>
+      <P>
+        <w ref="NT.Heb.w184"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg101">
+        <head>
+          <w ref="NT.Heb.w177"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg102">
+        <head>
+          <w ref="NT.Heb.w178"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg103">
+        <head>
+          <w ref="NT.Heb.w180">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w179"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg104">
+        <head>
+          <w ref="NT.Heb.w181"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg105">
+        <head>
+          <w ref="NT.Heb.w183">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w182"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg106">
+        <head>
+          <w ref="NT.Heb.w184"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w177" ref="NT.Heb.1.10">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w178" ref="NT.Heb.1.10">
+      <pos>
+        <PRO num="sing" cas="nom" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w179" ref="NT.Heb.1.10">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="kata/" lex="κατά"></wf>
+      <sem>
+        <domain majorNum="84" subNum="21 30 31"/>
+        <domain majorNum="83" subNum="45 12 44"/>
+        <domain majorNum="67" subNum="33 35"/>
+        <domain majorNum="90" subNum="29 31"/>
+        <domain majorNum="89" subNum="8 90 4 113"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w180" ref="NT.Heb.1.10">
+      <pos>
+        <NON num="plur" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="a)rxh/" lex="ἀρχή"></wf>
+      <sem>
+        <domain majorNum="68" subNum="1"/>
+        <domain majorNum="67" subNum="95"/>
+        <domain majorNum="89" subNum="16"/>
+        <domain majorNum="37" subNum="55 56"/>
+        <domain majorNum="12" subNum="44"/>
+        <domain majorNum="58" subNum="20"/>
+        <domain majorNum="79" subNum="106"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w181" ref="NT.Heb.1.10">
+      <pos>
+        <NON num="sing" cas="voc" gen="mas"/>
+      </pos>
+      <wf betaLex="ku/rios" lex="κύριος"></wf>
+      <sem>
+        <domain majorNum="12" subNum="9"/>
+        <domain majorNum="57" subNum="12"/>
+        <domain majorNum="37" subNum="51"/>
+        <domain majorNum="87" subNum="53"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w182" ref="NT.Heb.1.10">
+      <pos>
+        <ART num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w183" ref="NT.Heb.1.10">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="gh=" lex="γῆ"></wf>
+      <sem>
+        <domain majorNum="1" subNum="39 60 79"/>
+        <domain majorNum="2" subNum="14"/>
+        <domain majorNum="9" subNum="22"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w184" ref="NT.Heb.1.10">
+      <pos>
+        <VBF num="sing" per="2nd" voc="act" mod="ind" tf="aor"/>
+      </pos>
+      <wf betaLex="qemelio/w" lex="θεμελιόω"></wf>
+      <sem>
+        <domain majorNum="7" subNum="42"/>
+        <domain majorNum="31" subNum="94"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c31" level="primary" projected="yes" connect="NT.Heb.1_c30" structure="conj-C-P-S">
+    <clause_level>
+      <conj>
+        <w ref="NT.Heb.w185"/>
+      </conj>
+      <C>
+        <w ref="NT.Heb.w186"/>
+        <w ref="NT.Heb.w187"/>
+        <w ref="NT.Heb.w188"/>
+        <w ref="NT.Heb.w189"/>
+      </C>
+      <P>
+        <w ref="NT.Heb.w190"/>
+      </P>
+      <S>
+        <w ref="NT.Heb.w191"/>
+        <w ref="NT.Heb.w192"/>
+      </S>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg107">
+        <head>
+          <w ref="NT.Heb.w185"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg108">
+        <head>
+          <w ref="NT.Heb.w186">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Heb.w188">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Heb.w187"/>
+                    </specifier>
+                    <qualifier>
+                      <w ref="NT.Heb.w189"/>
+                    </qualifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg109">
+        <head>
+          <w ref="NT.Heb.w190"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg110">
+        <head>
+          <w ref="NT.Heb.w192">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w191"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w185" ref="NT.Heb.1.10">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w186" ref="NT.Heb.1.10">
+      <pos>
+        <NON num="plur" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="e)/rgon" lex="ἔργον"></wf>
+      <sem>
+        <domain majorNum="42" subNum="11 42 12"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w187" ref="NT.Heb.1.10">
+      <pos>
+        <ART num="plur" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w188" ref="NT.Heb.1.10">
+      <pos>
+        <NON num="plur" cas="gen" gen="fem"/>
+      </pos>
+      <wf betaLex="xei/r" lex="χείρ"></wf>
+      <sem>
+        <domain majorNum="8" subNum="30"/>
+        <domain majorNum="9" subNum="17"/>
+        <domain majorNum="76" subNum="3"/>
+        <domain majorNum="37" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w189" ref="NT.Heb.1.10">
+      <pos>
+        <PRO num="sing" cas="gen" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w190" ref="NT.Heb.1.10">
+      <pos>
+        <VBF augment="-" num="plur" per="3rd" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w191" ref="NT.Heb.1.10">
+      <pos>
+        <ART num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w192" ref="NT.Heb.1.10">
+      <pos>
+        <NON num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="ou)rano/s" lex="οὐρανός"></wf>
+      <sem>
+        <domain majorNum="1" subNum="5 11"/>
+        <domain majorNum="12" subNum="16"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c32" level="primary" projected="yes" connect="NT.Heb.1_c31" structure="S-P">
+    <clause_level>
+      <S>
+        <w ref="NT.Heb.w193"/>
+      </S>
+      <P>
+        <w ref="NT.Heb.w194"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg111">
+        <head>
+          <w ref="NT.Heb.w193"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg112">
+        <head>
+          <w ref="NT.Heb.w194"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w193" ref="NT.Heb.1.11">
+      <pos>
+        <PRO num="plur" cas="nom" type="int" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w194" ref="NT.Heb.1.11">
+      <pos>
+        <VBF num="plur" per="3rd" voc="mid" mod="ind" tf="fut"/>
+      </pos>
+      <wf betaLex="a)po/llumi" lex="ἀπόλλυμι"></wf>
+      <sem>
+        <domain majorNum="20" subNum="31"/>
+        <domain majorNum="57" subNum="67 68"/>
+        <domain majorNum="27" subNum="29"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c33" level="primary" projected="yes" connect="NT.Heb.1_c32" structure="S-conj-P">
+    <clause_level>
+      <S>
+        <w ref="NT.Heb.w195"/>
+      </S>
+      <conj>
+        <w ref="NT.Heb.w196"/>
+      </conj>
+      <P>
+        <w ref="NT.Heb.w197"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg113">
+        <head>
+          <w ref="NT.Heb.w195"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg114">
+        <head>
+          <w ref="NT.Heb.w196"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg115">
+        <head>
+          <w ref="NT.Heb.w197"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w195" ref="NT.Heb.1.11">
+      <pos>
+        <PRO num="sing" cas="nom" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w196" ref="NT.Heb.1.11">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w197" ref="NT.Heb.1.11">
+      <pos>
+        <VBF num="sing" per="2nd" voc="act" mod="ind" tf="pre"/>
+      </pos>
+      <wf betaLex="diame/nw" lex="διαμένω"></wf>
+      <sem>
+        <domain majorNum="34" subNum="3"/>
+        <domain majorNum="68" subNum="11"/>
+        <domain majorNum="13" subNum="89"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c34" level="primary" projected="yes" connect="NT.Heb.1_c33" structure="conj-S-A-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Heb.w198"/>
+      </conj>
+      <S>
+        <w ref="NT.Heb.w199"/>
+      </S>
+      <A>
+        <w ref="NT.Heb.w200"/>
+        <w ref="NT.Heb.w201"/>
+      </A>
+      <P>
+        <w ref="NT.Heb.w202"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg116">
+        <head>
+          <w ref="NT.Heb.w198"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg117">
+        <head>
+          <w ref="NT.Heb.w199"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg118">
+        <head>
+          <w ref="NT.Heb.w201">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w200"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg119">
+        <head>
+          <w ref="NT.Heb.w202"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w198" ref="NT.Heb.1.11">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w199" ref="NT.Heb.1.11">
+      <pos>
+        <ADJ num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" subNum="23 24"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w200" ref="NT.Heb.1.11">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="w(s" lex="ὡς"></wf>
+      <sem>
+        <domain majorNum="64" subNum="12"/>
+        <domain majorNum="90" subNum="21"/>
+        <domain majorNum="89" subNum="86 37 61 52"/>
+        <domain majorNum="67" subNum="45 139"/>
+        <domain majorNum="78" subNum="42 13"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w201" ref="NT.Heb.1.11">
+      <pos>
+        <NON num="sing" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="i(ma/tion" lex="ἱμάτιον"></wf>
+      <sem>
+        <domain majorNum="6" subNum="162 172"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w202" ref="NT.Heb.1.11">
+      <pos>
+        <VBF num="plur" per="3rd" voc="pas" mod="ind" tf="fut"/>
+      </pos>
+      <wf betaLex="palaio/w" lex="παλαιόω"></wf>
+      <sem>
+        <domain majorNum="67" subNum="103"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c35" level="primary" projected="yes" connect="NT.Heb.1_c34" structure="conj-A-P-C">
+    <clause_level>
+      <conj>
+        <w ref="NT.Heb.w203"/>
+      </conj>
+      <A>
+        <w ref="NT.Heb.w204"/>
+        <w ref="NT.Heb.w205"/>
+      </A>
+      <P>
+        <w ref="NT.Heb.w206"/>
+      </P>
+      <C>
+        <w ref="NT.Heb.w207"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg120">
+        <head>
+          <w ref="NT.Heb.w203"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg121">
+        <head>
+          <w ref="NT.Heb.w205">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w204"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg122">
+        <head>
+          <w ref="NT.Heb.w206"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg123">
+        <head>
+          <w ref="NT.Heb.w207"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w203" ref="NT.Heb.1.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w204" ref="NT.Heb.1.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="w(sei/" lex="ὡσεί"></wf>
+      <sem>
+        <domain majorNum="64" subNum="12"/>
+        <domain majorNum="78" subNum="42"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w205" ref="NT.Heb.1.12">
+      <pos>
+        <NON num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="peribo/laion" lex="περιβόλαιον"></wf>
+      <sem>
+        <domain majorNum="6" subNum="163 172"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w206" ref="NT.Heb.1.12">
+      <pos>
+        <VBF num="sing" per="2nd" voc="act" mod="ind" tf="fut"/>
+      </pos>
+      <wf betaLex="e(li/ssw" lex="ἑλίσσω"></wf>
+      <sem>
+        <domain majorNum="79" subNum="120"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w207" ref="NT.Heb.1.12">
+      <pos>
+        <PRO num="plur" cas="acc" type="per" gen="mas"/>
+      </pos>
+      <wf betaLex="e(autou=" lex="ἑαυτοῦ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="25"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c36" level="primary" projected="yes" connect="NT.Heb.1_c35" structure="A-conj-P">
+    <clause_level>
+      <A>
+        <w ref="NT.Heb.w208"/>
+        <w ref="NT.Heb.w209"/>
+      </A>
+      <conj>
+        <w ref="NT.Heb.w210"/>
+      </conj>
+      <P>
+        <w ref="NT.Heb.w211"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg124">
+        <head>
+          <w ref="NT.Heb.w209">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w208"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg125">
+        <head>
+          <w ref="NT.Heb.w210"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg126">
+        <head>
+          <w ref="NT.Heb.w211"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w208" ref="NT.Heb.1.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="w(s" lex="ὡς"></wf>
+      <sem>
+        <domain majorNum="64" subNum="12"/>
+        <domain majorNum="90" subNum="21"/>
+        <domain majorNum="89" subNum="86 37 61 52"/>
+        <domain majorNum="67" subNum="45 139"/>
+        <domain majorNum="78" subNum="42 13"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w209" ref="NT.Heb.1.12">
+      <pos>
+        <NON num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="i(ma/tion" lex="ἱμάτιον"></wf>
+      <sem>
+        <domain majorNum="6" subNum="162 172"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w210" ref="NT.Heb.1.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w211" ref="NT.Heb.1.12">
+      <pos>
+        <VBF num="plur" per="3rd" voc="pas" mod="ind" tf="fut"/>
+      </pos>
+      <wf betaLex="a)lla/ssw" lex="ἀλλάσσω"></wf>
+      <sem>
+        <domain majorNum="58" subNum="43"/>
+        <domain majorNum="57" subNum="142"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c37" level="primary" projected="yes" connect="NT.Heb.1_c36" structure="S-conj-C-P">
+    <clause_level>
+      <S>
+        <w ref="NT.Heb.w212"/>
+      </S>
+      <conj>
+        <w ref="NT.Heb.w213"/>
+      </conj>
+      <C>
+        <w ref="NT.Heb.w214"/>
+        <w ref="NT.Heb.w215"/>
+      </C>
+      <P>
+        <w ref="NT.Heb.w216"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg127">
+        <head>
+          <w ref="NT.Heb.w212"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg128">
+        <head>
+          <w ref="NT.Heb.w213"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg129">
+        <head>
+          <w ref="NT.Heb.w215">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w214"/>
+              </specifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg130">
+        <head>
+          <w ref="NT.Heb.w216"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w212" ref="NT.Heb.1.12">
+      <pos>
+        <PRO num="sing" cas="nom" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w213" ref="NT.Heb.1.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w214" ref="NT.Heb.1.12">
+      <pos>
+        <ART num="sing" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w215" ref="NT.Heb.1.12">
+      <pos>
+        <PRO num="sing" cas="nom" type="int" gen="mas"/>
+      </pos>
+      <wf betaLex="au)to/s" lex="αὐτός"></wf>
+      <sem>
+        <domain majorNum="92" subNum="11 37"/>
+        <domain majorNum="58" subNum="31"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w216" ref="NT.Heb.1.12">
+      <pos>
+        <VBF augment="-" num="sing" per="2nd" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c38" level="primary" projected="yes" connect="NT.Heb.1_c37" structure="conj-S-A-P">
+    <clause_level>
+      <conj>
+        <w ref="NT.Heb.w217"/>
+      </conj>
+      <S>
+        <w ref="NT.Heb.w218"/>
+        <w ref="NT.Heb.w219"/>
+        <w ref="NT.Heb.w220"/>
+      </S>
+      <A>
+        <w ref="NT.Heb.w221"/>
+      </A>
+      <P>
+        <w ref="NT.Heb.w222"/>
+      </P>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg131">
+        <head>
+          <w ref="NT.Heb.w217"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg132">
+        <head>
+          <w ref="NT.Heb.w219">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w218"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Heb.w220"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg133">
+        <head>
+          <w ref="NT.Heb.w221"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg134">
+        <head>
+          <w ref="NT.Heb.w222"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w217" ref="NT.Heb.1.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="kai/" lex="καί"></wf>
+      <sem>
+        <domain majorNum="89" subNum="92 87 93"/>
+        <domain majorNum="91" subNum="12 1"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w218" ref="NT.Heb.1.12">
+      <pos>
+        <ART num="plur" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w219" ref="NT.Heb.1.12">
+      <pos>
+        <NON num="plur" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="e)/tos" lex="ἔτος"></wf>
+      <sem>
+        <domain majorNum="67" subNum="197"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w220" ref="NT.Heb.1.12">
+      <pos>
+        <PRO num="sing" cas="gen" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w221" ref="NT.Heb.1.12">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w222" ref="NT.Heb.1.12">
+      <pos>
+        <VBF num="plur" per="3rd" voc="act" mod="ind" tf="fut"/>
+      </pos>
+      <wf betaLex="e)klei/pw" lex="ἐκλείπω"></wf>
+      <sem>
+        <domain majorNum="57" subNum="46"/>
+        <domain majorNum="15" subNum="58"/>
+        <domain majorNum="68" subNum="86"/>
+        <domain majorNum="13" subNum="39"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c39" level="primary" connect="NT.Heb.1_c24" structure="A-(conj)-P-A">
+    <clause_level>
+      <A>
+        <w ref="NT.Heb.w223"/>
+        <w ref="NT.Heb.w224"/>
+        <conj type="embed" parent="NT.Heb.1_c39">
+          <w ref="NT.Heb.w225"/>
+        </conj>
+        <w ref="NT.Heb.w226"/>
+        <w ref="NT.Heb.w227"/>
+      </A>
+      <P>
+        <w ref="NT.Heb.w228"/>
+      </P>
+      <A>
+        <w ref="NT.Heb.w229"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg135">
+        <head>
+          <w ref="NT.Heb.w224">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w223"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Heb.w227">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Heb.w226"/>
+                    </specifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg136">
+        <head>
+          <w ref="NT.Heb.w225"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg137">
+        <head>
+          <w ref="NT.Heb.w228"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg138">
+        <head>
+          <w ref="NT.Heb.w229"/>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w223" ref="NT.Heb.1.13">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="pro/s" lex="πρός"></wf>
+      <sem>
+        <domain majorNum="84" subNum="18 23"/>
+        <domain majorNum="83" subNum="24 9"/>
+        <domain majorNum="90" subNum="58 25"/>
+        <domain majorNum="89" subNum="112 60 44 9 7"/>
+        <domain majorNum="67" subNum="162 16"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="90" subNum="20 33"/>
+        <domain majorNum="64" subNum="17"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w224" ref="NT.Heb.1.13">
+      <pos>
+        <PRO num="sing" cas="acc" type="rog" gen="mas"/>
+      </pos>
+      <wf betaLex="ti/s" lex="τίς"></wf>
+      <sem>
+        <domain majorNum="92" subNum="14"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w225" ref="NT.Heb.1.13">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="de/" lex="δέ"></wf>
+      <sem>
+        <domain majorNum="89" subNum="94 87 124"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w226" ref="NT.Heb.1.13">
+      <pos>
+        <ART num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w227" ref="NT.Heb.1.13">
+      <pos>
+        <NON num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="a)/ggelos" lex="ἄγγελος"></wf>
+      <sem>
+        <domain majorNum="33" subNum="195"/>
+        <domain majorNum="12" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w228" ref="NT.Heb.1.13">
+      <pos>
+        <VBF num="sing" per="3rd" voc="act" mod="ind" tf="per"/>
+      </pos>
+      <wf betaLex="le/gw" lex="λέγω"></wf>
+      <sem>
+        <domain majorNum="33" subNum="69 129 131 138 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w229" ref="NT.Heb.1.13">
+      <pos>
+        <ADV/>
+      </pos>
+      <wf betaLex="pote/" lex="ποτέ"></wf>
+      <sem>
+        <domain majorNum="67" subNum="30"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c40" level="primary" projected="yes" connect="NT.Heb.1_c39" structure="P-A">
+    <clause_level>
+      <P>
+        <w ref="NT.Heb.w230"/>
+      </P>
+      <A>
+        <w ref="NT.Heb.w231"/>
+        <w ref="NT.Heb.w232"/>
+        <w ref="NT.Heb.w233"/>
+      </A>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg139">
+        <head>
+          <w ref="NT.Heb.w230"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg140">
+        <head>
+          <w ref="NT.Heb.w232">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w231"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Heb.w233"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w230" ref="NT.Heb.1.13">
+      <pos>
+        <VBF voc="mop" num="sing" per="2nd" mod="imp" tf="pre"/>
+      </pos>
+      <wf betaLex="ka/qhmai" lex="κάθημαι"></wf>
+      <sem>
+        <domain majorNum="17" subNum="12"/>
+        <domain majorNum="85" subNum="63"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w231" ref="NT.Heb.1.13">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="e)k" lex="ἐκ"></wf>
+      <sem>
+        <domain majorNum="84" subNum="4"/>
+        <domain majorNum="89" subNum="25 77 85 121 142"/>
+        <domain majorNum="90" subNum="12 16"/>
+        <domain majorNum="63" subNum="20"/>
+        <domain majorNum="68" subNum="54"/>
+        <domain majorNum="67" subNum="33 131"/>
+        <domain majorNum="57" subNum="162"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w232" ref="NT.Heb.1.13">
+      <pos>
+        <ADJ num="plur" cas="gen" gen="neu"/>
+      </pos>
+      <wf betaLex="decio/s" lex="δεξιός"></wf>
+      <sem>
+        <domain majorNum="82" subNum="8"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w233" ref="NT.Heb.1.13">
+      <pos>
+        <PRO num="sing" cas="gen" per="1st" type="per"/>
+      </pos>
+      <wf betaLex="e)gw/" lex="ἐγώ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="1"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c41" level="secondary" projected="yes" connect="NT.Heb.1_c40" structure="conj-A-P-C-C">
+    <clause_level>
+      <conj>
+        <w ref="NT.Heb.w234"/>
+      </conj>
+      <A>
+        <w ref="NT.Heb.w235"/>
+      </A>
+      <P>
+        <w ref="NT.Heb.w236"/>
+      </P>
+      <C>
+        <w ref="NT.Heb.w237"/>
+        <w ref="NT.Heb.w238"/>
+        <w ref="NT.Heb.w239"/>
+      </C>
+      <C>
+        <w ref="NT.Heb.w240"/>
+        <w ref="NT.Heb.w241"/>
+        <w ref="NT.Heb.w242"/>
+        <w ref="NT.Heb.w243"/>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg141">
+        <head>
+          <w ref="NT.Heb.w234"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg142">
+        <head>
+          <w ref="NT.Heb.w235"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg143">
+        <head>
+          <w ref="NT.Heb.w236"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg144">
+        <head>
+          <w ref="NT.Heb.w238">
+            <modifiers>
+              <specifier>
+                <w ref="NT.Heb.w237"/>
+              </specifier>
+              <qualifier>
+                <w ref="NT.Heb.w239"/>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg145">
+        <head>
+          <w ref="NT.Heb.w240">
+            <modifiers>
+              <qualifier>
+                <w ref="NT.Heb.w242">
+                  <modifiers>
+                    <specifier>
+                      <w ref="NT.Heb.w241"/>
+                    </specifier>
+                    <qualifier>
+                      <w ref="NT.Heb.w243"/>
+                    </qualifier>
+                  </modifiers>
+                </w>
+              </qualifier>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w234" ref="NT.Heb.1.13">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="e(/ws" lex="ἕως"></wf>
+      <sem>
+        <domain majorNum="67" subNum="119 139"/>
+        <domain majorNum="84" subNum="19"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="59" subNum="21"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w235" ref="NT.Heb.1.13">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="a)/n" lex="ἄν"></wf>
+      <sem>
+        <domain majorNum="71" subNum="14 8"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w236" ref="NT.Heb.1.13">
+      <pos>
+        <VBF num="sing" per="1st" voc="act" mod="sub" tf="aor"/>
+      </pos>
+      <wf betaLex="ti/qhmi" lex="τίθημι"></wf>
+      <sem>
+        <domain majorNum="85" subNum="32"/>
+        <domain majorNum="37" subNum="96"/>
+        <domain majorNum="49" subNum="21"/>
+        <domain majorNum="33" subNum="151"/>
+        <domain majorNum="57" subNum="217"/>
+        <domain majorNum="13" subNum="9"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w237" ref="NT.Heb.1.13">
+      <pos>
+        <ART num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w238" ref="NT.Heb.1.13">
+      <pos>
+        <ADJ num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="e)xqro/s" lex="ἐχθρός"></wf>
+      <sem>
+        <domain majorNum="39" subNum="11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w239" ref="NT.Heb.1.13">
+      <pos>
+        <PRO num="sing" cas="gen" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w240" ref="NT.Heb.1.13">
+      <pos>
+        <NON num="sing" cas="acc" gen="neu"/>
+      </pos>
+      <wf betaLex="u(popo/dion" lex="ὑποπόδιον"></wf>
+      <sem>
+        <domain majorNum="6" subNum="117"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w241" ref="NT.Heb.1.13">
+      <pos>
+        <ART num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w242" ref="NT.Heb.1.13">
+      <pos>
+        <NON num="plur" cas="gen" gen="mas"/>
+      </pos>
+      <wf betaLex="pou/s" lex="πούς"></wf>
+      <sem>
+        <domain majorNum="8" subNum="49"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w243" ref="NT.Heb.1.13">
+      <pos>
+        <PRO num="sing" cas="gen" per="2nd" type="per"/>
+      </pos>
+      <wf betaLex="su/" lex="σύ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="6"/>
+      </sem>
+    </w>
+  </clause>
+  <clause xml:id="NT.Heb.1_c42" level="primary" connect="NT.Heb.1_c39" structure="A-S-P-C">
+    <clause_level>
+      <A>
+        <w ref="NT.Heb.w244"/>
+      </A>
+      <S>
+        <w ref="NT.Heb.w245"/>
+      </S>
+      <P>
+        <w ref="NT.Heb.w246"/>
+      </P>
+      <C>
+        <w ref="NT.Heb.w247"/>
+        <w ref="NT.Heb.w248"/>
+        <clause xml:id="NT.Heb.1_c43" level="embedded" structure="A-P-A">
+          <A>
+            <w ref="NT.Heb.w249"/>
+            <w ref="NT.Heb.w250"/>
+          </A>
+          <P>
+            <w ref="NT.Heb.w251"/>
+          </P>
+          <A>
+            <clause xml:id="NT.Heb.1_c44" level="embedded" structure="P-C">
+              <P>
+                <w ref="NT.Heb.w252"/>
+                <w ref="NT.Heb.w253"/>
+                <w ref="NT.Heb.w254"/>
+              </P>
+              <C>
+                <clause xml:id="NT.Heb.1_c45" level="embedded" structure="P-C">
+                  <P>
+                    <w ref="NT.Heb.w255"/>
+                  </P>
+                  <C>
+                    <w ref="NT.Heb.w256"/>
+                  </C>
+                </clause>
+              </C>
+            </clause>
+          </A>
+        </clause>
+      </C>
+    </clause_level>
+    <wordgroup_level>
+      <wgroup xml:id="NT.Heb.1_wg146">
+        <head>
+          <w ref="NT.Heb.w244"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg147">
+        <head>
+          <w ref="NT.Heb.w245"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg148">
+        <head>
+          <w ref="NT.Heb.w246"/>
+        </head>
+      </wgroup>
+      <wgroup xml:id="NT.Heb.1_wg149">
+        <head>
+          <w ref="NT.Heb.w248">
+            <modifiers>
+              <definer>
+                <w ref="NT.Heb.w247"/>
+                <clause xlink:href="NT.Heb.1_c43">
+                  <wgroup xml:id="NT.Heb.1_wg150">
+                    <head>
+                      <w ref="NT.Heb.w250">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Heb.w249"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Heb.1_wg151">
+                    <head>
+                      <w ref="NT.Heb.w251"/>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Heb.1_wg152">
+                    <head>
+                      <w ref="NT.Heb.w254">
+                        <modifiers>
+                          <specifier>
+                            <w ref="NT.Heb.w252"/>
+                            <w ref="NT.Heb.w253"/>
+                          </specifier>
+                        </modifiers>
+                      </w>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Heb.1_wg153">
+                    <head>
+                      <w ref="NT.Heb.w255"/>
+                    </head>
+                  </wgroup>
+                  <wgroup xml:id="NT.Heb.1_wg154">
+                    <head>
+                      <w ref="NT.Heb.w256"/>
+                    </head>
+                  </wgroup>
+                </clause>
+              </definer>
+            </modifiers>
+          </w>
+        </head>
+      </wgroup>
+    </wordgroup_level>
+    <w xml:id="NT.Heb.w244" ref="NT.Heb.1.14">
+      <pos>
+        <PAR/>
+      </pos>
+      <wf betaLex="ou)" lex="οὐ"></wf>
+      <sem>
+        <domain majorNum="69" subNum="3 11"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w245" ref="NT.Heb.1.14">
+      <pos>
+        <ADJ num="plur" cas="nom" gen="mas"/>
+      </pos>
+      <wf betaLex="pa=s" lex="πᾶς"></wf>
+      <sem>
+        <domain majorNum="59" subNum="23 24"/>
+        <domain majorNum="78" subNum="44"/>
+        <domain majorNum="63" subNum="2"/>
+        <domain majorNum="58" subNum="28"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w246" ref="NT.Heb.1.14">
+      <pos>
+        <VBF augment="-" num="plur" per="3rd" mod="ind"/>
+      </pos>
+      <wf betaLex="ei)mi/" lex="εἰμί"></wf>
+      <sem>
+        <domain majorNum="13" subNum="1 4 69 104"/>
+        <domain majorNum="85" subNum="1"/>
+        <domain majorNum="71" subNum="1"/>
+        <domain majorNum="58" subNum="67 68"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w247" ref="NT.Heb.1.14">
+      <pos>
+        <ADJ num="plur" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="leitourgiko/s" lex="λειτουργικός"></wf>
+      <sem>
+        <domain majorNum="35" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w248" ref="NT.Heb.1.14">
+      <pos>
+        <NON num="plur" cas="nom" gen="neu"/>
+      </pos>
+      <wf betaLex="pneu=ma" lex="πνεῦμα"></wf>
+      <sem>
+        <domain majorNum="12" subNum="18 33 37 42"/>
+        <domain majorNum="26" subNum="9"/>
+        <domain majorNum="30" subNum="6"/>
+        <domain majorNum="14" subNum="4"/>
+        <domain majorNum="23" subNum="186"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w249" ref="NT.Heb.1.14">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="ei)s" lex="εἰς"></wf>
+      <sem>
+        <domain majorNum="84" subNum="16 22"/>
+        <domain majorNum="83" subNum="47 13 9"/>
+        <domain majorNum="89" subNum="57 48 76"/>
+        <domain majorNum="90" subNum="23 59 30"/>
+        <domain majorNum="78" subNum="51"/>
+        <domain majorNum="13" subNum="62"/>
+        <domain majorNum="67" subNum="117 160 119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w250" ref="NT.Heb.1.14">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="diakoni/a" lex="διακονία"></wf>
+      <sem>
+        <domain majorNum="35" subNum="19 21 38"/>
+        <domain majorNum="46" subNum="13"/>
+        <domain majorNum="57" subNum="119"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w251" ref="NT.Heb.1.14">
+      <pos>
+        <VBP voc="mop" num="plur" cas="nom" gen="neu" tf="pre"/>
+      </pos>
+      <wf betaLex="a)poste/llw" lex="ἀποστέλλω"></wf>
+      <sem>
+        <domain majorNum="15" subNum="66 67"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w252" ref="NT.Heb.1.14">
+      <pos>
+        <PRP/>
+      </pos>
+      <wf betaLex="dia/" lex="διά"></wf>
+      <sem>
+        <domain majorNum="90" subNum="4 8 38 44"/>
+        <domain majorNum="89" subNum="76 26"/>
+        <domain majorNum="84" subNum="29 32"/>
+        <domain majorNum="67" subNum="136 140"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w253" ref="NT.Heb.1.14">
+      <pos>
+        <ART num="plur" cas="acc" gen="mas"/>
+      </pos>
+      <wf betaLex="o(" lex="ὁ"></wf>
+      <sem>
+        <domain majorNum="92" subNum="24"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w254" ref="NT.Heb.1.14">
+      <pos>
+        <VBP num="plur" cas="acc" voc="act" gen="mas" tf="pre"/>
+      </pos>
+      <wf betaLex="me/llw" lex="μέλλω"></wf>
+      <sem>
+        <domain majorNum="67" subNum="62 121"/>
+        <domain majorNum="71" subNum="36"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w255" ref="NT.Heb.1.14">
+      <pos>
+        <VBN voc="act" tf="pre"/>
+      </pos>
+      <wf betaLex="klhronome/w" lex="κληρονομέω"></wf>
+      <sem>
+        <domain majorNum="57" subNum="131 138"/>
+      </sem>
+    </w>
+    <w xml:id="NT.Heb.w256" ref="NT.Heb.1.14">
+      <pos>
+        <NON num="sing" cas="acc" gen="fem"/>
+      </pos>
+      <wf betaLex="swthri/a" lex="σωτηρία"></wf>
+      <sem>
+        <domain majorNum="21" subNum="18 25 26"/>
+      </sem>
+    </w>
+  </clause>
+</chapter>
